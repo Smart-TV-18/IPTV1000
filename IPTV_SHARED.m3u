@@ -1,14 +1,5 @@
 #EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz; http://gabbarit.drm-play.com/epg_1.xml.gz"
 
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://iptvshared.ucoz.net/20240413082653.png" group-title="ИНФО",HTTPS://T.ME/IPTV_SHARED
-https://iptvshared.ucoz.net/YouCut_20241002_033317533.mp4
-
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://iptvshared.ucoz.net/gen.php.png" group-title="ИНФО", Поддержка проекта
-https://iptvshared.ucoz.net/YouCut_20241002_025528018.mp4
-
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="ИНФО", ОБНОВЛЕНИЕ: 09.10.2024г
-https://river-1.rutube.ru/hls-vod/yXLWPZIwUJW4QXTj3tKG9w/1728240726/1859/0x5000c500e53c6fdf/8311ad94048f47808d4e72cc32aa7238.mp4.m3u8
-
 #EXTINF:-1 tvg-id="pervy" tvg-logo="http://i120.fastpic.org/big/2022/0731/5a/975757b7227dd15519c6a0e0d5f0065a.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Эфирные",Первый канал
 #EXTVLCOPT:http-user-agent=SmartTV
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
@@ -3967,3 +3958,24 @@ https://stream-msk-17.ott.tricolor.tv/dtv/id957_MSKSG-PVR-1--novoye_radio/01/pls
 
 #EXTINF:-1 tvg-logo="https://www.radiogrom.com/paint_new/logo__rus_big/buryad_fm.jpg" tvg-id="no_epg_radio" group-title="Радио", Буряд FM
 https://stream-msk-17.ott.tricolor.tv/dtv/id960_MSKSG-PVR-1--Buraad/01/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MjIxOTAwODkzMTAxOCIsImV4cCI6MTcyODc4MDIxNSwiaHdpZCI6IjVkNzc1ZmU4MjUwNmQyNTRkYjgyOTJlMTM1NTFhMjYwZDcxMjI0ZTQ2MmFmNjgzZTEwYzRjOTdiZjU4OGZlYWEiLCJsYXN0X3JlcV9kYXRlIjoxNzI4MTc1NDE1LCJzZXNzaW9uX2lkIjoiZDZiZTc4NGJjMDUyMDE5ZTMwYjQxMmFiY2E4ZDRlMmUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.aeb08byyvR72r04WrA3YOg7zWcHuMwwVgXGzoOHMOmU
+
+#EXTINF:0,Barely legal
+#EXTGRP:Для взрослых
+http://cdn.klimedia.space/lb/Barelylegal/index.m3u8?token=klimedia.space:ZmpqZmRkMHM5ZzhzZGdzc2c6ZmpqZmRkMHM5ZzhzZGdzc2c=
+#EXTINF:0,Playboy TV
+#EXTGRP:Для взрослых
+http://cdn.klimedia.space/lb/PlayboyTV/index.m3u8?token=klimedia.space:ZmpqZmRkMHM5ZzhzZGdzc2c6ZmpqZmRkMHM5ZzhzZGdzc2c=
+#EXTINF:0,Erox HD
+#EXTGRP:Для взрослых
+http://cdn.klimedia.space/lb/Erox/index.m3u8?token=klimedia.space:ZmpqZmRkMHM5ZzhzZGdzc2c6ZmpqZmRkMHM5ZzhzZGdzc2c=
+#EXTINF:0,Blue Hustler
+#EXTGRP:Для взрослых
+http://cdn.klimedia.space/lb/BlueHustler/index.m3u8?token=klimedia.space:ZmpqZmRkMHM5ZzhzZGdzc2c6ZmpqZmRkMHM5ZzhzZGdzc2c=
+#EXTINF:0,Русская Ночь
+#EXTGRP:Для взрослых
+http://cdn.klimedia.space/lb/RusskayaNoch/index.m3u8?token=klimedia.space:ZmpqZmRkMHM5ZzhzZGdzc2c6ZmpqZmRkMHM5ZzhzZGdzc2c=
+#EXTINF:0,Exxxotica HD
+#EXTGRP:Для взрослых
+http://cdn.klimedia.space/lb/Exxxotica/index.m3u8?token=klimedia.space:ZmpqZmRkMHM5ZzhzZGdzc2c6ZmpqZmRkMHM5ZzhzZGdzc2c=
+#EXTINF:-1,alensat.com
+Источник: https://tovarlive.ru/besplatnye-iptv-plejlisty-dlya-vzroslyh
