@@ -1657,102 +1657,14 @@ https://stream-msk-16.ott.tricolor.tv/dtv/id976_MSKSG-PVR-1--Kinozal_11/04/plst.
 #EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/captainvector/captainvector2208/captainvector220809083/189746183-filmstrip-and-popcorn-design.jpg" tvg-id="no_epg_cinema" group-title="Кинозалы 2", РЕТРО КИНО
 https://stream-msk-10.ott.tricolor.tv/dtv/id906_MSKSG-PVR-1--Kinozal_12/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MjIxOTAwODkzMTAxOCIsImV4cCI6MTcyODc4MDIxNSwiaHdpZCI6IjVkNzc1ZmU4MjUwNmQyNTRkYjgyOTJlMTM1NTFhMjYwZDcxMjI0ZTQ2MmFmNjgzZTEwYzRjOTdiZjU4OGZlYWEiLCJsYXN0X3JlcV9kYXRlIjoxNzI4MTc1NDE1LCJzZXNzaW9uX2lkIjoiZDZiZTc4NGJjMDUyMDE5ZTMwYjQxMmFiY2E4ZDRlMmUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.aeb08byyvR72r04WrA3YOg7zWcHuMwwVgXGzoOHMOmU
 
-
-#EXTINF:-1 tvg-id="cobramelodrama" tvg-name="cobra melodrama hd" group-title="Кинозалы Cobra",Cobra TV Melodrama
-http://158.101.194.132:8888/channel/n7ea363c/index.m3u8?q=fad979a1f444f2cd930b892c5a34db3e
-
-#EXTINF:-1 tvg-id="cobratriller" tvg-name="cobra thriller hd" group-title="Кинозалы Cobra",Cobra TV Thriller
-http://158.101.194.132:8888/channel/2cf0fdc0/index.m3u8?q=fad979a1f444f2cd930b892c5a34db3e
-
-#EXTINF:-1 tvg-id="cinema4k" tvg-name="prokop tv cinema 4k" group-title="Кинозалы Prokop",Prokop TV Cinema 4K
-http://158.101.194.132:8888/channel/1013044e/index.m3u8?q=fad979a1f444f2cd930b892c5a34db3e
-
-#EXTINF:-1 tvg-id="prokoptvcinemaqhd" tvg-name="prokop tv cinema 60 fps" group-title="Кинозалы Prokop",Prokop TV Cinema 60 FPS
-http://158.101.194.132:8888/channel/d39009a/index.m3u8?q=fad979a1f444f2cd930b892c5a34db3e
-
-#EXTINF:-1 tvg-id="prokoptvbest" tvg-name="prokop tv cinema best hd" group-title="Кинозалы Prokop",Prokop TV Cinema Best HD
-http://158.101.194.132:8888/channel/73c88541/index.m3u8?q=fad979a1f444f2cd930b892c5a34db3e
-#EXTINF:-1 tvg-id="prokoptvcomedy" tvg-name="prokop tv comedy hd" group-title="Кинозалы Prokop",Prokop TV Comedy HD
-http://158.101.194.132:8888/channel/49ffee0b/index.m3u8?q=fad979a1f444f2cd930b892c5a34db3e
-#EXTINF:-1 tvg-id="prokoptvcriminalhd" tvg-name="prokop tv criminal hd" group-title="Кинозалы Prokop",Prokop TV Criminal HD
-http://158.101.194.132:8888/channel/n7211b9ff/index.m3u8?q=fad979a1f444f2cd930b892c5a34db3e
-#EXTINF:-1 tvg-id="Prokop_Detektiv" tvg-name="prokop tv detektiv hd" group-title="Кинозалы Prokop",Prokop TV Detektiv HD
-http://158.101.194.132:8888/channel/4f7e6a3c/index.m3u8?q=fad979a1f444f2cd930b892c5a34db3e
-#EXTINF:-1 tvg-id="prokoptvdocuhd" tvg-name="prokop tv docu hd" group-title="Кинозалы Prokop",Prokop TV Docu HD
-http://158.101.194.132:8888/channel/4fe36de7/index.m3u8?q=fad979a1f444f2cd930b892c5a34db3e
-#EXTINF:-1 tvg-id="prokoptvfantazy" tvg-name="prokop tv fantazy hd" group-title="Кинозалы Prokop",Prokop TV Fantazy HD
-http://158.101.194.132:8888/channel/33922795/index.m3u8?q=fad979a1f444f2cd930b892c5a34db3e
-#EXTINF:-1 tvg-id="premiere" tvg-name="prokop tv hd ua" group-title="Кинозалы Prokop",Prokop TV HD UA
-http://158.101.194.132:8888/channel/n771e8988/index.m3u8?q=fad979a1f444f2cd930b892c5a34db3e
-#EXTINF:-1 tvg-id="ProkopTVrockconcert" tvg-name="prokop tv hard&heavy concerts hd" group-title="Кинозалы Prokop",Prokop TV Hard&Heavy Concerts HD
-http://158.101.194.132:8888/channel/7e96b4f3/index.m3u8?q=fad979a1f444f2cd930b892c5a34db3e
-#EXTINF:-1 tvg-id="hiphop" tvg-name="prokop tv hip hop" group-title="Кинозалы Prokop",Prokop TV Hip Hop
-http://158.101.194.132:8888/channel/19d07040/index.m3u8?q=fad979a1f444f2cd930b892c5a34db3e
-#EXTINF:-1 tvg-id="prokoptvhistory" tvg-name="prokop tv history hd" group-title="Кинозалы Prokop",Prokop TV History HD
-http://158.101.194.132:8888/channel/n22de8120/index.m3u8?q=fad979a1f444f2cd930b892c5a34db3e
-#EXTINF:-1 tvg-id="prokoptvhorror" tvg-name="prokop tv horror hd" group-title="Кинозалы Prokop",Prokop TV Horror HD
-http://158.101.194.132:8888/channel/4e9c155a/index.m3u8?q=fad979a1f444f2cd930b892c5a34db3e
-#EXTINF:-1 tvg-id="kungfu" tvg-name="prokop tv kung fu" group-title="Кинозалы Prokop",Prokop TV Kung Fu
-http://158.101.194.132:8888/channel/n32ff3a4c/index.m3u8?q=fad979a1f444f2cd930b892c5a34db3e
-#EXTINF:-1 tvg-id="prokoptvmusic" tvg-name="prokop tv music" group-title="Кинозалы Prokop",Prokop TV Music HD
-http://158.101.194.132:8888/channel/n54636a51/index.m3u8?q=fad979a1f444f2cd930b892c5a34db3e
-#EXTINF:-1 tvg-id="prokoptvnetflixserial" tvg-name="prokop tv netflix hd" group-title="Кинозалы Prokop",Prokop TV Netflix HD
-http://158.101.194.132:8888/channel/n3c8b78de/index.m3u8?q=fad979a1f444f2cd930b892c5a34db3e
-#EXTINF:-1 tvg-id="Newfilms" tvg-name="prokop tv new films hd" group-title="Кинозалы Prokop",Prokop TV New Films HD
-http://158.101.194.132:8888/channel/n7101713b/index.m3u8?q=fad979a1f444f2cd930b892c5a34db3e
-#EXTINF:-1 tvg-id="prokoptvrock" tvg-name="prokop tv rock" group-title="Кинозалы Prokop",Prokop TV Peters Pop Show
-http://158.101.194.132:8888/channel/70512bed/index.m3u8?q=fad979a1f444f2cd930b892c5a34db3e
-#EXTINF:-1 tvg-id="prokoptvserialhd" tvg-name="prokop tv serial hd" group-title="Кинозалы Prokop",Prokop TV Serial HD
-http://158.101.194.132:8888/channel/n71628730/index.m3u8?q=fad979a1f444f2cd930b892c5a34db3e
-#EXTINF:-1 tvg-id="prokoptvshow" tvg-name="prokop tv show hd" group-title="Кинозалы Prokop",Prokop TV Show HD
-http://158.101.194.132:8888/channel/5e18fd27/index.m3u8?q=fad979a1f444f2cd930b892c5a34db3e
-#EXTINF:-1 tvg-id="prokoptvSimpsonsUa" tvg-name="prokop tv simpsons hd ua" group-title="Кинозалы Prokop", Prokop Simpsons UA
-http://158.101.194.132:8888/channel/n1e38bc16/index.m3u8?q=fad979a1f444f2cd930b892c5a34db3e
-#EXTINF:-1 tvg-id="prokoptvskazkiussr" tvg-name="prokop tv сказки ссср" group-title="Кинозалы Prokop", Prokop Skazki
-http://158.101.194.132:8888/channel/n67d778cb/index.m3u8?q=fad979a1f444f2cd930b892c5a34db3e
-
-#EXTINF:-1 tvg-id="prokoptvcinemav" tvg-name="prokop tv вторая мировая" group-title="Кинозалы Prokop",Prokop TV Вторая мировая
-http://158.101.194.132:8888/channel/774be880/index.m3u8?q=fad979a1f444f2cd930b892c5a34db3e
-#EXTINF:-1 tvg-id="masyana" tvg-name="prokop tv масяня" group-title="Кинозалы Prokop", Prokop Masyanya
-http://158.101.194.132:8888/channel/20c200f0/index.m3u8?q=fad979a1f444f2cd930b892c5a34db3e
-
-#EXTINF:-1 tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" tvg-id="no_epg_cinema" group-title="Кинозалы PersikTV",Топ кино
-http://fs2.persik.by/TopKino_12/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" tvg-id="no_epg_cinema" group-title="Кинозалы PersikTV",Новое кино
-https://fs2.persik.by/NovoeKino8/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" tvg-id="no_epg_cinema" group-title="Кинозалы PersikTV",НОВИНКИ
-https://fs2.persik.by/Novinki8/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" tvg-id="no_epg_cinema" group-title="Кинозалы PersikTV",Киномикс
-https://fs2.persik.by/Kino_Miks10/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" tvg-id="no_epg_cinema" group-title="Кинозалы PersikTV",БОЕВИКИ
-http://fs2.persik.by/Boeviki_12/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" tvg-id="no_epg_cinema" tvg-name="семейные фильмы" group-title="Кинозалы PersikTV",Зарубежное кино
 http://fs2.persik.by/Zarubezhnoe_kino_9/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" tvg-id="no_epg_cinema" tvg-name="любовь и детективы" group-title="Кинозалы PersikTV",Любовь и Детективы
-http://fs2.persik.by/Lubov_Detektivi6/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" tvg-id="no_epg_cinema" tvg-name="путешествие во времени" group-title="Кинозалы PersikTV",Путешествие во времени
-http://fs2.persik.by/Puteshestvie_vo_vremeni9/index.m3u8
-#EXTINF:-1 tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" tvg-id="no_epg_cinema" tvg-name="fantasy" group-title="Кинозалы PersikTV",Fantasy
-https://fs2.persik.by/Fantasy2/index.m3u8
-#EXTINF:-1 tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" tvg-id="no_epg_cinema" tvg-name="вдохновение" group-title="Кинозалы PersikTV",Вдохновение HD
 https://fs2.persik.by/Vdohnovenie_12/index.m3u8
 #EXTINF:-1 tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" tvg-id="no_epg_cinema" tvg-name="фестивальное кино" group-title="Кинозалы PersikTV",Фестивальное кино
 https://fs2.persik.by/FestivalnoeKino8/index.m3u8
-#EXTINF:-1 tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" tvg-id="no_epg_cinema" tvg-name="фильмы катастрофы" group-title="Кинозалы PersikTV",Фильмы катастрофы
-http://fs2.persik.by/Filmy_katastrofy/index.m3u8
 #EXTINF:-1 tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" tvg-id="no_epg_cinema" group-title="Кинозалы PersikTV",Рекомендуем
 https://fs2.persik.by/Rekomenduem7/index.m3u8
-#EXTINF:-1 tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" tvg-id="no_epg_cinema" group-title="Кинозалы PersikTV",МОЛОДОСТЬ
-https://fs2.persik.by/Molodost7/index.m3u8
-#EXTINF:-1 tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" tvg-id="no_epg_cinema" tvg-name="отечественное кино" group-title="Кинозалы PersikTV",Отечественное кино HD
-https://fs2.persik.by/Otechestvennoe2/index.m3u8
 #EXTINF:-1 tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" tvg-id="no_epg_cinema" tvg-name="про родителей" group-title="Кинозалы PersikTV",Про родителей HD
 http://fs2.persik.by/Pro_roditeley8/index.m3u8
 #EXTINF:-1 tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" tvg-id="no_epg_cinema" tvg-name="в кругу семьи" group-title="Кинозалы PersikTV",В кругу семьи HD
@@ -1765,14 +1677,10 @@ http://fs2.persik.by/Semejnie_Filmy6/index.m3u8
 https://fs2.persik.by/Populyarnoe_Kino_10/index.m3u8
 #EXTINF:-1 tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" tvg-id="no_epg_cinema" group-title="Кинозалы PersikTV",Европейское кино
 https://fs2.persik.by/EvropejskoeKino14/index.m3u8
-#EXTINF:-1 tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" tvg-id="no_epg_cinema" group-title="Кинозалы PersikTV",Триллеры-Боевики
-http://fs2.persik.by/Trillery_Boeviki4/index.m3u8
-#EXTINF:-1 tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" tvg-id="no_epg_cinema" group-title="Кинозалы PersikTV",Триллеры США
-https://fs2.persik.by/Trillery_USA_11/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" tvg-id="no_epg_cinema" group-title="Кинозалы PersikTV",Триллеры-Драма
 http://fs2.persik.by/Trillery_Drama4/index.m3u8
-#EXTINF:-1 tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" tvg-id="no_epg_cinema" group-title="Кинозалы PersikTV",Психологические ужасы
-http://fs2.persik.by/Psihologicheskie_uzhasy5/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" tvg-id="no_epg_cinema" group-title="Кинозалы PersikTV",Американские комедии
 https://fs2.persik.by/Amerikanskie_Komedii_12/index.m3u8
 #EXTINF:-1 tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" tvg-id="no_epg_cinema" group-title="Кинозалы PersikTV",Маньяки
@@ -1781,8 +1689,7 @@ http://fs2.persik.by/Manjaki6/index.m3u8
 https://fs2.persik.by/Relax3/index.m3u8
 #EXTINF:-1 tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" tvg-id="no_epg_cinema" group-title="Кинозалы PersikTV",Вторая мировая
 http://fs2.persik.by/Vtoraja_Mirovaja_7/index.m3u8
-#EXTINF:-1 tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" tvg-id="no_epg_cinema" group-title="Кинозалы PersikTV",Советские комедии
-http://fs2.persik.by/Soviet_Comedy10/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" tvg-id="no_epg_cinema" group-title="Кинозалы PersikTV",Новогодние фильмы
 http://fs2.persik.by/Novogodnie_Filmy_7/index.m3u8
 #EXTINF:-1 tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" tvg-id="no_epg_cinema" group-title="Кинозалы PersikTV",Рождественские фильмы
@@ -1791,42 +1698,27 @@ http://fs2.persik.by/Rozhdestvenskie_filmy5/index.m3u8
 http://fs2.persik.by/Druzhba7/index.m3u8
 #EXTINF:-1 tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" tvg-id="no_epg_cinema" group-title="Кинозалы PersikTV",Кино про дружбу
 http://fs2.persik.by/Pro_druzhbu7/index.m3u8
-#EXTINF:-1 tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" tvg-id="no_epg_cinema" group-title="Кинозалы PersikTV",МОЛОДОСТЬ
-http://fs2.persik.by/Molodost7/index.m3u8
-#EXTINF:-1 tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" tvg-id="no_epg_cinema" group-title="Кинозалы PersikTV",Кино + Subtitles
-http://fs2.persik.by/Kino_Subtitry_9/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" tvg-id="no_epg_cinema" group-title="Кинозалы PersikTV",Английские субтитры
 http://fs2.persik.by/Angliyskie_subtitry5/index.m3u8
 #EXTINF:-1 tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" tvg-id="no_epg_cinema" group-title="Кинозалы PersikTV",ФЕСТИВАЛЬНОЕ КИНО
 http://fs2.persik.by/FestivalnoeKino8/index.m3u8
-#EXTINF:-1 tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" tvg-id="no_epg_cinema" group-title="Кинозалы PersikTV",ЛЕГКОЕ КИНО
-http://fs2.persik.by/Legkoe_Kino7/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" tvg-id="no_epg_cinema" group-title="Кинозалы PersikTV",АНТИСТРЕСС
 http://fs2.persik.by/Kino_Antistress8/index.m3u8
-#EXTINF:-1 tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" tvg-id="no_epg_cinema" group-title="Кинозалы PersikTV",Новые комедии
-http://fs2.persik.by/Novie_Komedii6/index.m3u8
-#EXTINF:-1 tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" tvg-id="no_epg_cinema" group-title="Кинозалы PersikTV",Комедийные сериалы
-http://fs2.persik.by/Komedijnie_seriali5/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" tvg-id="no_epg_cinema" group-title="Кинозалы PersikTV",ДАВАЙ ПОЖЕНИМСЯ
 http://fs2.persik.by/Davaj_Pozhenimsya6/index.m3u8
 #EXTINF:-1 tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" tvg-id="no_epg_cinema" group-title="Кинозалы PersikTV",РОМАНТИЧЕСКИЕ
 https://fs2.persik.by/Romanticheskie8/index.m3u8
-#EXTINF:-1 tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" tvg-id="no_epg_cinema" group-title="Кинозалы PersikTV",НОВИНКИ
-http://fs2.persik.by/Novinki8/index.m3u8
-#EXTINF:-1 tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" tvg-id="no_epg_cinema" group-title="Кинозалы PersikTV",Кино выходного дня
-http://fs2.persik.by/Kino_vihodnogo_dnia6/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" tvg-id="no_epg_cinema" group-title="Кинозалы PersikTV",Кино по книгам
 https://fs2.persik.by/Kino_po_knigam9/index.m3u8
 #EXTINF:-1 tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" tvg-id="no_epg_cinema" group-title="Кинозалы PersikTV",Зомби-апокалипсис
 http://fs2.persik.by/Zombi_apokalipsis7/index.m3u8
 #EXTINF:-1 tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" tvg-id="no_epg_cinema" group-title="Кинозалы PersikTV",Экранизации HD
 https://fs2.persik.by/Ekranizacii12/index.m3u8
-#EXTINF:-1 tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" tvg-id="no_epg_cinema" group-title="Кинозалы PersikTV",Известные актёры
-http://fs2.persik.by/Izvestnie_akteri4/index.m3u8
-#EXTINF:-1 tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" tvg-id="no_epg_cinema" group-title="Кинозалы PersikTV",PersikTV Леонов
-https://fs2.persik.by/Leonov_6/index.m3u8
-#EXTINF:-1 tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" tvg-id="no_epg_cinema" group-title="Кинозалы PersikTV",ВИЦИН
-http://fs2.persik.by/Vicin_7/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" tvg-id="no_epg_cinema" group-title="Кинозалы PersikTV",МИРОНОВ
 https://fs2.persik.by/Mironov7/index.m3u8
 #EXTINF:-1 tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" tvg-id="no_epg_cinema" group-title="Кинозалы PersikTV",Аниме HD
@@ -2029,12 +1921,6 @@ http://stream2.cinerama.uz/1231/mono.m3u8
 #EXTINF:-1 group-title="Детские",Мультиландия
 http://stream2.cinerama.uz/1440/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Детские", Лёва
-http://92.118.134.244:8002/play/Leva_HD/index.m3u8
-
-#EXTINF:-1 group-title="Детские",СТС Kids
-http://77.243.112.149:8080/sts_kids/index.m3u8
-
 #EXTINF:-1 tvg-id="baby-time" tvg-logo="https://iptvx.one/picons/baby-time.png" group-title="Детские", Baby Time
 http://tv.newline.in.ua:9001/play/e00h
 
@@ -2065,9 +1951,6 @@ http://stream01.vnet.am/Channel_120/tracks-v1a2/mono.m3u8
 #EXTINF:-1 tvg-id="cartoon-network" group-title="Детские",Cartoon Network
 http://65.21.85.175:8000/play/a00i/index.m3u8?token=livetv
 
-#EXTINF:-1 group-title="Детские", Nickelodeon
-http://hls.seversk.ru:8080/play/a00t/index.m3u8
-
 #EXTINF:-1 group-title="Детские", Nickelodeon HD
 http://stream01.vnet.am/Channel_114/mono.m3u8
 
@@ -2080,9 +1963,6 @@ http://stream02.vnet.am/Boomerang/index.m3u8
 #EXTINF:-1 group-title="Детские" catchup="append" catchup-days="7" catchup-source="?start=${start}&end=${end}",TiJi
 https://strm.yandex.ru/kal/tiji_belarus/tiji_belarus0.m3u8
 
-#EXTINF:-1 group-title="Детские",СуперГерои
-http://77.243.112.149:8080/malish/index.m3u8
-
 #EXTINF:-1 group-title="Детские", КАПИТАН ФАНТАСТИКА HD
 http://stream2.cinerama.uz/1406/tracks-v1a1/mono.m3u8
 
@@ -2091,9 +1971,6 @@ http://stv.mediacdn.ru/live/cdn/ani/playlist_sdhigher.m3u8
 
 #EXTINF:-1 tvg-id="familyjam" group-title="Детские", FamilyJam
 http://88.218.242.237:8000/play/a00b
-
-#EXTINF:-1 tvg-id="no_epg_mult" tvg-logo="https://i.pinimg.com/736x/3e/ca/17/3eca1736e11970b4c6d2ce0db9710a71.jpg" group-title="Детские", Планета Дети
-http://193.242.204.28:10119/119
 
 #EXTINF:-1 tvg-id="cartoon-classics" group-title="Детские", Cartoon Classics
 http://88.218.242.237:8000/play/a00f
@@ -2517,9 +2394,6 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.
 #EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2019/11/Deluxe-Musik-logo.png" group-title="Музыкальные",Deluxe Music TV
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 
-#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2023/01/DLX_ROCK_LOGO_RGB-1.png" group-title="Музыкальные",Deluxe Rock
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/65181/65181_264_live.m3u8
-
 #EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://tv2free.ru/sites/default/files/styles/medium/public/tv-logo/tv-mafi2a-tv_2.jpg" group-title="Музыкальные",Mafi2a Music TV
 http://158.101.194.132:8080/channel/n5a0c5a33/index.m3u8?q=5656d7c7c902657d3491c0330b58ec0e
 
@@ -2589,9 +2463,6 @@ https://stream-msk-10.ott.tricolor.tv/dtv/id384_MSKSG-PVR-1--T_r_strana_fm/04/pl
 #EXTINF:-1 tvg-id="no_epg_music" tvg-logo="http://i114.fastpic.ru/big/2021/0209/e3/411906b8ef8f41c95f5ead2c793a02e3.png" group-title="Музыкальные",Kronehit HD
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
 
-#EXTINF:-1 tvg-id="mtv-hits" group-title="Музыкальные", MTV Hits
-http://5.206.237.85:8600/play/a028/index.m3u8
-
 #EXTINF:-1 tvg-id="mtv-live-hd" group-title="Музыкальные", MTV Live HD
 http://stream01.vnet.am/Channel_117/mono.m3u8
 
@@ -2605,24 +2476,6 @@ http://fl5.moveonjoy.com/MTV_CLASSIC/index.m3u8
 #EXTINF:-1 tvg-id="muztv" group-title="Музыкальные", Муз ТВ
 #EXTVLCOPT:http-user-agent=SmartTV
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
-
-#EXTINF:-1 tvg-id="1hd" group-title="Музыкальные",1HD Music
-http://77.243.112.149:8080/1hd/index.m3u8
-
-#EXTINF:-1 tvg-id="mcm-top" group-title="Музыкальные",MCM Top
-http://45.93.46.27:8887/8351/index.m3u8?token=test
-
-#EXTINF:-1 group-title="Музыкальные",Первый музыкальный RU
-http://rtmp.one.by:2200
-
-#EXTINF:-1 group-title="Музыкальные",Первый музыкальный HD RU
-http://rtmp.one.by:2300
-
-#EXTINF:-1 group-title="Музыкальные",Первый музыкальный
-http://rtmp.one.by:1200
-
-#EXTINF:-1 group-title="Музыкальные",Первый музыкальный HD
-http://rtmp.one.by:1300
 
 #EXTINF:-1 tvg-id="russian-musicbox" group-title="Музыкальные",Russian MusicBox HD
 https://stream-msk-10.ott.tricolor.tv/dtv/id892_MSKSG-PVR-1--Russian_Musicbox_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MjIxOTAwODkzMTAxOCIsImV4cCI6MTcyODc4MDIxNSwiaHdpZCI6IjVkNzc1ZmU4MjUwNmQyNTRkYjgyOTJlMTM1NTFhMjYwZDcxMjI0ZTQ2MmFmNjgzZTEwYzRjOTdiZjU4OGZlYWEiLCJsYXN0X3JlcV9kYXRlIjoxNzI4MTc1NDE1LCJzZXNzaW9uX2lkIjoiZDZiZTc4NGJjMDUyMDE5ZTMwYjQxMmFiY2E4ZDRlMmUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.aeb08byyvR72r04WrA3YOg7zWcHuMwwVgXGzoOHMOmU
@@ -2679,9 +2532,6 @@ http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8
 #EXTINF:-1 tvg-id="acb-tv" group-title="Музыкальные",9 волна
 https://stream-msk-14.ott.tricolor.tv/dtv/id934_MSKSG-PVR-1--9_Volna/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MjIxOTAwODkzMTAxOCIsImV4cCI6MTcyODc4MDIxNSwiaHdpZCI6IjVkNzc1ZmU4MjUwNmQyNTRkYjgyOTJlMTM1NTFhMjYwZDcxMjI0ZTQ2MmFmNjgzZTEwYzRjOTdiZjU4OGZlYWEiLCJsYXN0X3JlcV9kYXRlIjoxNzI4MTc1NDE1LCJzZXNzaW9uX2lkIjoiZDZiZTc4NGJjMDUyMDE5ZTMwYjQxMmFiY2E4ZDRlMmUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.aeb08byyvR72r04WrA3YOg7zWcHuMwwVgXGzoOHMOmU
 
-#EXTINF:-1 tvg-logo="https://cdn2.vectorstock.com/i/1000x1000/95/16/logo-music-vector-8129516.jpg" tvg-id="no_epg_music" group-title="Музыкальные",Factoria TV
-https://eu1.servers10.com:8081/8010/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/19/91/d7/1991d7b82952f57c6a3231235d367a69.jpg" tvg-id="no_epg_music" group-title="Музыкальные",Ocko Star
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
 
@@ -2715,9 +2565,6 @@ https://fl1001.bozztv.com/ushba19/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="fashion-one-hd" group-title="Fashion",Fashion One HD
 http://stream-msk-12.ott.tricolor.tv/dtv/id405_MSKSG-PVR-1--HD_Fashion_one/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MjIxOTAwODkzMTAxOCIsImV4cCI6MTcyODc4MDIxNSwiaHdpZCI6IjVkNzc1ZmU4MjUwNmQyNTRkYjgyOTJlMTM1NTFhMjYwZDcxMjI0ZTQ2MmFmNjgzZTEwYzRjOTdiZjU4OGZlYWEiLCJsYXN0X3JlcV9kYXRlIjoxNzI4MTc1NDE1LCJzZXNzaW9uX2lkIjoiZDZiZTc4NGJjMDUyMDE5ZTMwYjQxMmFiY2E4ZDRlMmUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.aeb08byyvR72r04WrA3YOg7zWcHuMwwVgXGzoOHMOmU
 
-#EXTINF:-1 tvg-id="fashionbox-hd" tvg-logo="https://iptvx.one/picons/fashionbox-hd.png" group-title="Fashion", FashionBox HD
-http://188.190.222.48:8765/Fashionbox/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="https://iptvx.one/picons/fashion-tv.png" group-title="Fashion",Fashion Czech & Slovak
 http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 
@@ -2741,18 +2588,6 @@ https://fl1001.bozztv.com/ushba-t8/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="no_epg" group-title="Fashion" tvg-logo="https://iptvx.one/picons/fashion-tv.png" ,Мода 2
 https://fl1001.bozztv.com/ushba-m6/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="no_epg" group-title="Fashion" tvg-logo="https://iptvx.one/picons/fashion-tv.png" ,Мода 3
-https://fl1001.bozztv.com/ushba-m7/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="no_epg" group-title="Fashion" tvg-logo="https://iptvx.one/picons/fashion-tv.png" ,Мода 4
-https://fl1001.bozztv.com/ushba-m8/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="no_epg" group-title="Fashion" tvg-logo="https://iptvx.one/picons/fashion-tv.png" ,Мода 5
-https://fl1001.bozztv.com/ushba-m9/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="no_epg" group-title="Fashion" tvg-logo="https://iptvx.one/picons/fashion-tv.png" ,Мода 6
-https://fl1001.bozztv.com/ushba-m1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 catchup="append" tvg-logo="https://iptvx.one/picons/2na2-pl2.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",2x2 (+2)
 #EXTVLCOPT:http-user-agent=SmartTV
@@ -2997,21 +2832,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_U_4/variant.m3u8
 #EXTVLCOPT:http-user-agent=SmartTV
 http://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
 
-#EXTINF:-1 tvg-logo="https://dan-news.ru/storage/c/2022/02/15/1644911761_141773_87.jpg" tvg-id="no_epg_news" group-title="Региoнальные", 1 Республиканский
-http://iptv.mega.net.ru:8888/TVRU1/1_Respublikanskii/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://filarmonia-donetsk.ru/wp-content/uploads/2016/07/oplot.png" tvg-id="no_epg_news" group-title="Региoнальные", Оплот ТВ
-http://iptv4.mega.net.ru:8888/TVRU1/Oplot_HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://tvtvtv.ru/icons/oplot_2.png" tvg-id="no_epg_news" group-title="Региoнальные", Оплот 2
-http://iptv5.mega.net.ru:8888/TVRU1/Oplot_2/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://filarmonia-donetsk.ru/wp-content/uploads/2016/07/yunion2.png" tvg-id="no_epg_news" group-title="Региoнальные", Юнион
-http://iptv.mega.net.ru:8888/TVRU1/Union/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s00.yaplakal.com/pics/pics_original/3/4/2/5599243.png" tvg-id="no_epg_news" group-title="Региoнальные", Новороссия ТВ
-http://iptv4.mega.net.ru:8888/TVRU1/novorossiya/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/nts-sevastopol.png" tvg-id="nts-sevastopol" group-title="Региoнальные", НТС Севастополь
 http://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/chunklist.m3u8
 
@@ -3186,9 +3006,7 @@ http://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R02_GUBERNIA/variant.m3u8
 #EXTINF:-1 tvg-id="rgvk-dagestan" catchup="append" tvg-logo="http://fe-sth.svc.iptv.rt.ru:8080/images/hd/channel/broadcastChannel1494852045442.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региoнальные",РГВК Дагестан
 #EXTVLCOPT:http-user-agent=SmartTV
 http://rt-sth-mahachk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_MAHACHK_DAGESTAN/variant.m3u8
-#EXTINF:-1 tvg-id="no_epg" catchup="append" tvg-logo="https://i.ibb.co/mH4rjL7/c8a613b07d830e0669e05fd8b39eca9a.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региoнальные",Девон-инфо (Уфа)
-#EXTVLCOPT:http-user-agent=SmartTV
-http://s45177.cdn.ngenix.net/hls/CH_R02_DEVONINFO/variant.m3u8
+
 #EXTINF:-1 tvg-id="deviatka" catchup="append" tvg-logo="https://tvbesedka.com/Upload/2020/11/28/15/23/45/dd4a48f2-09c3-4285-8a25-67f9b740892d.jpg" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региoнальные",Девятка ТВ
 #EXTVLCOPT:http-user-agent=SmartTV
 http://rt-vlg-kirov-htlive.cdn.ngenix.net/hls/CH_R02_9TV/variant.m3u8
