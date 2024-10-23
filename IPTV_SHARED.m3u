@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz; http://gabbarit.drm-play.com/epg_1.xml.gz;"
 
-#EXTINF:-1 catchup="append" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Эфирные",ТВ-3
+#EXTINF:-1 group-title="Эфирные",ТВ-3
 https://salam-smr-53.rutube.ru/dive/river-2-103.rutube.ru/73RR6sBc73FpzPQ3CnzEXA/stream/genetta-522.ost.rutube.ru/a9RcZshXH3n2iIHdp-chUQ/1730288383/7bf12d9c050f9a7ef3728db5730432ae/720p_stream.m3u8
 
 #EXTINF:-1 tvg-id="tv3-ru-pl2" catchup="append" tvg-logo="https://iptvx.one/picons/tv3-ru-pl2.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Эфирные",ТВ3 (+2)
