@@ -655,7 +655,7 @@ http://stream2.cinerama.uz/1424/tracks-v1a1/mono.m3u8
 http://88.218.242.237:8000/play/a007
 
 #EXTINF:-1 group-title="Кино и сериалы",.black
-http://hls.seversk.ru:8080/play/a00i/index.m3u8
+https://tvcdnpotok.com/sony_turbo/index.m3u8?wmsAuthSign=a0c4663325a5607adad67e945836d6fd-1729687903-702i842i102i48
 
 #EXTINF:-1 tvg-id="tv1000-russkoe-kino" group-title="Кино и сериалы",Viju TV1000 Русское
 http://45.143.108.104/TV1000RU_HD/index.m3u8
