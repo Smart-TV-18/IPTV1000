@@ -461,6 +461,11 @@ http://stream01.vnet.am/KukhnyaTv/mono.m3u8
 #EXTINF:-1 tvg-id="food-network" group-title="Развлекательные", Food Network
 http://ott-cdn.ucom.am/s18/04.m3u8
 
+#EXTINF:-1 tvg-id="bobior" group-title="Познавательные",Бобёр
+https://tvcdnpotok.com/NDXl8gupB09Rrz5irnSn5w/189/1729689934/index.m3u8
+
+
+
 #EXTINF:-1 group-title="Познавательные",Viju History
 http://185.50.148.2:7703/ViasatHistory/index.m3u8
 
@@ -656,6 +661,27 @@ http://88.218.242.237:8000/play/a007
 
 #EXTINF:-1 group-title="Кино и сериалы", .Black
 https://tvcdnpotok.com/H5DFC8eIBK2NrH3Mm6duEg/577/1729687904/index.m3u8
+
+#EXTINF:-1 group-title="Кино и сериалы", Cinema
+https://tvcdnpotok.com/fny5R9LPEUtKfZdTnBahsQ/104/1729689951/index.m3u8
+
+#EXTINF:-1 group-title="Кино и сериалы", Дорама
+https://tvcdnpotok.com/l2vKf5vwIB9HIJ4C2kUeGQ/562/1729689965/index.m3u8
+
+#EXTINF:-1 group-title="Кино и сериалы", Еврокино
+https://tvcdnpotok.com/RCowQ5GTEIKKsFkZqgxMhQ/126/1729689978/index.m3u8
+
+#EXTINF:-1 group-title="Кино и сериалы", НСТ
+https://tvcdnpotok.com/5fLqg12Y4pVo3R2fLvBZZg/127/1729689995/index.m3u8
+
+#EXTINF:-1 group-title="Кино и сериалы", .Red 
+https://tvcdnpotok.com/wQmKuaxJrJovAxO8kOUD5Q/576/1729689999/index.m3u8
+
+#EXTINF:-1 group-title="Кино и сериалы", .Sci-Fi 
+https://tvcdnpotok.com/oYtMSFlRErEjUrz6yQVn5A/145/1729690002/index.m3u8
+
+#EXTINF:-1 group-title="Кино и сериалы", Кино ТВ
+https://tvcdnpotok.com/6LPvOKaVgPx_6uIpvTbZdQ/504/1729690011/index.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы", Bollywood HD
 https://tvcdnpotok.com/Z9M1mbu8fD_KBI-thnByag/184/1729689608/index.m3u8
@@ -1341,6 +1367,9 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
 
 #EXTINF:-1 tvg-id="karusel-int" tvg-logo="http://only4.tv/ch/822.png" group-title="Детские", Карусель Международный
 https://cdn1.skygo.mn/live/disk1/Karusel/HLS-FTA/Karusel.m3u8
+
+#EXTINF:-1 tvg-id="smaylik-tv" group-title="Детские", Мама
+https://tvcdnpotok.com/puHtJKFlPOFwPCNayZN0VA/194/1729690039/index.m3u8
 
 #EXTINF:-1 tvg-id="smaylik-tv" group-title="Детские", Смайлик ТВ
 https://5d23269b3ec0c.streamlock.net/WEB_Smilik/Smilik.stream/playlist.m3u8
