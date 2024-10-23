@@ -1413,28 +1413,23 @@ https://5d23269b3ec0c.streamlock.net/WEB_Smilik/Smilik.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-name="2x2" , 2x2
 #EXTGRP: Детские
-#EXTGRP: Архивные ТВ
 #EXTVLCOPT:http-user-agent=SmartTV
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
 
 #EXTINF:-1 catchup="append" tvg-logo="https://iptvx.one/picons/2na2-pl2.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="2x2 (+2)",2x2 (+2)
 #EXTGRP: Детские
-#EXTGRP: Архивные ТВ
 #EXTVLCOPT:http-user-agent=SmartTV
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_2/variant.m3u8
 
 #EXTINF:-1 catchup="append" tvg-logo="https://iptvx.one/picons/2na2-pl4.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="2x2 (+4)",2x2 (+4)
 #EXTGRP: Детские
-#EXTGRP: Архивные ТВ
 #EXTVLCOPT:http-user-agent=SmartTV
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_4/variant.m3u8
 
 #EXTINF:-1 catchup="append" tvg-logo="https://iptvx.one/picons/2na2-pl7.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="2x2 (+7)",2x2 (+7)
 #EXTGRP: Детские
-#EXTGRP: Архивные ТВ
 #EXTVLCOPT:http-user-agent=SmartTV
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_7/variant.m3u8
-
 
 #EXTINF:-1 tvg-id="da-vinci" group-title="Детские", Да Винчи
 http://stream2.cinerama.uz/1231/mono.m3u8
