@@ -659,6 +659,18 @@ http://stream2.cinerama.uz/1424/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Феникс+ Кино
 http://88.218.242.237:8000/play/a007
 
+#EXTINF:-1 group-title="Кино и сериалы", Русский роман
+https://tvcdnpotok.com/AxShH08YCHvRX76OAI9Dgw/556/1729690042/index.m3u8
+
+#EXTINF:-1 group-title="Кино и сериалы", Страшное HD
+https://tvcdnpotok.com/im1JxV1msykKE8hMehRJUQ/517/1729690052/index.m3u8
+
+#EXTINF:-1 group-title="Кино и сериалы", Русский иллюзион
+https://tvcdnpotok.com/62o9i6Ft6BN775WTLL8t-w/131/1729690063/index.m3u8
+
+#EXTINF:-1 group-title="Кино и сериалы", Любимое кино
+https://tvcdnpotok.com/RN3RDZtxvZAg9yGnq3vq-w/534/1729690070/index.m3u8
+
 #EXTINF:-1 group-title="Кино и сериалы", .Black
 https://tvcdnpotok.com/H5DFC8eIBK2NrH3Mm6duEg/577/1729687904/index.m3u8
 
