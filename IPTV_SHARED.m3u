@@ -888,16 +888,19 @@ https://retrtb.educom.ru/mosobrtv/tv2/index.m3u8
 #EXTINF:-1 tvg-id="nasha-sibir" group-title="Познавательные", Наша Сибирь HD
 http://stream2.cinerama.uz/1424/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Кино и сериалы", Иллюзион Плюс
+#EXTINF:-1 tvg-id="Illusion-Plus" group-title="Кино и сериалы", Иллюзион Плюс
+#EXTVLCOPT:http-user-agent=SmartTV
 https://tvcdnpotok.com/dbiFxlnaUzt9OYfDwTBFhg/130/1729694478/index.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы",Феникс+ Кино
 http://88.218.242.237:8000/play/a007
 
 #EXTINF:-1 group-title="Кино и сериалы", Страшное HD
+#EXTVLCOPT:http-user-agent=SmartTV
 https://tvcdnpotok.com/cvGqk505Ls-KT6qyd4i4zQ/216/1729693669/index.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы", Русский роман
+#EXTVLCOPT:http-user-agent=SmartTV
 https://tvcdnpotok.com/AxShH08YCHvRX76OAI9Dgw/556/1729690042/index.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы", Русский бестселлер
