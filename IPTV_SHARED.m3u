@@ -889,14 +889,19 @@ https://retrtb.educom.ru/mosobrtv/tv2/index.m3u8
 http://stream2.cinerama.uz/1424/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы",Иллюзион +
-http://88.85.172.243:7004/play/a011
+http://91.207.115.228:12000/play/a04o
 
 #EXTINF:-1 group-title="Кино и сериалы",Феникс+ Кино
 http://88.218.242.237:8000/play/a007
 
+#EXTINF:-1 group-title="Кино и сериалы",Феникс Плюс Кино
+http://31.210.208.171:8080/fenixkino/index.m3u8?token=+W2MSER
+
+#EXTINF:-1 group-title="Кино и сериалы",Феникс Плюс Кино HD
+http://88.218.242.237:8000/play/a007
+
 #EXTINF:-1 group-title="Кино и сериалы", Страшное HD
-#EXTVLCOPT:http-user-agent=SmartTV
-https://tvcdnpotok.com/cvGqk505Ls-KT6qyd4i4zQ/216/1729693669/index.m3u8
+rtmp://5.182.229.90//7247
 
 #EXTINF:-1 group-title="Кино и сериалы", Русский роман
 #EXTVLCOPT:http-user-agent=SmartTV
@@ -927,22 +932,22 @@ https://v2.catcast.tv/content/41333/index.m3u8
 https://tvcdnpotok.com/RN3RDZtxvZAg9yGnq3vq-w/534/1729690070/index.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы", .Black
-https://tvcdnpotok.com/H5DFC8eIBK2NrH3Mm6duEg/577/1729687904/index.m3u8
+http://91.205.199.3/black/index.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы", Cinema
-https://tvcdnpotok.com/fny5R9LPEUtKfZdTnBahsQ/104/1729689951/index.m3u8
+http://193.242.204.28:10055/55
 
 #EXTINF:-1 group-title="Кино и сериалы", Еврокино
-https://tvcdnpotok.com/RCowQ5GTEIKKsFkZqgxMhQ/126/1729689978/index.m3u8
+http://185.50.148.2:7709/Evrokino/index.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы", НСТ
-https://tvcdnpotok.com/5fLqg12Y4pVo3R2fLvBZZg/127/1729689995/index.m3u8
+http://77.235.1.17/nst/index.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы", .Red 
 http://31.210.208.171:8080/set/index.m3u8?token=+W2MSER
 
 #EXTINF:-1 group-title="Кино и сериалы", .Sci-Fi 
-https://tvcdnpotok.com/oYtMSFlRErEjUrz6yQVn5A/145/1729690002/index.m3u8
+http://91.207.114.220:9001/play/a0ct/index.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы", Кино ТВ
 https://tvcdnpotok.com/6LPvOKaVgPx_6uIpvTbZdQ/504/1729690011/index.m3u8
