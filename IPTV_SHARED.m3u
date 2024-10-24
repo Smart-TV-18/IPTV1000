@@ -890,7 +890,7 @@ http://stream2.cinerama.uz/1424/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Illusion-Plus" group-title="Кино и сериалы", Иллюзион Плюс
 #EXTVLCOPT:http-user-agent=SmartTV
-http://sftr89en.edem.tv/iptv/EMUGZWHE6BTXV6/548/index.m3u8
+https://raw.githubusercontent.com/Smart-TV-18/IPTV1000/refs/heads/main/Illusion_Plus.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы",Феникс+ Кино
 http://88.218.242.237:8000/play/a007
