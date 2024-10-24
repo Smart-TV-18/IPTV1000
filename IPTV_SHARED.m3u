@@ -930,9 +930,6 @@ https://tvcdnpotok.com/H5DFC8eIBK2NrH3Mm6duEg/577/1729687904/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Cinema
 https://tvcdnpotok.com/fny5R9LPEUtKfZdTnBahsQ/104/1729689951/index.m3u8
 
-#EXTINF:-1 group-title="Кино и сериалы", Дорама
-https://tvcdnpotok.com/l2vKf5vwIB9HIJ4C2kUeGQ/562/1729689965/index.m3u8
-
 #EXTINF:-1 group-title="Кино и сериалы", Еврокино
 https://tvcdnpotok.com/RCowQ5GTEIKKsFkZqgxMhQ/126/1729689978/index.m3u8
 
@@ -1012,8 +1009,8 @@ http://88.218.242.237:8000/play/a00c
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/romance.png" tvg-id="romance" group-title="Кино и сериалы", Romance
 http://88.218.242.237:8000/play/a004
 
-#EXTINF:-1 group-title="Кино и сериалы" tvg-id="Dorama.ru" tvg-logo="https://i.imgur.com/ZH5LuXU.png" group-title="Movies" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",Дорама (1080p) [Not 24/7]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
+#EXTINF:-1 tvg-id="Dorama.ru" group-title="Кино и сериалы" tvg-logo="https://i.imgur.com/ZH5LuXU.png",Дорама
+#EXTVLCOPT:http-user-agent=SmartTV
 https://stream1.cinerama.uz/1273/index.m3u8
 
 #EXTINF:-1 tvg-id="atv-kinoman" group-title="Кино и сериалы",ATV Kinoman
