@@ -939,7 +939,7 @@ https://tvcdnpotok.com/RCowQ5GTEIKKsFkZqgxMhQ/126/1729689978/index.m3u8
 https://tvcdnpotok.com/5fLqg12Y4pVo3R2fLvBZZg/127/1729689995/index.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы", .Red 
-https://cdntv.online/hls/x4r6t9yfc3/97.m3u8
+http://31.210.208.171:8080/set/index.m3u8?token=+W2MSER
 
 #EXTINF:-1 group-title="Кино и сериалы", .Sci-Fi 
 https://tvcdnpotok.com/oYtMSFlRErEjUrz6yQVn5A/145/1729690002/index.m3u8
