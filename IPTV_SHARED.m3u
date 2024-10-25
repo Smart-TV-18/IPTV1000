@@ -912,7 +912,7 @@ http://u.vipl.one/high/x9scda3iu7/135.m3u8
 http://65.21.85.175:8000/play/a02a/index.m3u8?token=livetv
 
 #EXTINF:-1 group-title="Кино и сериалы", Русский иллюзион
-http://178.163.29.120:4022/udp/234.0.0.178:2000
+http://62.76.20.112:81/udp/239.195.4.57:1234
 #EXTINF:-1 group-title="Кино и сериалы", Шокирующее HD
 http://31.131.136.4:8001/play/e013
 
