@@ -915,7 +915,7 @@ http://api.peers.tv/timeshift/russian_illusion/16/playlist.m3u8?offset=3
 http://65.21.85.175:8000/play/a02a/index.m3u8?token=livetv
 
 #EXTINF:-1 group-title="Кино и сериалы", Русский иллюзион
-http://hls.novotelecom.ru/streaming/russian_illusion/tvrec/playlist.m3u8
+http://api.peers.tv/timeshift/russian_illusion/16/playlist.m3u8?offset=3
 
 #EXTINF:-1 group-title="Кино и сериалы", Шокирующее HD
 http://31.131.136.4:8001/play/e013
