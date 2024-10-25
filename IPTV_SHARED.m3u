@@ -894,9 +894,6 @@ http://91.207.115.228:12000/play/a04o
 #EXTINF:-1 group-title="Кино и сериалы",Феникс+ Кино
 http://88.218.242.237:8000/play/a007
 
-#EXTINF:-1 group-title="Кино и сериалы",Феникс Плюс Кино
-http://31.210.208.171:8080/fenixkino/index.m3u8?token=+W2MSER
-
 #EXTINF:-1 group-title="Кино и сериалы",Феникс Плюс Кино HD
 http://88.218.242.237:8000/play/a007
 
@@ -905,7 +902,11 @@ rtmp://5.182.229.90//7247
 
 #EXTINF:-1 group-title="Кино и сериалы", Русский роман
 #EXTVLCOPT:http-user-agent=SmartTV
-https://tvcdnpotok.com/AxShH08YCHvRX76OAI9Dgw/556/1729690042/index.m3u8
+http://91.142.158.107:8092/play/25/index.m3u8
+
+#EXTINF:-1 group-title="Кино и сериалы", Русский роман HD
+#EXTVLCOPT:http-user-agent=SmartTV
+http://65.21.85.175:8000/play/a00y/index.m3u8?token=livetv
 
 #EXTINF:-1 group-title="Кино и сериалы", Русский бестселлер
 https://tvcdnpotok.com/zyOOCbxlN-REM0Y28aSOIg/135/1729695234/index.m3u8
