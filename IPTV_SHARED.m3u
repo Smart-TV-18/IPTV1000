@@ -947,7 +947,7 @@ http://91.207.114.220:9001/play/a0ct/index.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы", Кино ТВ
 #EXTVLCOPT:http-user-agent=SmartTV
-https://ser.musical.uz/kinotv_web/tracks-v1a1/mono.m3u8?remote=84.201.248.207&token=384d90b656ebe046930e9d5ca043c4faf2cccfee-0574fe20e77e21175540ebfb22a187b1-1729868836-1729858036
+http://31.148.48.15/Kino_TV/tracks-v1a1/mono.m3u8?token=test
 
 #EXTINF:-1 group-title="Кино и сериалы", Bollywood HD
 https://tvcdnpotok.com/Z9M1mbu8fD_KBI-thnByag/184/1729689608/index.m3u8
