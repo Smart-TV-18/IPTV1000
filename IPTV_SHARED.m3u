@@ -945,7 +945,7 @@ http://31.210.208.171:8080/set/index.m3u8?token=+W2MSER
 http://91.207.114.220:9001/play/a0ct/index.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы", Кино ТВ
-http://hlstv.kem.211.ru/239.211.211.86/stream.m3u8
+https://ser2.musical.uz/tv/kinotv_web/index.m3u8?token=7294a377ae20464abcb572d72f36ff331deae06f-7bf0b8f64e2ac65b96db543c782747e2-1729868177-1729857377&remote=84.201.248.207
 
 #EXTINF:-1 group-title="Кино и сериалы", Bollywood HD
 https://tvcdnpotok.com/Z9M1mbu8fD_KBI-thnByag/184/1729689608/index.m3u8
