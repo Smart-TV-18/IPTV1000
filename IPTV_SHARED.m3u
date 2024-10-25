@@ -915,7 +915,7 @@ http://u.vipl.one/high/x9scda3iu7/135.m3u8
 http://65.21.85.175:8000/play/a02a/index.m3u8?token=livetv
 
 #EXTINF:-1 group-title="Кино и сериалы", Русский иллюзион
-http://50.7.188.186/Russkiy_illyuzion/mono.m3u8
+http://hls.novotelecom.ru/streaming/russian_illusion/tvrec/playlist.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы", Шокирующее HD
 http://31.131.136.4:8001/play/e013
