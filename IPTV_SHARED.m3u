@@ -930,7 +930,8 @@ http://ge-net.duckdns.org:7110/live?channel=19&client=15
 http://91.205.199.3/black/index.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы", Cinema
-https://api.alpaca.t62a.com/hls/9114/index.m3u8
+http://193.242.204.28:10055/55
+
 #EXTINF:-1 group-title="Кино и сериалы", Еврокино
 http://185.50.148.2:7709/Evrokino/index.m3u8
 
