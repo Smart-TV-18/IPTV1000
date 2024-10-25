@@ -909,7 +909,7 @@ http://91.142.158.107:8092/play/25/index.m3u8
 http://65.21.85.175:8000/play/a00y/index.m3u8?token=livetv
 
 #EXTINF:-1 group-title="Кино и сериалы", Русский бестселлер
-http://api.peers.tv/timeshift/russian_illusion/16/playlist.m3u8?offset=3
+http://u.vipl.one/high/x9scda3iu7/135.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы", Кинопоказ
 http://65.21.85.175:8000/play/a02a/index.m3u8?token=livetv
