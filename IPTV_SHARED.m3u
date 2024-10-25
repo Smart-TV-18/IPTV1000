@@ -930,6 +930,7 @@ http://ge-net.duckdns.org:7110/live?channel=19&client=15
 http://91.205.199.3/black/index.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы", Cinema
+#EXTVLCOPT:http-user-agent=SmartTV
 https://ser2.musical.uz/tv/cinem_web/index.m3u8?token=08c8a862186982e98e6fe16bb6da3e7eb46c8ccb-76d616395938c871ddb5a4a7117e297c-1729867949-1729857149&remote=84.201.248.207
 
 #EXTINF:-1 group-title="Кино и сериалы", Еврокино
@@ -945,6 +946,7 @@ http://31.210.208.171:8080/set/index.m3u8?token=+W2MSER
 http://91.207.114.220:9001/play/a0ct/index.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы", Кино ТВ
+#EXTVLCOPT:http-user-agent=SmartTV
 https://ser2.musical.uz/tv/kinotv_web/index.m3u8?token=7294a377ae20464abcb572d72f36ff331deae06f-7bf0b8f64e2ac65b96db543c782747e2-1729868177-1729857377&remote=84.201.248.207
 
 #EXTINF:-1 group-title="Кино и сериалы", Bollywood HD
