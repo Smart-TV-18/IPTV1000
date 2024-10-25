@@ -930,7 +930,7 @@ http://ge-net.duckdns.org:7110/live?channel=19&client=15
 http://91.205.199.3/black/index.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы", Cinema
-https://livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8
+https://ser2.musical.uz/tv/cinem_web/index.m3u8?token=08c8a862186982e98e6fe16bb6da3e7eb46c8ccb-76d616395938c871ddb5a4a7117e297c-1729867949-1729857149&remote=84.201.248.207
 
 #EXTINF:-1 group-title="Кино и сериалы", Еврокино
 http://185.50.148.2:7709/Evrokino/index.m3u8
