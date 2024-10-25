@@ -915,7 +915,7 @@ http://u.vipl.one/high/x9scda3iu7/135.m3u8
 http://65.21.85.175:8000/play/a02a/index.m3u8?token=livetv
 
 #EXTINF:-1 group-title="Кино и сериалы", Русский иллюзион
-https://sc.id-tv.kz:443/RusIlluzion_34_35.m3u8
+http://86.57.178.105:10823
 
 #EXTINF:-1 group-title="Кино и сериалы", Шокирующее HD
 http://31.131.136.4:8001/play/e013
@@ -948,7 +948,7 @@ http://31.210.208.171:8080/set/index.m3u8?token=+W2MSER
 http://91.207.114.220:9001/play/a0ct/index.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы", Кино ТВ
-https://tvcdnpotok.com/6LPvOKaVgPx_6uIpvTbZdQ/504/1729690011/index.m3u8
+http://31.148.48.15:80/Kino_TV_HD/index.m3u8?token=test
 
 #EXTINF:-1 group-title="Кино и сериалы", Bollywood HD
 https://tvcdnpotok.com/Z9M1mbu8fD_KBI-thnByag/184/1729689608/index.m3u8
