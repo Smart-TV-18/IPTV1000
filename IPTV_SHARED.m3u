@@ -930,8 +930,7 @@ http://ge-net.duckdns.org:7110/live?channel=19&client=15
 http://91.205.199.3/black/index.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы", Cinema
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4d878d3d19b30007d2e782/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c263252-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7c57f1f3-2078-4f92-a4b5-6cd444220a70
-
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/variant.m3u8?version=2
 #EXTINF:-1 group-title="Кино и сериалы", Еврокино
 http://185.50.148.2:7709/Evrokino/index.m3u8
 
