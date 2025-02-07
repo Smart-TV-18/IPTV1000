@@ -32,6 +32,9 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_8/variant.m3u8
 #EXTVLCOPT:http-user-agent=SmartTV
 https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_1TV/variant.m3u8
 
+
+
+
 #EXTINF:-1 group-title="Эфирные",ТВ3
 #EXTVLCOPT:http-user-agent=SmartTV
 https://salam-smr-53.rutube.ru/dive/river-2-103.rutube.ru/73RR6sBc73FpzPQ3CnzEXA/stream/genetta-522.ost.rutube.ru/a9RcZshXH3n2iIHdp-chUQ/1730288383/7bf12d9c050f9a7ef3728db5730432ae/720p_stream.m3u8
@@ -914,6 +917,26 @@ http://dmi3y-tv.ru/hls/CH_AMEDIAPREMIUMHD.m3u8
 #EXTGRP:Кино и сериалы
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 http://dmi3y-tv.ru/hls/zabava/CH_KINOMAN.m3u8
+
+#EXTINF:-1 tvg-name="Century20Studios" tvg-logo="https://i.ibb.co/7S90KR8/image-9.png" group-title="Кино и сериалы", Century20Studios
+#EXTGRP:Кино и сериалы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://hls.goodgame.ru/hls/210204.m3u8
+#EXTINF:-1 tvg-name="CINEMA" tvg-logo="https://i.ibb.co/Vv6mVpM/resize-8.png" group-title="Кино и сериалы", CINEMA
+#EXTGRP:Кино и сериалы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://dmi3y-tv.ru/hls/CH_CINEMA.m3u8
+#EXTINF:-1 tvg-name="Comedy Central" tvg-logo="https://i.ibb.co/r0QYJtr/resize-9.png" group-title="Кино и сериалы", Comedy Central
+#EXTGRP:Кино и сериалы
+http://ott.server-iptv.live/645/video.m3u8?token=Md7ac19a92
+#EXTINF:-1 tvg-name="DetectiveJam" tvg-logo="https://i.ibb.co/MPQPdYC/resize-10.png" group-title="Кино и сериалы", DetectiveJam
+#EXTGRP:Кино и сериалы
+http://de.iptv.monster/play/7311/F1B8D744B3A2467/video.m3u8
+#EXTINF:-1 tvg-name="Dn_russia" tvg-logo="https://i.postimg.cc/Z5fY8QRk/image-7.png" group-title="Кино и сериалы", Dn_russia
+#EXTGRP:Кино и сериалы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://hls.goodgame.ru/hls/210275.m3u8
+
 
 
 
