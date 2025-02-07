@@ -899,7 +899,7 @@ http://2f7b11c9.edemist.com/iptv/N8HKZ3DNUQKK2D/11069/index.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы", Русский роман
 #EXTVLCOPT:http-user-agent=SmartTV
-http://91.142.158.107:8092/play/25/index.m3u8
+http://live.admuspeh.my/8010/index.m3u8?token=iptv50na50
 
 #EXTINF:-1 group-title="Кино и сериалы", Русский роман HD
 #EXTVLCOPT:http-user-agent=SmartTV
