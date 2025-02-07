@@ -892,7 +892,7 @@ http://stream2.cinerama.uz/1424/tracks-v1a1/mono.m3u8
 http://185.23.80.28:8080/EuroKino/index.m3u8?token=test
 
 #EXTINF:-1 group-title="Кино и сериалы",Феникс+ Кино
-http://88.218.242.237:8000/play/a007
+https://hls.goodgame.ru/hls/204722.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы", Страшное HD
 rtmp://5.182.229.90//7247
