@@ -913,8 +913,7 @@ http://109.200.130.123:7537/play/a02s
 
 #EXTINF:-1 group-title="Кино и сериалы", Cinema
 #EXTVLCOPT:http-user-agent=SmartTV
-https://ser2.musical.uz/tv/cinem_web/index.m3u8?token=08c8a862186982e98e6fe16bb6da3e7eb46c8ccb-76d616395938c871ddb5a4a7117e297c-1729867949-1729857149&remote=84.201.248.207
-
+http://178.124.152.238:8088/cinema
 #EXTINF:-1 group-title="Кино и сериалы", Еврокино
 http://185.50.148.2:7709/Evrokino/index.m3u8
 
