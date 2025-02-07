@@ -32,8 +32,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_8/variant.m3u8
 https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_1TV/variant.m3u8
 
 
-
-
 #EXTINF:-1 group-title="Эфирные",ТВ3
 #EXTVLCOPT:http-user-agent=SmartTV
 https://salam-smr-53.rutube.ru/dive/river-2-103.rutube.ru/73RR6sBc73FpzPQ3CnzEXA/stream/genetta-522.ost.rutube.ru/a9RcZshXH3n2iIHdp-chUQ/1730288383/7bf12d9c050f9a7ef3728db5730432ae/720p_stream.m3u8
