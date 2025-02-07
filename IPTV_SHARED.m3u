@@ -896,7 +896,7 @@ http://31.210.208.171:8080/fenixkino/index.m3u8?token=+W2MSER
 
 
 #EXTINF:-1 group-title="Кино и сериалы",Страшное HD
-http://158.101.194.132:8080/channel/42c15d29/index.m3u8?q=5656d7c7c902657d3491c0330b58ec0e
+rtmp://5.182.229.90//7247
 
 
 #EXTINF:-1 group-title="Кино и сериалы", Русский роман
