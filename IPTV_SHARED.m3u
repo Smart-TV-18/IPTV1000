@@ -908,7 +908,7 @@ http://31.131.136.4:8001/play/e013
 https://v2.catcast.tv/content/41333/index.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы", Любимое кино
-http://127.0.0.1:6878/ace/getstream?infohash=2d5d33c8c011603172bf9d778d6d77dcce6e0aca
+http://s1.odinson.me/Tx1YUmxj2d/index.m3u8?token=ctusL4YsjAzDXaEX
 
 #EXTINF:-1 group-title="Кино и сериалы", .Black
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
