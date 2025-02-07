@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz; http://gabbarit.drm-play.com/epg_1.xml.gz;"
+#EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz; http://gabbarit.drm-play.com/epg_1.xml.gz; https://gabbarit.page.link/epg;"
 
 #EXTINF:-1 tvg-id="pervy" tvg-logo="http://i120.fastpic.org/big/2022/0731/5a/975757b7227dd15519c6a0e0d5f0065a.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Эфирные",Первый канал
 #EXTVLCOPT:http-user-agent=SmartTV
@@ -894,8 +894,11 @@ http://185.23.80.28:8080/Illyuzion+/index.m3u8?token=test
 #EXTINF:-1 group-title="Кино и сериалы",Феникс+ Кино
 http://31.210.208.171:8080/fenixkino/index.m3u8?token=+W2MSER
 
-#EXTINF:-1 group-title="Кино и сериалы", Страшное HD
-http://2f7b11c9.edemist.com/iptv/N8HKZ3DNUQKK2D/11069/index.m3u8
+
+#EXTINF:-1 tvg-id="strashnoe-hd" tvg-name="Страшное HD" group-title="Кино и сериалы", Страшное HD
+#EXTGRP:Кино и сериалы
+http://live.admuspeh.my/8198/index.m3u8?token=iptv50na50
+
 
 #EXTINF:-1 group-title="Кино и сериалы", Русский роман
 #EXTVLCOPT:http-user-agent=SmartTV
