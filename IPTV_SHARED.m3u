@@ -895,7 +895,7 @@ http://185.23.80.28:8080/EuroKino/index.m3u8?token=test
 http://31.210.208.171:8080/fenixkino/index.m3u8?token=+W2MSER
 
 #EXTINF:-1 group-title="Кино и сериалы", Страшное HD
-rtmp://5.182.229.90//7247
+http://127.0.0.1:6878/ace/getstream?infohash=9ac637b44ab67b62d2e195c2e2e15178f96cb548
 
 #EXTINF:-1 group-title="Кино и сериалы", Русский роман
 #EXTVLCOPT:http-user-agent=SmartTV
