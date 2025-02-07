@@ -947,7 +947,8 @@ http://77.235.1.17/nst/index.m3u8
 http://31.210.208.171:8080/set/index.m3u8?token=+W2MSER
 
 #EXTINF:-1 group-title="Кино и сериалы", .Sci-Fi 
-http://91.207.114.220:9001/play/a0ct/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://dmi3y-tv.ru/hls/CH_SCI-FI.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы", Кино ТВ
 #EXTVLCOPT:http-user-agent=SmartTV
