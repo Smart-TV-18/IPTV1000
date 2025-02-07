@@ -889,7 +889,8 @@ https://retrtb.educom.ru/mosobrtv/tv2/index.m3u8
 http://stream2.cinerama.uz/1424/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы",Иллюзион +
-http://91.207.115.228:12000/play/a04o
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://185.23.80.28:8080/EuroKino/index.m3u8?token=test
 
 #EXTINF:-1 group-title="Кино и сериалы",Феникс+ Кино
 http://88.218.242.237:8000/play/a007
