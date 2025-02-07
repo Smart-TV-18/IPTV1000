@@ -902,10 +902,6 @@ http://hls.goodgame.ru/hls/205072.m3u8
 #EXTGRP:Кино и сериалы
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/206963.m3u8
-#EXTINF:-1 tvg-name="Alpha Nature" tvg-logo="https://i.ibb.co/MBKGCq5/image-6.png" group-title="Кино и сериалы", Alpha Games
-#EXTGRP:Кино и сериалы
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-https://hls.goodgame.ru/hls/205115.m3u8
 
 #EXTINF:-1 tvg-name="Amedia 1 HD" tvg-logo="https://i.ibb.co/Xpdtgs9/resize-2.png" group-title="Кино и сериалы", Amedia 1 HD
 #EXTGRP:Кино и сериалы
