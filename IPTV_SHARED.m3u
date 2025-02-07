@@ -887,7 +887,9 @@ https://retrtb.educom.ru/mosobrtv/tv2/index.m3u8
 
 #EXTINF:-1 tvg-id="nasha-sibir" group-title="Познавательные", Наша Сибирь HD
 http://stream2.cinerama.uz/1424/tracks-v1a1/mono.m3u8
-
+#EXTINF:-1 tvg-name="FlixSnip" tvg-logo="https://i.ibb.co/HFxrW5s/resize-2.png" group-title="Кино и сериалы", FlixSnip
+#EXTGRP:Кино и сериалы
+http://185.50.148.2:7703/FlixSnip/index.m3u8
 #EXTINF:-1 tvg-name="Akudji" tvg-id="Akudji" tvg-logo="https://i.ibb.co/qrxJ7Fj/resize.png" group-title="Кино и сериалы", Akudji
 #EXTGRP:Кино и сериалы
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
