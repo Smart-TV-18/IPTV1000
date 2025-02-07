@@ -946,9 +946,11 @@ http://77.235.1.17/nst/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", .Red 
 http://31.210.208.171:8080/set/index.m3u8?token=+W2MSER
 
-#EXTINF:-1 group-title="Кино и сериалы", .Sci-Fi 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-http://dmi3y-tv.ru/hls/CH_SCI-FI.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", .Sci-Fi
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=0,BANDWIDTH=2883584
+http://45.159.74.14/Kinoseriya/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 group-title="Кино и сериалы", Кино ТВ
 #EXTVLCOPT:http-user-agent=SmartTV
