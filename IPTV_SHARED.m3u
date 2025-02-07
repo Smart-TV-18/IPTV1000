@@ -895,7 +895,7 @@ http://185.23.80.28:8080/Illyuzion+/index.m3u8?token=test
 http://31.210.208.171:8080/fenixkino/index.m3u8?token=+W2MSER
 
 #EXTINF:-1 group-title="Кино и сериалы", Страшное HD
-http://tv.newline.in.ua:8001/play/e00y
+http://live.admuspeh.my/8198/index.m3u8?token=iptv50na50
 
 #EXTINF:-1 group-title="Кино и сериалы", Русский роман
 #EXTVLCOPT:http-user-agent=SmartTV
