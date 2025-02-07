@@ -917,10 +917,7 @@ http://dmi3y-tv.ru/hls/CH_AMEDIAPREMIUMHD.m3u8
 #EXTGRP:Кино и сериалы
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 http://dmi3y-tv.ru/hls/zabava/CH_KINOMAN.m3u8
-#EXTINF:-1 tvg-name="Century20Studios" tvg-logo="https://i.ibb.co/7S90KR8/image-9.png" group-title="Кино и сериалы", Century20Studios
-#EXTGRP:Кино и сериалы
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-https://hls.goodgame.ru/hls/210204.m3u8
+
 #EXTINF:-1 tvg-name="CINEMA" tvg-logo="https://i.ibb.co/Vv6mVpM/resize-8.png" group-title="Кино и сериалы", CINEMA
 #EXTGRP:Кино и сериалы
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
@@ -935,13 +932,7 @@ http://de.iptv.monster/play/7311/F1B8D744B3A2467/video.m3u8
 #EXTGRP:Кино и сериалы
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/210275.m3u8
-#EXTINF:-1 tvg-name="Experience" tvg-logo="https://i.ibb.co/sC5DG5v/image-14.png" group-title="Кино и сериалы",Experience
-#EXTGRP:Кино и сериалы
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-https://hls.goodgame.ru/hls/209608.m3u8
-#EXTINF:-1 tvg-name="FamilyJam" tvg-logo="https://i.ibb.co/44WjpfH/resize-2024-10-03-T064656-936.png" group-title="Кино и сериалы", FamilyJam
-#EXTGRP:Кино и сериалы
-http://de.kineskop.club/site2/1808/1009756_c4a0cdbe72577186_0_0_fs2.m3u8
+
 #EXTINF:-1 tvg-name="Fan HD" tvg-logo="https://i.ibb.co/z2krrmH/resize-13.png" group-title="Кино и сериалы", Fan HD
 #EXTGRP:Кино и сериалы
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
