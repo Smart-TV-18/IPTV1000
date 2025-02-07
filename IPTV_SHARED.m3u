@@ -908,7 +908,8 @@ http://live.admuspeh.my/8010/index.m3u8?token=iptv50na50
 http://65.21.85.175:8000/play/a00y/index.m3u8?token=livetv
 
 #EXTINF:-1 group-title="Кино и сериалы", Русский бестселлер
-http://u.vipl.one/high/x9scda3iu7/135.m3u8
+http://178.57.121.38:8080/rusbest/index.m3u8?token=test
+#---http://92.53.64.197:5050/russkiy_bestseller/video.m3u8?token=m3VIth-Rou_bM1
 
 #EXTINF:-1 group-title="Кино и сериалы", Кинопоказ
 http://65.21.85.175:8000/play/a02a/index.m3u8?token=livetv
