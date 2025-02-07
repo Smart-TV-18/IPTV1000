@@ -918,7 +918,8 @@ http://178.124.152.238:8088/cinema
 http://185.50.148.2:7709/Evrokino/index.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы", НСТ
-http://77.235.1.17/nst/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://178.57.121.38:8080/nst/index.m3u8?token=test
 
 #EXTINF:-1 group-title="Кино и сериалы", .Red 
 http://31.210.208.171:8080/set/index.m3u8?token=+W2MSER
