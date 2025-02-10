@@ -488,23 +488,9 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_U_4/variant.m3u8
 #EXTVLCOPT:http-user-agent=SmartTV
 http://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
 
-#EXTINF:-1 tvg-id="womens-magazine" group-title="Развлекательные", Women's Magazine
-http://88.218.242.237:8000/play/a00l
-
 #EXTINF:-1 tvg-id="prodvizhenie" group-title="Развлекательные", Продвижение
 http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
 
-#EXTINF:-1 tvg-id="nostalgia" tvg-logo="https://iptvx.one/picons/nostalgia.png" group-title="Развлекательные", Ностальгия
-http://91.207.114.220:9001/play/a0d2/index.m3u8
-
-#EXTINF:-1 tvg-id="tvoetv-humor" tvg-logo="https://i.postimg.cc/85hJM1pk/Tvoe-TV-Umor.png" group-title="Развлекательные",Твоё ТВ HD Юмор
-http://tvoetv.space:8080/tvoetv_humor/index.m3u8
-
-#EXTINF:-1 tvg-id="perec-int" group-title="Развлекательные",Перец
-https://cdn1.skygo.mn/live/disk1/Che/HLS-FTA/Che.m3u8
-
-#EXTINF:-1 tvg-id="atv-filmzone" group-title="Развлекательные",ATV Filmzone
-http://45.159.74.13:80/Filmzone/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="kvn-tv" group-title="Развлекательные", КВН ТВ
 http://65.21.85.175:8000/play/a013/index.m3u8?token=livetv
@@ -525,8 +511,7 @@ http://stream01.vnet.am/KukhnyaTv/mono.m3u8
 #EXTINF:-1 tvg-id="food-network" group-title="Развлекательные", Food Network
 http://ott-cdn.ucom.am/s18/04.m3u8
 
-#EXTINF:-1 tvg-id="bobior" group-title="Познавательные",Бобёр
-https://tvcdnpotok.com/NDXl8gupB09Rrz5irnSn5w/189/1729689934/index.m3u8
+
 
 
 
@@ -542,62 +527,13 @@ http://185.50.148.2:7703/ViasatExplorer/index.m3u8
 #EXTINF:-1 tvg-id="terra-ru" group-title="Познавательные",Terra
 http://185.50.148.2:7707/NationalGeographic/index.m3u8
 
-#EXTINF:-1 tvg-id="terra-ru" group-title="Познавательные",Terra HD
-http://tv.newline.in.ua:9016/play/v01u
-
-#EXTINF:-1 tvg-id="tayna" group-title="Познавательные", Тайна
-https://tochkatv-live.cdnvideo.ru/tochkatv_pub/tainatv.stream_aac.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="docubox-hd" group-title="Познавательные", DocuBox
-http://tv.newline.in.ua:9009/play/a00l
-
-#EXTINF:-1 tvg-id="hgtv" group-title="Познавательные", HGTV HD [EN]
-http://31.131.136.4:8001/play/e017
-
-#EXTINF:-1 group-title="Познавательные", Nat Geo Wild
-http://stream2.cinerama.uz/1042/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="Познавательные", Nat Geo Wild HD
-http://stream2.cinerama.uz/1042/mono.m3u8
-
-#EXTINF:-1 tvg-id="national-geographic" group-title="Познавательные", National Geographic
-http://135.181.115.81:8000/play/a00a/index.m3u8?token=livetv
-
-#EXTINF:-1 tvg-id="national-geographic" group-title="Познавательные", National Geographic HD
-rtmp://5.182.229.90//7320
-
-#EXTINF:-1 group-title="Познавательные",Discovery Channel HD
-http://edge02.odtv.az/o5/discovery/playlist.m3u8
-
-#EXTINF:-1 tvg-id="discovery-science" group-title="Познавательные",Discovery Science
-http://stream2.cinerama.uz/1040/mono.m3u8
-
-#EXTINF:-1 tvg-id="id-xtra-eu" group-title="Познавательные", ID Xtra EU
-http://91.224.169.250:5000/c163
-
-#EXTINF:-1 tvg-id="id-xtra-eu" group-title="Познавательные", ID Xtra Европа
-http://tv.newline.in.ua:9023/play/d02l
-
 #EXTINF:-1 tvg-id="id-xtra-eu" group-title="Познавательные", ID Investigation Discovery EU
 http://stream01.vnet.am/InvestigationDiscovery/index.m3u8
 
-#EXTINF:-1 tvg-id="curiosity-stream" group-title="Познавательные", Curiosity Stream HD
-http://88.218.242.237:8000/play/a00j
 
 #EXTINF:-1 tvg-id="history" group-title="Познавательные", History
 http://65.21.85.175:8000/play/a01s/index.m3u8?token=livetv
 
-#EXTINF:-1 tvg-id="museum-4k" group-title="Познавательные", Museum 4K
-http://88.218.242.237:8000/play/a00g
-
-#EXTINF:-1 tvg-id="the-explorers" group-title="Познавательные", The Explorers HD
-http://88.218.242.237:8000/play/a00m
-
-#EXTINF:-1 tvg-id="voprosy-i-otvety" tvg-logo="https://iptvx.one/picons/voprosy-i-otvety.png" group-title="Познавательные", Вопросы и ответы
-http://stream2.cinerama.uz/1429/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="Познавательные",Поехали! HD
-https://cdn1.skygo.mn/live/disk1/Poehali/HLS-FTA/Poehali.m3u8
 
 #EXTINF:-1 tvg-id="tlc" group-title="Познавательные",TLC
 http://edge02.odtv.az/o5/tlc/playlist.m3u8
