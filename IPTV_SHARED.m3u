@@ -533,8 +533,6 @@ http://stream01.vnet.am/InvestigationDiscovery/index.m3u8
 #EXTINF:-1 tvg-id="history" group-title="Познавательные", History
 http://65.21.85.175:8000/play/a01s/index.m3u8?token=livetv
 
-#EXTINF:-1 tvg-id="tlc" group-title="Познавательные",TLC
-http://edge02.odtv.az/o5/tlc/playlist.m3u8
 #EXTINF:-1 tvg-name="Travel XP HD" tvg-logo="https://i.ibb.co/85VWJNR/resize-2024-10-11-T002233-613.png" group-title="Познавательные", Travel XP HD
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Viju Explore" tvg-logo="https://i.ibb.co/pbBwHnk/resize-2024-10-11-T002502-988.png" group-title="Познавательные", Viju Explore
