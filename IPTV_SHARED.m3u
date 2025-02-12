@@ -530,13 +530,16 @@ http://185.50.148.2:7707/NationalGeographic/index.m3u8
 #EXTINF:-1 tvg-id="id-xtra-eu" group-title="Познавательные", ID Investigation Discovery EU
 http://stream01.vnet.am/InvestigationDiscovery/index.m3u8
 
-
 #EXTINF:-1 tvg-id="history" group-title="Познавательные", History
 http://65.21.85.175:8000/play/a01s/index.m3u8?token=livetv
 
-
 #EXTINF:-1 tvg-id="tlc" group-title="Познавательные",TLC
 http://edge02.odtv.az/o5/tlc/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Бобер" tvg-id="bober" tvg-logo="https://i.ibb.co/XZ3xRXK/resize-2024-10-11-T003054-020.png" group-title="Познавательные", Бобер
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://130.193.73.10:8937/play/a02a
+
 
 #EXTINF:-1 tvg-id="tlc-blk" group-title="Познавательные",TLC HD BG
 http://91.207.115.228:12000/play/a043
