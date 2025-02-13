@@ -293,22 +293,7 @@ http://live24.trkcrimea.ru/24tvcrimea.m3u8
 
 
 
-#EXTINF:-1 tvg-id="PokerTV.fr" tvg-name="Poker TV [fr]" tvg-logo="https://i.ibb.co/D5VFG5n/image-66.png" group-title="Спортивные", 4sports
-#EXTGRP:Спортивные
-https://hls.pokertvfa.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="ASpor.tr" tvg-name="A Spor [tr]" tvg-logo="https://i.ibb.co/VW3cftz/image-32.png" group-title="Спортивные", A Spor [tr]
-#EXTGRP:Спортивные
-http://135.181.115.81:8000/play/a03h/index.m3u8?token=livetv
-#EXTINF:-1 tvg-id="AbuDhabiSports1.ae" tvg-name="AD Sports 1" tvg-logo="https://i.ibb.co/DWtL4Sw/resize-21.png" group-title="Спортивные", Abu Dhabi Sports 1
-#EXTGRP:Спортивные
-https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
-#EXTINF:-1 tvg-id="AbuDhabiSports1.ae" tvg-name="AD Sports 1" tvg-logo="https://i.ibb.co/DWtL4Sw/resize-21.png" group-title="Спортивные", Abu Dhabi Sports 2
-#EXTGRP:Спортивные
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-http://u2tp5zor.megatv.fun/iptv/B4T6V2NK5QQVXT/7264/index.m3u8
-#EXTINF:-1 tvg-id="ACCNetwork.us" tvg-name="ACCN" tvg-logo="https://i.ibb.co/kHmN61F/resize-30.png" group-title="Спортивные", ACC Network
-#EXTGRP:Спортивные
-http://fl2.moveonjoy.com/ACC_NETWORK/index.m3u8
+
 #EXTINF:-1 tvg-id="AdventureSportsTV.us" tvg-name="Adventure Sports TV [us]" tvg-logo="https://i.ibb.co/Fb70TdL/image-33.png" group-title="Спортивные", Adventure Sports TV
 #EXTGRP:Спортивные
 https://d3rl6ns7c3ilda.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-AdventureSportsTV/438.m3u8
@@ -318,30 +303,11 @@ https://edge17.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
 #EXTINF:-1 tvg-id="AfroSportNigeria.ng" tvg-name="AfroSport Nigeria [ng]" tvg-logo="https://i.ibb.co/KN66tX4/resize-31.png" group-title="Спортивные", AfroSport Nigeria [ng]
 #EXTGRP:Спортивные
 https://newproxy3.vidivu.tv/vidivu_afrosport/index.m3u8
-#EXTINF:-1 tvg-id="ArenaSport1.sk" tvg-name="Arena Sport 1 [sk]" tvg-logo="https://i.ibb.co/rb0MdnG/resize-22.png" group-title="Спортивные", Arena Sport 1
-#EXTGRP:Спортивные
-http://78.130.250.2:8023/play/a02o/index.m3u8
-#EXTINF:-1 tvg-id="ArenaSport2.si" tvg-name="Arena Sport 2 Slovenija" tvg-logo="https://i.ibb.co/nzQyyr2/image-38.png" group-title="Спортивные", Arena Sport 2
-#EXTGRP:Спортивные
-http://193.242.204.28:10098/98
-#EXTINF:-1 tvg-id="automotorundsportchannel.de" tvg-name="auto motor und sport channel [de]" tvg-logo="https://i.ibb.co/0ZvKYjt/resize-55.png" group-title="Спортивные", auto motor und sport channel
-#EXTGRP:Спортивные
-http://78.130.250.2:8023/play/a018/index.m3u8
+
 #EXTINF:-1 tvg-id="BahrainSports1.bh" tvg-name="Bahrain Sports 1 [bh]" tvg-logo="https://i.ibb.co/y5L9W5Q/resize-23.png" group-title="Спортивные", Bahrain Sports 1
 #EXTGRP:Спортивные
 https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
-#EXTINF:-1 tvg-id="BahrainSports2.bh" tvg-name="Bahrain Sports 2 [bh]" tvg-logo="https://i.ibb.co/y5L9W5Q/resize-23.png" group-title="Спортивные", Bahrain Sports 2
-#EXTGRP:Спортивные
-https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
-#EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us" tvg-name="beIN SPORTS XTRA en Español" tvg-logo="https://i.ibb.co/t8GBL3T/resize-33.png" group-title="Спортивные", beIN SPORTS XTRA en Espanol
-#EXTGRP:Спортивные
-https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
-#EXTINF:-1 tvg-id="BEKSportsWest.us" tvg-name="BEK Sports West [us]" tvg-logo="https://i.ibb.co/v49dfRn/image-39.png" group-title="Спортивные", BEK Sports West
-#EXTGRP:Спортивные
-https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="BilliardTV.us" tvg-name="Billiard TV [us]" tvg-logo="https://i.ibb.co/cTb8ncT/resize-34.png" group-title="Спортивные", Billiard TV
-#EXTGRP:Спортивные
-https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE_Max.m3u8
+
 #EXTINF:-1 tvg-id="BilliardTV.us" tvg-name="BOXING TV" tvg-logo="https://i.ibb.co/tMfBrbm/resize.png" group-title="Спортивные", BOXING TV
 #EXTGRP:Спортивные
 https://1180885077.rsc.cdn77.org/HLS/BOXINGTV.m3u8
@@ -354,63 +320,26 @@ http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="CDN Deportes" tvg-name="Colimdo TV [do]" tvg-logo="https://i.ibb.co/LnMpVgZ/resize-4.png" group-title="Спортивные", CDN Deportes
 #EXTGRP:Спортивные
 https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/transmuxv1/streams/bc949011-1dd8-4d10-596c-f6910d4a9cf7.m3u8
-#EXTINF:-1 tvg-id="ColimdoTV.do" tvg-name="Colimdo TV [do]" tvg-logo="https://i.ibb.co/cgV7d1n/image-43.png" group-title="Спортивные", Colimdo TV
-#EXTGRP:Спортивные
-https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8
-#EXTINF:-1 tvg-id="DongNaiTV2.vn" tvg-name="Đồng Nai TV 2" tvg-logo="https://i.ibb.co/3M4vgdv/resize-40.png" group-title="Спортивные", Dong Nai TV 2
-#EXTGRP:Спортивные
-http://stream.thingnet.vn:1935/live/smil:DNTV2.smil/playlist.m3u8
+
+
 #EXTINF:-1 tvg-id="DubaiSports1.ae" tvg-name="دبي الرياضية 1" tvg-logo="https://i.ibb.co/FHGjh4z/resize-26.png" group-title="Спортивные", Dubai Sports 1
 #EXTGRP:Спортивные
 https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="DubaiSports2.ae" tvg-name="دبي الرياضية 2" tvg-logo="https://i.ibb.co/FHGjh4z/resize-26.png" group-title="Спортивные", Dubai Sports 2
-#EXTGRP:Спортивные
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
+
 #EXTINF:-1 tvg-id="DubaiSports2.ae" tvg-name="دبي الرياضية 2" tvg-logo="https://i.ibb.co/FHGjh4z/resize-26.png" group-title="Спортивные", Dubai Sports 2
 #EXTGRP:Спортивные
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1300000.m3u8
-#EXTINF:-1 tvg-id="DubaiSports2.ae" tvg-name="دبي الرياضية 2" tvg-logo="https://i.ibb.co/FHGjh4z/resize-26.png" group-title="Спортивные", Dubai Sports 2
-#EXTGRP:Спортивные
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
+
 #EXTINF:-1 tvg-id="DubaiSports3.ae" tvg-name="دبي الرياضية 3" tvg-logo="https://i.ibb.co/FHGjh4z/resize-26.png" group-title="Спортивные", Dubai Sports 3
 #EXTGRP:Спортивные
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 tvg-id="DubaiSports3.ae" tvg-name="دبي الرياضية 3" tvg-logo="https://i.ibb.co/FHGjh4z/resize-26.png" group-title="Спортивные", Dubai Sports 3
-#EXTGRP:Спортивные
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
-#EXTINF:-1 tvg-id="ESPN3.br" tvg-name="ESPN 3 Brasil" tvg-logo="https://i.ibb.co/dbspZhV/resize-27.png" group-title="Спортивные", ESPN 3
-#EXTGRP:Спортивные
-http://181.78.105.146:2000/play/a03n/index.m3u8
-#EXTINF:-1 tvg-id="Eurosport1" tvg-name="Eurosport 1" tvg-logo="https://i.ibb.co/x6Qj0FN/resize-28.png" group-title="Спортивные", Eurosport 1
-#EXTGRP:Спортивные
-http://dmi3y-tv.ru/hls/CH_EUROSPORT1HD.m3u8
-#EXTINF:-1 tvg-id="Eurosport1.ru" tvg-name="Eurosport 1" tvg-logo="https://i.ibb.co/x6Qj0FN/resize-28.png" group-title="Спортивные", Eurosport 1 CEE
-#EXTGRP:Спортивные
-http://stream01.vnet.am/Eurosport/tracks-v1a2/mono.m3u8
-#EXTINF:-1 tvg-id="Eurosport2.ru" tvg-name="Eurosport 2" tvg-logo="https://i.ibb.co/p208S2f/resize-29.png" group-title="Спортивные", Eurosport 2 
-#EXTGRP:Спортивные
-http://95.142.88.250/Eurosport_2_HD/index.m3u8
-#EXTINF:-1 tvg-id="Eurosport2.ru" tvg-name="Eurosport 2" tvg-logo="https://i.ibb.co/p208S2f/resize-29.png" group-title="Спортивные", Eurosport 2 HD
-#EXTGRP:Спортивные
-http://cdn.admuspeh.my/8163/index.m3u8?token=iptv50na50
-#EXTINF:-1 tvg-id="ExtremeSportsChannel.ru" tvg-name="Extreme Sports" tvg-logo="https://i.ibb.co/HV4sn5w/resize-38.png" group-title="Спортивные", Extreme Sports 
-#EXTGRP:Спортивные
-http://ott-cdn.ucom.am/s76/index.m3u8
-#EXTINF:-1 tvg-id="FastSports.am" tvg-name="Fast Sports [am]" tvg-logo="https://i.ibb.co/d5ZkXcd/resize-2024-10-10-T191356-227.png" group-title="Спортивные", Fast Sports
-#EXTGRP:Спортивные
-http://stream01.vnet.am/Channel_131/mono.m3u8
 #EXTINF:-1 tvg-id="FastFunBox.nl" tvg-name="Fast&FunBox" tvg-logo="https://i.ibb.co/R45YzGs/resize-31.png" group-title="Спортивные", Fast&FunBox
 #EXTGRP:Спортивные
 http://95.156.76.230:33001/udp/230.4.34.86:1234
 #EXTINF:-1 tvg-name="Fight Box" tvg-logo="https://i.ibb.co/0hbRHPW/resize-8.png" group-title="Спортивные", Fight Box
 #EXTGRP:Спортивные
 https://stream01.vnet.am/Fightbox/mono.m3u8
-#EXTINF:-1 tvg-id="FightNetwork.ca" tvg-name="Fight Network [ca]" tvg-logo="https://i.ibb.co/jz5wYVb/resize-32.png" group-title="Спортивные", Fight Network
-#EXTGRP:Спортивные
-https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="FightNetwork.ca" tvg-name="Fight Network [ca]" tvg-logo="https://i.ibb.co/jz5wYVb/resize-32.png" group-title="Спортивные", Fight Network
-#EXTGRP:Спортивные
-https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
+
 #EXTINF:-1 tvg-id="FITE247.us" tvg-name="FITE 24/7 [us]" tvg-logo="https://i.ibb.co/8zccWWn/resize-42.png" group-title="Спортивные", FITE 24/7
 #EXTGRP:Спортивные
 https://d3d85c7qkywguj.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/FiteTV-Nuestra/263.m3u8
@@ -420,68 +349,6 @@ https://tvsw5-hls.secdn.net/tvsw5-chorigin/play/prod-8ce1fcb47fa7474d84640eb766f
 #EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="Fox Sports 1 [us]" tvg-logo="https://i.ibb.co/25P05FM/resize-40.png" group-title="Спортивные", Fox Sports 1
 #EXTGRP:Спортивные
 http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
-#EXTINF:-1 tvg-id="FoxSports2.us" tvg-name="Fox Sports 2 [us]" tvg-logo="https://i.ibb.co/25P05FM/resize-40.png" group-title="Спортивные", Fox Sports 2
-#EXTGRP:Спортивные
-http://cord-cutter.net:8080/zacslife@gmail.com/bCtS8mEwBe/1847
-#EXTINF:-1 tvg-id="Futbol.tj" tvg-name="Futbol [tj]" tvg-logo="https://i.ibb.co/pxLG7QV/resize-33.png" group-title="Спортивные", Futbol
-#EXTGRP:Спортивные
-https://live.teleradiocom.tj/8/3m.m3u8
-#EXTINF:-1 tvg-id="GolfChannel.cz" tvg-name="Golf Channel [cz]" tvg-logo="https://i.ibb.co/H4Bkhb0/resize-34.png" group-title="Спортивные", Golf Channel
-#EXTGRP:Спортивные
-http://78.130.250.2:8023/play/a02q/index.m3u8
-#EXTINF:-1 tvg-id="HardKnocks.ca" tvg-name="Hard Knocks [ca]" tvg-logo="https://i.ibb.co/jTnhvsb/resize-35.png" group-title="Спортивные", Hard Knocks
-#EXTGRP:Спортивные
-https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/109/variant/22099396/8d216b41-1,96b-49d2-afb2-46cb9916f903.m3u8
-#EXTINF:-1 tvg-name="Hard Knocks TV" tvg-logo="https://i.ibb.co/hdKLmSC/image-56.png" group-title="Спортивные", Hard Knocks TV
-#EXTGRP:Спортивные
-https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/109/variant/22099396/8d216b41-1,96b-49d2-afb2-46cb9916f903.m3u8
-#EXTINF:-1 tvg-name="Horizon Sports" tvg-logo="https://i.ibb.co/th9rMvm/resize-9.png" group-title="Спортивные", Horizon Sports
-#EXTGRP:Спортивные
-https://dai.google.com/linear/hls/event/onG023gQQ22Tjm14B5yg1w/master.m3u8
-#EXTINF:-1 tvg-id="HorseCountryTV.uk" tvg-name="Horse & Country TV [uk]" tvg-logo="https://i.ibb.co/dtbhKmx/resize-44.png" group-title="Спортивные", Horse & Country TV
-#EXTGRP:Спортивные
-https://hnc-free-viewlift.amagi.tv/playlist720_lp.m3u8
-#EXTINF:-1 tvg-name="Impact Wrestling" tvg-logo="https://i.ibb.co/qRmpmq8/image-57.png" group-title="Спортивные", Impact Wrestling
-#EXTGRP:Спортивные
-https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
-#EXTINF:-1 tvg-id="IMPACTWrestling.us" tvg-name="IMPACT Wrestling [us]" tvg-logo="https://i.ibb.co/Q8xp3th/resize-36.png" group-title="Спортивные", IMPACT Wrestling
-#EXTGRP:Спортивные
-https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
-#EXTINF:-1 tvg-id="InterTV.it" tvg-name="Inter Channel" tvg-logo="https://i.ibb.co/9VFhmPD/resize-38.png" group-title="Спортивные", Inter TV
-#EXTGRP:Спортивные
-https://open.http.mp.streamamg.com/p/3001560/sp/300156000/playManifest/entryId/0_xmkk2kjr/flavorIds/0_zlbr85f8,0_zlbr85f8,0_noewhew2/format/applehttp/protocol/https/a.m3u8
-#EXTINF:-1 tvg-id="ITVDeportes.mx" tvg-name="InternetvDeportes" tvg-logo="https://i.ibb.co/ygZw8RQ/resize-37.png" group-title="Спортивные", ITV Deportes
-#EXTGRP:Спортивные
-https://thm-it-roku.otteravision.com/thm/it/it.m3u8
-#EXTINF:-1 tvg-id="KHL.ru" tvg-name="Телеканал КХЛ" tvg-logo="https://i.ibb.co/tqRkLS7/resize-44.png" group-title="Спортивные", KHL HD
-#EXTGRP:Спортивные
-http://stream01.vnet.am/Channel_113/mono.m3u8
-#EXTINF:-1 tvg-id="KHLPrime.ru" tvg-name="KHL Prime" tvg-logo="https://i.ibb.co/ChxGLtH/resize-45.png" group-title="Спортивные", KHL Prime HD
-http://178.124.179.122:8088/KHL_HD/index.m3u8
-#EXTINF:-1 tvg-id="KTVSport.kw" tvg-name="KTV Sport [kw]" tvg-logo="https://i.ibb.co/C0sFjTM/resize-40.png" group-title="Спортивные", KTV Sport
-https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="KTVSportPlus.kw" tvg-name="KTV Sport 2" tvg-logo="https://i.ibb.co/C0sFjTM/resize-40.png" group-title="Спортивные", KTV Sport Plus
-https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="LacrosseTV.us" tvg-name="Lax Sports Network TV" tvg-logo="https://i.ibb.co/n8KJdHw/resize-41.png" group-title="Спортивные", Lacrosse TV
-https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
-#EXTINF:-1 tvg-id="MadeinBOTV.it" tvg-name="Canale 88" tvg-logo="https://i.ibb.co/q1cxy7x/resize-43.png" group-title="Спортивные", MadeinBO TV
-https://srvx1.selftv.video/dmchannel/live/playlist.m3u8
-#EXTINF:-1 tvg-id="MarqueeSportsNetwork.us" tvg-name="Marquee Sports Network [us]" tvg-logo="https://i.ibb.co/8dnqNw3/resize-44.png" group-title="Спортивные", Marquee Sports Network
-https://marqueelive.akamaized.net/live-pz/a/hls-itc/marquee1/index.m3u8
-#EXTINF:-1 tvg-name="Megogo Gong" tvg-logo="https://i.ibb.co/Ytk2pKH/resize-22.png" group-title="Спортивные", Megogo Гонг
-http://d5661e96.cbilant.com/iptv/H5DGYXWW7E5RY3WB63G8KAHL/31503/index.m3u8
-#EXTINF:-1 tvg-name="Megogo Спорт HD" tvg-logo="https://i.ibb.co/Ytk2pKH/resize-22.png" group-title="Спортивные", Megogo Спорт HD
-http://ott.server-iptv.live/237/video.m3u8?token=Md7ac19a92
-#EXTINF:-1 tvg-name="Megogo Футбол 1 HD" tvg-logo="https://i.ibb.co/Ytk2pKH/resize-22.png" group-title="Спортивные", Megogo Футбол 1 HD
-http://eqatmiyg.megogo.xyz/iptv/RL8MVW8UX8NNXK/31483/index.m3u8
-#EXTINF:-1 tvg-name="Megogo Футбол 2 HD" tvg-logo="https://i.ibb.co/Ytk2pKH/resize-22.png" group-title="Спортивные", Megogo Футбол 2 HD
-http://eqatmiyg.megogo.xyz/iptv/EDK4ZVBNNRYT9Z/31505/index.m3u8
-#EXTINF:-1 tvg-name="Megogo Футбол 3 HD" tvg-logo="https://i.ibb.co/Ytk2pKH/resize-22.png" group-title="Спортивные", Megogo Футбол 3 HD
-http://cb163385.amazzin.pw/iptv/MLLNWFWVC3H9YNUQTDBDHZGK/31504/index.m3u8
-#EXTINF:-1 tvg-name="MMA-TV.COM" tvg-logo="https://i.ibb.co/KF6R7wC/image-23.png" group-title="Спортивные", MNB Sport
-https://live.mnb.mn/hls/mnb_sport.stream.m3u8
-#EXTINF:-1 tvg-id="MoreThanSportsTV.de" tvg-name="More Than Sports TV [de]" tvg-logo="https://i.ibb.co/wpHKs01/image-64.png" group-title="Спортивные", More Than Sports TV
-https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
 #EXTINF:-1 tvg-name="Motor Racing" tvg-logo="https://i.ibb.co/889GP10/resize-11.png" group-title="Спортивные", Motor Racing
 https://dai.google.com/linear/hls/event/qI1pC-R_Sma0bVLVjaEOtw/master.m3u8
 #EXTINF:-1 tvg-name="Motors TV" tvg-logo="https://i.ibb.co/30QsW5F/image-58.png" group-title="Спортивные", Motors TV
@@ -492,183 +359,7 @@ https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058
 https://nhl-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Окко Спорт HD" tvg-logo="https://i.ibb.co/XVysVgv/resize-19.png" group-title="Спортивные", Okko Sport
 http://u2tp5zor.megatv.fun/iptv/B4T6V2NK5QQVXT/6554/index.m3u8
-#EXTINF:-1 tvg-name="Окко Спорт HD" tvg-logo="https://i.ibb.co/XVysVgv/resize-19.png" group-title="Спортивные", Okko Футбол
-http://158.101.211.157:2020/channel/n2388d82c/index.m3u8?q=fbd037f5f317272809a6470ae115f9fe
-#EXTINF:-1 tvg-id="OmanSportsTV.om" tvg-name="قناة عمان الرياضية" tvg-logo="https://i.ibb.co/1J1YMWX/resize-46.png" group-title="Спортивные", Oman Sports TV
-https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="OneGolf.pk" tvg-name="One Golf [pk]" tvg-logo="https://i.ibb.co/Lh8r3DB/image-65.png" group-title="Спортивные", One Golf
-http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
-#EXTINF:-1 tvg-id="Pac12Insider.us" tvg-name="Pac-12 Insider [us]" tvg-logo="https://i.ibb.co/y0X1XGt/resize-48.png" group-title="Спортивные", Pac-12 Insider
-https://pac12-roku-us.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="PolsatSport.pl" tvg-name="Polsat Sport [pl]" tvg-logo="https://i.ibb.co/b5B8nD4/resize-49.png" group-title="Спортивные", Polsat Sport 1
-http://178.219.128.68:64889/POLSSPORHD
-#EXTINF:-1 tvg-id="PolsatSportNews.pl" tvg-name="Polsat Sport News [pl]" tvg-logo="https://i.ibb.co/b5B8nD4/resize-49.png" group-title="Спортивные", Polsat Sport 2
-http://185.236.229.62:9981/play/a07q
-#EXTINF:-1 tvg-id="PolsatSportNews.pl" tvg-name="Polsat Sport News [pl]" tvg-logo="https://i.ibb.co/b5B8nD4/resize-49.png" group-title="Спортивные", Polsat Sport 3
-http://178.219.128.68:64889/POLSSPORNEWSHD
-#EXTINF:-1 tvg-id="QazSport.kz" tvg-name="QazSport [kz]" tvg-logo="https://i.ibb.co/zVJ9WDf/resize-50.png" group-title="Спортивные", QazSport
-http://rr3.8v8i8p.com/~109e1a3c05fcad5b22d13b9453dc0db5122/62264/hls/pl.m3u8
-#EXTINF:-1 tvg-id="Racingcom.au" tvg-name="Racing.com [au]" tvg-logo="https://i.ibb.co/TYsnscQ/resize-46.png" group-title="Спортивные", Racing.com
-https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
-#EXTINF:-1 tvg-name="Red Bull TV" tvg-logo="https://i.ibb.co/jR36Mb4/resize-14.png" group-title="Спортивные", Red Bull TV
-http://dmi3y-tv.ru/hls/CH_REDBULLTV.m3u8
-#EXTINF:-1 tvg-name="Red Bull TV" tvg-logo="https://i.ibb.co/jR36Mb4/resize-14.png" group-title="Спортивные", Red Bull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1 tvg-id="SanMarinoRTVSport.sm" tvg-name="San Marino RTV Sport [sm]" tvg-logo="https://i.ibb.co/sQxgZZK/image-67.png" group-title="Спортивные", San Marino RTV Sport
-https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8
-#EXTINF:-1 tvg-id="SharjahSports.ae" tvg-name="الشارقة الرياضية" tvg-logo="https://i.ibb.co/JKzRy2d/resize-53.png" group-title="Спортивные", Sharjah Sports
-https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="SOSKanalPlus.rs" tvg-name="Сос канал плус" tvg-logo="https://i.ibb.co/fSZXhwS/resize-52.png" group-title="Спортивные", SOS Kanal Plus
-https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="Turkmenistan Sport" tvg-logo="https://i.ibb.co/nnfhNGt/resize-16.png" group-title="Спортивные", Turkmenistan Sport
-http://217.174.225.146/hls/ch004_720/index.m3u8
-#EXTINF:-1 tvg-name="UNBEATEN" tvg-logo="https://i.ibb.co/7RMkkds/resize-17.png" group-title="Спортивные", UNBEATEN
-https://unbeaten-tcl.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="UPL.TV 1 HD" tvg-logo="https://i.ibb.co/YP1QzmL/resize-23.png" group-title="Спортивные", UPL.TV 1 HD
-http://30f247f9.edmonst.net/iptv/FTXT5WEPVSHHWZ/14193/index.m3u8
-#EXTINF:-1 tvg-name="UPL.TV 2 HD" tvg-logo="https://i.ibb.co/YP1QzmL/resize-23.png" group-title="Спортивные", UPL.TV 2 HD
-http://30f247f9.edmonst.net/iptv/FTXT5WEPVSHHWZ/14194/index.m3u8
-#EXTINF:-1 tvg-name="UPL.TV 3 HD" tvg-logo="https://i.ibb.co/YP1QzmL/resize-23.png" group-title="Спортивные", UPL.TV 3 HD
-http://30f247f9.edmonst.net/iptv/FTXT5WEPVSHHWZ/14195/index.m3u8
-#EXTINF:-1 tvg-name="UPL.TV HD" tvg-logo="https://i.ibb.co/YP1QzmL/resize-23.png" group-title="Спортивные", UPL.TV HD
-http://ott.server-iptv.live/212/video.m3u8?token=M4f082ab4c
-#EXTINF:-1 tvg-id="vijuPlusSport.ru" tvg-name="Viasat Sport" tvg-logo="https://i.ibb.co/hmRtrYb/resize-35.png" group-title="Спортивные", viju+ Sport HD
-http://213.226.137.140:81/tl/l97/index.m3u8
-#EXTINF:-1 tvg-id="AstrahanRuSport.ru" tvg-name="Астрахань Спорт" tvg-logo="https://i.ibb.co/CtWqCGN/resize-36.png" group-title="Спортивные", Астрахань Спорт
-http://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
-#EXTINF:-1 tvg-name="Бокс ТВ" tvg-id="Спорт 4" tvg-logo="https://i.ibb.co/k9DhLYB/resize-2024-10-10-T194316-054.png" group-title="Спортивные", Бокс ТВ
-http://stream01.vnet.am/BoksTv/index.m3u8
-#EXTINF:-1 tvg-name="Матч!" tvg-logo="https://i.ibb.co/gy909yJ/resize-2024-10-10-T194352-398.png" group-title="Спортивные", Матч!
-http://dmi3y-tv.ru/hls/T2/CH_MATCHTV.m3u8
-#EXTINF:-1 tvg-name="Матч! Арена" tvg-logo="https://i.ibb.co/qMQQ3Y4/resize-2024-10-10-T194443-390.png" group-title="Спортивные", Матч! Арена
 
-
-#EXTINF:-1 tvg-name="Матч! Арена" tvg-logo="https://i.ibb.co/qMQQ3Y4/resize-2024-10-10-T194443-390.png" group-title="Спортивные", Матч! Арена HD
-http://194.143.148.28:8080/MatchArena/mpegts
-#EXTINF:-1 tvg-name="Матч! Арена" tvg-logo="https://i.ibb.co/qMQQ3Y4/resize-2024-10-10-T194443-390.png" group-title="Спортивные", Матч! Арена FHD
-
-
-#EXTINF:-1 tvg-name="Матч! Боец" tvg-logo="https://i.ibb.co/FHhvTZ8/resize-2024-10-10-T194520-233.png" group-title="Спортивные", Матч! Боец
-http://31.148.48.15/Match_Boec/index.m3u8
-#EXTINF:-1 tvg-name="Матч! Игра" tvg-logo="https://i.ibb.co/7rb4QsW/resize-2024-10-10-T194935-650.png" group-title="Спортивные", Матч! Игра HD
-
-
-#EXTINF:-1 tvg-name="Матч! Игра" tvg-logo="https://i.ibb.co/7rb4QsW/resize-2024-10-10-T194935-650.png" group-title="Спортивные", Матч! Игра 
-
-http://87.120.142.11:18000/Match!Igra
-#EXTINF:-1 tvg-name="Матч! Планета" tvg-logo="https://i.ibb.co/60sCZGh/resize-2024-10-10-T195158-544.png" group-title="Спортивные", Матч! Планета
-
-http://158.101.211.157:2020/channel/n6d526c81/index.m3u8?q=fbd037f5f317272809a6470ae115f9fe
-#EXTINF:-1 tvg-name="Матч! Премьер" tvg-logo="https://i.ibb.co/r78MLgq/resize-2024-10-10-T195224-278.png" group-title="Спортивные", Матч! Премьер HD
-
-http://cdn.admuspeh.my/8023/index.m3u8?token=iptv50na50
-#EXTINF:-1 tvg-name="Матч! Премьер" tvg-logo="https://i.ibb.co/r78MLgq/resize-2024-10-10-T195224-278.png" group-title="Спортивные", Матч! Премьер 
-
-
-#EXTINF:-1 tvg-name="Матч! Страна" tvg-logo="https://i.ibb.co/DbzhgQn/resize-2024-10-10-T195450-624.png" group-title="Спортивные", Матч! Страна
-
-http://213.226.137.140:81/tl/l73/mpegts
-#EXTINF:-1 tvg-name="Матч! Футбол 1" tvg-logo="https://i.ibb.co/587gzBw/resize-2024-10-10-T195833-894.png" group-title="Спортивные", Матч! Футбол 1
-
-http://cdn.admuspeh.my/8236/index.m3u8?token=iptv50na50
-#EXTINF:-1 tvg-name="Матч! Футбол 1" tvg-logo="https://i.ibb.co/587gzBw/resize-2024-10-10-T195833-894.png" group-title="Спортивные", Матч! Футбол 1 HD
-
-http://31.148.48.15/Match_Futbol_1_HD/index.m3u8
-#EXTINF:-1 tvg-name="Матч! Футбол 2" tvg-logo="https://i.ibb.co/4TJR2pp/resize-2024-10-10-T200031-305.png" group-title="Спортивные", Матч! Футбол 2
-
-http://31.148.48.15/Match_Futbol_2_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Матч! Футбол 2" tvg-logo="https://i.ibb.co/4TJR2pp/resize-2024-10-10-T200031-305.png" group-title="Спортивные", Матч! Футбол 2 HD
-
-http://cdn.admuspeh.my/8237/index.m3u8?token=iptv50na50
-#EXTINF:-1 tvg-name="Матч! Футбол 3" tvg-logo="https://i.ibb.co/NSj0sgV/resize-2024-10-10-T200239-988.png" group-title="Спортивные", Матч! Футбол 3 HD
-
-http://31.148.48.15/Match_Futbol_3_HD/index.m3u8
-#EXTINF:-1 tvg-name="Матч! Футбол 3" tvg-logo="https://i.ibb.co/NSj0sgV/resize-2024-10-10-T200239-988.png" group-title="Спортивные", Матч! Футбол 3 
-
-http://cdn.admuspeh.my/8238/index.m3u8?token=iptv50na50
-#EXTINF:-1 tvg-id="MirBasketbola.ru" tvg-name="Мир Баскетбола" tvg-logo="https://i.ibb.co/wcSb3M9/resize-37.png" group-title="Спортивные", МИР Баскетбола
-
-http://65.21.85.175:8000/play/a00c/index.m3u8?token=livetv
-#EXTINF:-1 tvg-name="Наш спорт 1" tvg-logo="https://i.ibb.co/Gxpvpt1/resize-18.png" group-title="Спортивные", Наш спорт 1
-https://stream-msk-14.ott.tricolor.tv:443/dtv/id794_MSKSG-PVR-1--Nash_khokkey1/01/plst.m3u8
-#EXTINF:-1 tvg-name="Наш спорт 10" tvg-logo="https://i.ibb.co/Gxpvpt1/resize-18.png" group-title="Спортивные", Наш спорт 10
-
-https://stream-msk-04.ott.tricolor.tv:443/dtv/id797_MSKSG-PVR-1--Nash_sport10/01/plst.m3u8
-#EXTINF:-1 tvg-name="Наш спорт 11" tvg-logo="https://i.ibb.co/Gxpvpt1/resize-18.png" group-title="Спортивные", Наш спорт 11
-
-https://stream-msk-11.ott.tricolor.tv:443/dtv/id798_MSKSG-PVR-1--Nash_sport11/03/plst.m3u8
-#EXTINF:-1 tvg-name="Наш спорт 12" tvg-logo="https://i.ibb.co/Gxpvpt1/resize-18.png" group-title="Спортивные", Наш спорт 12
-
-https://livetv.mylifeisgood.net.ru/channels/nashsport12.m3u8
-#EXTINF:-1 tvg-name="Наш спорт 13" tvg-logo="https://i.ibb.co/Gxpvpt1/resize-18.png" group-title="Спортивные", Наш спорт 13
-https://stream-msk-10.ott.tricolor.tv:443/dtv/id800_MSKSG-PVR-1--Nash_sport13/03/plst.m3u8
-#EXTINF:-1 tvg-name="Наш спорт 14" tvg-logo="https://i.ibb.co/Gxpvpt1/resize-18.png" group-title="Спортивные", Наш спорт 14
-https://stream-msk-08.ott.tricolor.tv:443/dtv/id817_MSKSG-PVR-1--Nash_sport14/03/plst.m3u8
-#EXTINF:-1 tvg-name="Наш спорт 15" tvg-logo="https://i.ibb.co/Gxpvpt1/resize-18.png" group-title="Спортивные", Наш спорт 15
-https://stream-msk-10.ott.tricolor.tv:443/dtv/id804_MSKSG-PVR-1--Nash_sport15/03/plst.m3u8
-#EXTINF:-1 tvg-name="Наш спорт 16" tvg-logo="https://i.ibb.co/Gxpvpt1/resize-18.png" group-title="Спортивные", Наш спорт 16
-https://stream-msk-13.ott.tricolor.tv:443/dtv/id806_MSKSG-PVR-1--Nash_sport16/01/plst.m3u8
-#EXTINF:-1 tvg-name="Наш спорт 17" tvg-logo="https://i.ibb.co/Gxpvpt1/resize-18.png" group-title="Спортивные", Наш спорт 17
-https://stream-msk-03.ott.tricolor.tv:443/dtv/id807_MSKSG-PVR-1--Nash_sport17/01/plst.m3u8
-#EXTINF:-1 tvg-name="Наш спорт 18" tvg-logo="https://i.ibb.co/Gxpvpt1/resize-18.png" group-title="Спортивные", Наш спорт 1
-https://stream-msk-02.ott.tricolor.tv:443/dtv/id808_MSKSG-PVR-1--Nash_sport18/01/plst.m3u8
-#EXTINF:-1 tvg-name="Наш спорт 2" tvg-logo="https://i.ibb.co/Gxpvpt1/resize-18.png" group-title="Спортивные", Наш спорт 2
-http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7361/index.m3u8
-#EXTINF:-1 tvg-name="Наш спорт 20" tvg-logo="https://i.ibb.co/Gxpvpt1/resize-18.png" group-title="Спортивные", Наш спорт 20
-https://stream-msk-08.ott.tricolor.tv:443/dtv/id810_MSKSG-PVR-1--Nash_sport20/01/plst.m3u8
-#EXTINF:-1 tvg-name="Наш спорт 21" tvg-logo="https://i.ibb.co/Gxpvpt1/resize-18.png" group-title="Спортивные", Наш спорт 21
-https://livetv.mylifeisgood.net.ru/channels/nashsport21.m3u8
-#EXTINF:-1 tvg-name="Наш спорт 22" tvg-logo="https://i.ibb.co/Gxpvpt1/resize-18.png" group-title="Спортивные", Наш спорт 22
-https://livetv.mylifeisgood.net.ru/channels/nashsport22.m3u8
-#EXTINF:-1 tvg-name="Наш спорт 23" tvg-logo="https://i.ibb.co/Gxpvpt1/resize-18.png" group-title="Спортивные", Наш спорт 23
-https://stream-msk-13.ott.tricolor.tv:443/dtv/id812_MSKSG-PVR-1--Nash_sport23/01/plst.m3u8
-#EXTINF:-1 tvg-name="Наш спорт 24" tvg-logo="https://i.ibb.co/Gxpvpt1/resize-18.png" group-title="Спортивные", Наш спорт 24
-https://stream-msk-09.ott.tricolor.tv:443/dtv/id813_MSKSG-PVR-1--Nash_sport24/01/plst.m3u8
-#EXTINF:-1 tvg-name="Наш спорт 25" tvg-logo="https://i.ibb.co/Gxpvpt1/resize-18.png" group-title="Спортивные", Наш спорт 25
-https://stream-msk-13.ott.tricolor.tv:443/dtv/id881_MSKSG-PVR-1--Nash_sport25/03/plst.m3u8
-#EXTINF:-1 tvg-name="Наш спорт 26" tvg-logo="https://i.ibb.co/Gxpvpt1/resize-18.png" group-title="Спортивные", Наш спорт 26
-https://stream-msk-14.ott.tricolor.tv:443/dtv/id875_MSKSG-PVR-1--Nash_sport26/03/plst.m3u8
-#EXTINF:-1 tvg-name="Наш спорт 27" tvg-logo="https://i.ibb.co/Gxpvpt1/resize-18.png" group-title="Спортивные", Наш спорт 27
-https://stream-msk-01.ott.tricolor.tv:443/dtv/id876_MSKSG-PVR-1--Nash_sport27/03/plst.m3u8
-#EXTINF:-1 tvg-name="Наш спорт 28" tvg-logo="https://i.ibb.co/Gxpvpt1/resize-18.png" group-title="Спортивные", Наш спорт 28
-https://stream-msk-09.ott.tricolor.tv:443/dtv/id877_MSKSG-PVR-1--Nash_sport28/03/plst.m3u8
-#EXTINF:-1 tvg-name="Наш спорт 29" tvg-logo="https://i.ibb.co/Gxpvpt1/resize-18.png" group-title="Спортивные", Наш спорт 29
-https://stream-msk-11.ott.tricolor.tv:443/dtv/id878_MSKSG-PVR-1--Nash_sport29/03/plst.m3u8
-#EXTINF:-1 tvg-name="Наш спорт 3" tvg-logo="https://i.ibb.co/Gxpvpt1/resize-18.png" group-title="Спортивные", Наш спорт 3
-http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7362/index.m3u8
-#EXTINF:-1 tvg-name="Наш спорт 30" tvg-logo="https://i.ibb.co/Gxpvpt1/resize-18.png" group-title="Спортивные", Наш спорт 30
-https://stream-msk-08.ott.tricolor.tv:443/dtv/id879_MSKSG-PVR-1--Nash_sport30/03/plst.m3u8
-#EXTINF:-1 tvg-name="Наш спорт 4" tvg-logo="https://i.ibb.co/Gxpvpt1/resize-18.png" group-title="Спортивные", Наш спорт 4
-http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7363/index.m3u8
-#EXTINF:-1 tvg-name="Наш спорт 5" tvg-logo="https://i.ibb.co/Gxpvpt1/resize-18.png" group-title="Спортивные", Наш спорт 5
-https://stream-msk-03.ott.tricolor.tv:443/dtv/id730_MSKSG-PVR-1--Nash_khokkey5/01/plst.m3u8
-#EXTINF:-1 tvg-name="Наш спорт 6" tvg-logo="https://i.ibb.co/Gxpvpt1/resize-18.png" group-title="Спортивные", Наш спорт 6
-https://stream-msk-02.ott.tricolor.tv:443/dtv/id740_MSKSG-PVR-1--Nash_khokkey6/01/plst.m3u8
-#EXTINF:-1 tvg-name="Наш спорт 7" tvg-logo="https://i.ibb.co/Gxpvpt1/resize-18.png" group-title="Спортивные", Наш спорт 7
-https://stream-msk-09.ott.tricolor.tv:443/dtv/id741_MSKSG-PVR-1--Nash_khokkey7/01/plst.m3u8
-#EXTINF:-1 tvg-name="Наш спорт 8" tvg-logo="https://i.ibb.co/Gxpvpt1/resize-18.png" group-title="Спортивные", Наш спорт 8
-https://stream-msk-04.ott.tricolor.tv:443/dtv/id747_MSKSG-PVR-1--Nash_khokkey8/01/plst.m3u8
-#EXTINF:-1 tvg-name="Наш спорт 9" tvg-logo="https://i.ibb.co/Gxpvpt1/resize-18.png" group-title="Спортивные", Наш спорт 9
-https://stream-msk-08.ott.tricolor.tv:443/dtv/id749_MSKSG-PVR-1--Nash_khokkey9/01/plst.m3u8
-#EXTINF:-1 tvg-id="TVVarzish.tj" tvg-name="Первый канал Спорт" tvg-logo="https://i.ibb.co/52n4Xrg/image-73.png" group-title="Спортивные", Первый канал Спорт
-https://edge3.1internet.tv/dash-live2/streams/sport-1/sport-1.mpd
-#EXTINF:-1 tvg-name="Сила" tvg-logo="https://i.ibb.co/xSFHT9q/resize-20.png" group-title="Спортивные", Сила
-https://d12a2vxqkkh1bo.cloudfront.net/hls/720phi/playlist.m3u8
-#EXTINF:-1 tvg-name="Старт" tvg-logo="https://i.ibb.co/yS0hRwt/resize-2024-10-10-T200535-717.png" group-title="Спортивные", Старт HD
-http://u2tp5zor.megatv.fun/iptv/B4T6V2NK5QQVXT/6384/index.m3u8
-#EXTINF:-1 tvg-name="Старт ТРИУМФ" tvg-logo="https://i.ibb.co/yS0hRwt/resize-2024-10-10-T200535-717.png" group-title="Спортивные", Старт ТРИУМФ
-https://bl.webcaster.pro/media/start/free_fe8dc1b768a84b8b0333db826471f17e_hd/33_85479982/8666c3e935faf6ef47ffd601e8e48868/4821408969.m3u8
-#EXTINF:-1 tvg-name="Старт ТРИУМФ" tvg-logo="https://i.ibb.co/yS0hRwt/resize-2024-10-10-T200535-717.png" group-title="Спортивные", Старт Туран
-https://bl.webcaster.pro/media/playlist/free_6b39125a4f96029c0adb7262ffd30764/33_70344077/480q/1d9f5920eba3d319ffd4886d83ede3fa/4867316480.m3u8
-#EXTINF:-1 tvg-name="Футбол" tvg-logo="https://i.ibb.co/gjTwg6Q/resize-2024-10-10-T200736-280.png" group-title="Спортивные", Футбол
-http://cdn.admuspeh.my/8147/index.m3u8?token=NWG6Wj6WEdNrhWCT
-#EXTINF:-1 tvg-id="Futbolnyy.ru" tvg-name="Футбольный" tvg-logo="https://i.ibb.co/W5m4Hj2/resize-38.png" group-title="Спортивные", Футбольный
-http://cdn.admuspeh.my/8368/index.m3u8?token=iptv50na50
-#EXTINF:-1 tvg-id="Khokkeynyy.ru" tvg-name="Хоккейный" tvg-logo="https://i.ibb.co/HXPW9rt/resize-39.png" group-title="Спортивные", Хоккейный
-http://u.vipl.one/high/mi6zbpyhnj/1497.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
-
-#EXTINF:-1 tvg-id="fightbox-hd" group-title="Спортивные", FightBox
-http://stream01.vnet.am/Fightbox/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-cache.wrestlingnewssource.com/u/d56737530d42b6738680ab9dd0bc81f1_600_400.jpg" tvg-id="no_epg_sport" group-title="Спортивные", Fight Network
 https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
