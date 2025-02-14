@@ -772,6 +772,821 @@ http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:-1 tvg-id="domkino-premium" group-title="Кино и сериалы", Дом Кино Премиум
 http://stream02.vnet.am/THT/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-name=".BLACK" tvg-logo="https://i.ibb.co/8sLyrx0/resize-52.png" group-title="Кино и сериалы", .BLACK
+#EXTGRP:Кино и сериалы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://109.200.130.123:7537/play/a02s
+#EXTINF:-1 tvg-name=".RED" tvg-logo="https://i.ibb.co/k5s0PTM/resize-53.png" group-title="Кино и сериалы", .RED
+#EXTGRP:Кино и сериалы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://178.124.152.238:8088/sony
+#EXTINF:-1 tvg-name=".Sci-fi HD" tvg-logo="https://i.ibb.co/Qk5KLcv/resize-54.png" group-title="Кино и сериалы", .Sci-fi HD
+#EXTGRP:Кино и сериалы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://dmi3y-tv.ru/hls/CH_SCI-FI.m3u8
+#EXTINF:-1 tvg-name="1FILMAX" tvg-logo="https://i.ibb.co/kQ9PmkB/image-51.png" group-title="Кино и сериалы", 1FILMAX
+#EXTGRP:Кино и сериалы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://195.9.195.3:8080/hls/204708_720.m3u8
+#EXTINF:-1 tvg-name="2FILMAX" tvg-logo="https://i.ibb.co/2gKnRsP/image-52.png" group-title="Кино и сериалы", 2FILMAX
+#EXTGRP:Кино и сериалы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://195.9.195.3:8080/hls/204717.m3u8
+#EXTINF:-1 tvg-name="43 Канал HD" tvg-logo="https://i.ibb.co/W2zt9CB/resize-55.png" group-title="Кино и сериалы", 312 Кино
+#EXTGRP:Кино и сериалы
+http://176.126.166.43:1935/live/312kino/playlist.m3u8
+#EXTINF:-1 tvg-name="43 Канал HD" tvg-logo="https://i.ibb.co/W2zt9CB/resize-55.png" group-title="Кино и сериалы", 312 Сериал
+#EXTGRP:Кино и сериалы
+http://176.126.166.43:1935/live/312musik/playlist.m3u8
+#EXTINF:-1 tvg-name="43 Канал HD" tvg-logo="https://i.ibb.co/z4vqvzk/resize-56.png" group-title="Кино и сериалы", 43 Канал HD
+
+
+#EXTINF:-1 tvg-name="43 Канал HD" tvg-logo="https://i.ibb.co/CHfgfcY/resize-2024-10-11-T061326-022.png" group-title="Кино и сериалы", 4K Русское кино HD
+#EXTGRP:Кино и сериалы
+http://158.101.211.157:2020/channel/30e32928/index.m3u8?q=fbd037f5f317272809a6470ae115f9fe
+#EXTINF:-1 tvg-name="Akudji" tvg-id="Akudji" tvg-logo="https://i.ibb.co/qrxJ7Fj/resize.png" group-title="Кино и сериалы", Akudji
+#EXTGRP:Кино и сериалы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://hls.goodgame.ru/hls/5346.m3u8
+#EXTINF:-1 tvg-name="Alpha Nature" tvg-logo="https://i.ibb.co/9YrHYNC/image-2024-09-28-T181954-923.png" group-title="Кино и сериалы", Alpha Cinema
+#EXTGRP:Кино и сериалы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://hls.goodgame.ru/hls/205072.m3u8
+#EXTINF:-1 tvg-name="Alpha Nature" tvg-logo="https://i.ibb.co/XbCqRFM/image-7.png" group-title="Кино и сериалы", Alpha Funny
+#EXTGRP:Кино и сериалы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://hls.goodgame.ru/hls/206963.m3u8
+#EXTINF:-1 tvg-name="Alpha Nature" tvg-logo="https://i.ibb.co/MBKGCq5/image-6.png" group-title="Кино и сериалы", Alpha Games
+#EXTGRP:Кино и сериалы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://hls.goodgame.ru/hls/205115.m3u8
+#EXTINF:-1 tvg-name="Alpha Nature" tvg-logo="https://i.ibb.co/b7kdsRn/image-27.png" group-title="Кино и сериалы", Alpha More Time
+#EXTGRP:Кино и сериалы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://hls.goodgame.ru/hls/205116.m3u8
+#EXTINF:-1 tvg-name="AMC UA" tvg-logo="https://i.ibb.co/C2QFgPB/resize-1.png" group-title="Кино и сериалы", AMC
+
+
+#EXTINF:-1 tvg-name="Amedia 1 HD" tvg-logo="https://i.ibb.co/Xpdtgs9/resize-2.png" group-title="Кино и сериалы", Amedia 1 HD
+#EXTGRP:Кино и сериалы
+http://130.193.73.10:8937/play/a02m
+#EXTINF:-1 tvg-name="Amedia 2" tvg-logo="https://i.ibb.co/DwkcJ0D/resize-3.png" group-title="Кино и сериалы", Amedia 2
+#EXTGRP:Кино и сериалы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://dmi3y-tv.ru/hls/CH_AMEDIAII.m3u8
+#EXTINF:-1 tvg-name="Amedia HIT HD" tvg-logo="https://i.ibb.co/sv01tBH/resize-4.png" group-title="Кино и сериалы", Amedia HIT HD
+#EXTGRP:Кино и сериалы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://dmi3y-tv.ru/hls/CH_AMEDIAHITHD.m3u8
+#EXTINF:-1 tvg-name="Amedia Premium HD" tvg-logo="https://i.ibb.co/WHGnvzt/resize-5.png" group-title="Кино и сериалы", Amedia Premium HD
+#EXTGRP:Кино и сериалы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://dmi3y-tv.ru/hls/CH_AMEDIAPREMIUMHD.m3u8
+#EXTINF:-1 tvg-name="Anime TV" tvg-logo="https://i.ibb.co/Xp5Jkt6/image-2024-09-28-T162617-678.png" group-title="Кино и сериалы", Anime TV
+
+
+#EXTINF:-1 tvg-name="Atv Bazmoc TV HD" tvg-logo="https://i.ibb.co/Pjzqf6D/resize-2024-10-07-T225352-805.png" group-title="Кино и сериалы", Atv Bazmoc TV HD
+#EXTGRP:Кино и сериалы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://dmi3y-tv.ru/hls/CH_ATVBAZMOCTVHD.m3u8
+#EXTINF:-1 tvg-name="ATV Kinoman" tvg-logo="https://i.ibb.co/MP1KDPS/resize-6.png" group-title="Кино и сериалы", ATV Kinoman
+#EXTGRP:Кино и сериалы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://dmi3y-tv.ru/hls/zabava/CH_KINOMAN.m3u8
+#EXTINF:-1 tvg-name="Bollywood" tvg-logo="https://i.ibb.co/bQWrk4c/resize-2024-10-03-T065525-293.png" group-title="Кино и сериалы", Bollywood
+#EXTGRP:Кино и сериалы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://213.226.137.140:81/tl/l524/video.m3u8
+#EXTINF:-1 tvg-name="Bolt Россия" tvg-logo="https://i.ibb.co/jZX9Ggn/resize-7.png" group-title="Кино и сериалы", Bolt Россия
+#EXTGRP:Кино и сериалы
+http://95.142.88.250/Bolt/index.m3u8
+#EXTINF:-1 tvg-name="Century20Studios" tvg-logo="https://i.ibb.co/7S90KR8/image-9.png" group-title="Кино и сериалы", Century20Studios
+#EXTGRP:Кино и сериалы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://hls.goodgame.ru/hls/210204.m3u8
+#EXTINF:-1 tvg-name="CINEMA" tvg-logo="https://i.ibb.co/Vv6mVpM/resize-8.png" group-title="Кино и сериалы", CINEMA
+#EXTGRP:Кино и сериалы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://dmi3y-tv.ru/hls/CH_CINEMA.m3u8
+#EXTINF:-1 tvg-name="Comedy Central" tvg-logo="https://i.ibb.co/r0QYJtr/resize-9.png" group-title="Кино и сериалы", Comedy Central
+#EXTGRP:Кино и сериалы
+http://ott.server-iptv.live/645/video.m3u8?token=Md7ac19a92
+#EXTINF:-1 tvg-name="DetectiveJam" tvg-logo="https://i.ibb.co/MPQPdYC/resize-10.png" group-title="Кино и сериалы", DetectiveJam
+#EXTGRP:Кино и сериалы
+http://de.iptv.monster/play/7311/F1B8D744B3A2467/video.m3u8
+#EXTINF:-1 tvg-name="Dn_russia" tvg-logo="https://i.postimg.cc/Z5fY8QRk/image-7.png" group-title="Кино и сериалы", Dn_russia
+#EXTGRP:Кино и сериалы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://hls.goodgame.ru/hls/210275.m3u8
+#EXTINF:-1 tvg-name="DUO3" tvg-logo="https://i.ibb.co/CPYgXVv/resize-11.png" group-title="Кино и сериалы", DUO3
+
+
+#EXTINF:-1 tvg-name="DUO6" tvg-logo="https://i.ibb.co/P1Bk8C2/resize-12.png" group-title="Кино и сериалы", DUO6
+
+
+#EXTINF:-1 tvg-name="Experience" tvg-logo="https://i.ibb.co/sC5DG5v/image-14.png" group-title="Кино и сериалы",Experience
+#EXTGRP:Кино и сериалы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://hls.goodgame.ru/hls/209608.m3u8
+#EXTINF:-1 tvg-name="FamilyJam" tvg-logo="https://i.ibb.co/44WjpfH/resize-2024-10-03-T064656-936.png" group-title="Кино и сериалы", FamilyJam
+#EXTGRP:Кино и сериалы
+http://de.kineskop.club/site2/1808/1009756_c4a0cdbe72577186_0_0_fs2.m3u8
+#EXTINF:-1 tvg-name="Fan HD" tvg-logo="https://i.ibb.co/z2krrmH/resize-13.png" group-title="Кино и сериалы", Fan HD
+#EXTGRP:Кино и сериалы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://hls.goodgame.ru:8080/hls/157239.m3u8
+#EXTINF:-1 tvg-name="FILMBOX" tvg-logo="https://i.ibb.co/JqGyV4c/resize-14.png" group-title="Кино и сериалы", FILMBOX
+#EXTGRP:Кино и сериалы
+http://cdn.admuspeh.my/8938/index.m3u8?token=iptv50na50
+#EXTINF:-1 tvg-name="Filmbox Arthouse" tvg-logo="https://i.ibb.co/b7VkqR0/resize-2024-10-03-T065732-326.png" group-title="Кино и сериалы", Filmbox Arthouse
+#EXTGRP:Кино и сериалы
+http://ca.seetv.cc/play/2614/909EB3897864A05/video.m3u8
+#EXTINF:-1 tvg-name="FilmUA Drama" tvg-logo="https://i.ibb.co/NxQGD7s/resize-2.png" group-title="Кино и сериалы", FilmUA Drama
+#EXTGRP:Кино и сериалы
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/37639/hls/pl.m3u8
+#EXTINF:-1 tvg-name="FilmZone" tvg-logo="https://i.ibb.co/QPvn2X3/resize-3.png" group-title="Кино и сериалы", FilmZone HD
+
+
+#EXTINF:-1 tvg-name="FilmZone+" tvg-logo="https://i.ibb.co/wJr57WP/resize-5.png" group-title="Кино и сериалы", FilmZone+ HD
+
+
+#EXTINF:-1 tvg-name="FlixSnip" tvg-logo="https://i.ibb.co/HFxrW5s/resize-2.png" group-title="Кино и сериалы", FlixSnip
+#EXTGRP:Кино и сериалы
+http://185.50.148.2:7703/FlixSnip/index.m3u8
+#EXTINF:-1 tvg-id="SCR TV" tvg-name="SCR TV-HD" tvg-logo="https://i.ibb.co/KNrKmYP/image-23.png" group-title="Кино и сериалы", Fks_Films
+#EXTGRP:Кино и сериалы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://hls.goodgame.ru/hls/209426.m3u8
+#EXTINF:-1 tvg-name="FX" tvg-logo="https://i.ibb.co/XYz5LPX/resize-15.png" group-title="Кино и сериалы", FX
+#EXTGRP:Кино и сериалы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://dmi3y-tv.ru/hls/CH_FOX.m3u8
+#EXTINF:-1 tvg-name="FX Life" tvg-logo="https://i.ibb.co/PNXfPc4/resize-2024-10-03-T065107-928.png" group-title="Кино и сериалы", FX Life
+#EXTGRP:Кино и сериалы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://dmi3y-tv.ru/hls/CH_FOXLIFE.m3u8
+#EXTINF:-1 tvg-name="Hollywood HD" tvg-logo="https://i.ibb.co/ZhsJsqD/resize-2024-10-03-T065253-844.png" group-title="Кино и сериалы", Hollywood HD
+#EXTGRP:Кино и сериалы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://cdn.admuspeh.my/8651/index.m3u8?token=iptv50na50
+#EXTINF:-1 tvg-name="Horror TV" tvg-logo="https://i.ibb.co/cQxCtxB/resize-16.png" group-title="Кино и сериалы", Horror TV
+#EXTGRP:Кино и сериалы
+http://u.vipl.one/high/mi6zbpyhnj/1492.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-name="IPTVPLAY PROMO HD" tvg-logo="https://i.ibb.co/0ccNSdV/image-16.png" group-title="Кино и сериалы", IPTVPLAY PROMO HD
+#EXTGRP:Кино и сериалы
+http://92.53.64.197:5050/IPTVPLAYPROMO.tv/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 tvg-name="IPTVPLAY МультСказки HD" tvg-logo="https://i.ibb.co/0ccNSdV/image-16.png" group-title="Кино и сериалы", IPTVPLAY МультСказки HD
+#EXTGRP:Кино и сериалы
+http://92.53.64.197:5050/IPTVPLAYMultSkazki.tv/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 tvg-name="IPTVPLAY ПАМЯТЬ HD" tvg-logo="https://i.ibb.co/0ccNSdV/image-16.png" group-title="Кино и сериалы", IPTVPLAY ПАМЯТЬ HD
+#EXTGRP:Кино и сериалы
+http://92.53.64.197:5050/IPTVPLAYPAMYAT.tv/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 tvg-name="IPTVPLAY УЖАСТИК HD" tvg-logo="https://i.ibb.co/0ccNSdV/image-16.png" group-title="Кино и сериалы", IPTVPLAY УЖАСТИК HD
+#EXTGRP:Кино и сериалы
+http://92.53.64.197:5050/IPTVPLAYUZHASTIK.tv/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 tvg-name="IPTVPLAY ФАНТАСТИКА HD" tvg-logo="https://i.ibb.co/0ccNSdV/image-16.png" group-title="Кино и сериалы", IPTVPLAY ФАНТАСТИКА HD
+#EXTGRP:Кино и сериалы
+http://92.53.64.197:5050/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 tvg-name="IPTVPLAY ВЕДЬМАК HD" tvg-logo="https://i.ibb.co/0ccNSdV/image-16.png" group-title="Кино и сериалы", IPTVPLAY ВЕДЬМАК HD
+#EXTGRP:Кино и сериалы
+http://92.53.64.197:5050/IPTVPLAYVEDMAK.tv/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 tvg-name="IPTVPLAY ДЕСЯТОЕ КОРОЛЕВСТВО HD" tvg-logo="https://i.ibb.co/0ccNSdV/image-16.png" group-title="Кино и сериалы", IPTVPLAY ДЕСЯТОЕ КОРОЛЕВСТВО HD
+#EXTGRP:Кино и сериалы
+http://92.53.64.197:5050/IPTVPLAY10KOROLEVSTVO.tv/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 tvg-name="Just" tvg-logo="https://i.ibb.co/qD4J23v/resize-17.png" group-title="Кино и сериалы", Just
+#EXTGRP:Кино и сериалы
+https://fenixstream2.online/memfs/0ac46a4f-71ea-4bf7-bb62-312df327b6c8_output_0.m3u8?session=d9CyNYZ6qFrhYxrCZEnbzg
+#EXTINF:-1 tvg-id="SCR TV" tvg-name="K1n0man1a" tvg-logo="https://i.ibb.co/8cztrJB/image-20.png" group-title="Кино и сериалы", K1n0man1a
+#EXTGRP:Кино и сериалы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://hls.goodgame.ru/hls/208358.m3u8
+#EXTINF:-1 tvg-id="SCR TV" tvg-name="Katastroff" tvg-logo="https://i.ibb.co/B3QFTsd/image-2024-10-16-T185935-732.png" group-title="Кино и сериалы", Katastroff
+#EXTGRP:Кино и сериалы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://hls.goodgame.ru/hls/208789.m3u8
+#EXTINF:-1 tvg-name="Kino 1 HD" tvg-logo="https://i.ibb.co/0V8QJB7/resize-18.png" group-title="Кино и сериалы", Kino 1 HD
+#EXTGRP:Кино и сериалы
+http://87.99.87.203:2020/channel/n216d0c1/index.m3u8?q=c155fd146caa671acca6c6873fe5c176
+#EXTINF:-1 tvg-name="Кино 2" tvg-logo="https://i.ibb.co/BLMchXm/image-24.png" group-title="Кино и сериалы", Kino 2 HD
+#EXTGRP:Кино и сериалы
+http://ott.watch/stream/A2Q8BAKW82/465.m3u8
+#EXTINF:-1 tvg-name="KINO 24" tvg-logo="https://i.ibb.co/JmPNWw6/resize-19.png" group-title="Кино и сериалы", KINO 24
+#EXTGRP:Кино и сериалы
+http://dmi3y-tv.ru/hls/CH_KINO24.m3u8
+#EXTINF:-1 tvg-name="KINOJAM 1" tvg-logo="https://i.ibb.co/bLckBXG/resize-2024-10-03-T070838-119.png" group-title="Кино и сериалы", KINOJAM 1
+#EXTGRP:Кино и сериалы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://cb163385.amazzin.pw/iptv/MLLNWFWVC3H9YNUQTDBDHZGK/7260/index.m3u8
+#EXTINF:-1 tvg-name="KINOJAM 2" tvg-logo="https://i.ibb.co/YQzJ9XW/resize-20.png" group-title="Кино и сериалы", KINOJAM 2
+#EXTGRP:Кино и сериалы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://cb163385.amazzin.pw/iptv/MLLNWFWVC3H9YNUQTDBDHZGK/7261/index.m3u8
+#EXTINF:-1 tvg-name="Kinoliving" tvg-logo="https://i.ibb.co/w6X2rgm/resize-21.png" group-title="Кино и сериалы", Kinoliving
+#EXTGRP:Кино и сериалы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://109.200.130.123:7537/play/a02k
+#EXTINF:-1 tvg-name="KinoSweet" tvg-logo="https://i.ibb.co/Wpf5rKn/resize-22.png" group-title="Кино и сериалы", KinoSweet
+#EXTGRP:Кино и сериалы
+http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/31816/index.m3u8
+#EXTINF:-1 tvg-name="Kinowood HD" tvg-logo="https://i.ibb.co/1GWyzrR/resize-2024-10-03-T071119-325.png" group-title="Кино и сериалы", Kinowood HD
+#EXTGRP:Кино и сериалы
+http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/31817/index.m3u8
+#EXTINF:-1 tvg-name="Kion хит" tvg-logo="https://i.ibb.co/P6bkV45/resize-23.png" group-title="Кино и сериалы", Kion хит
+#EXTGRP:Кино и сериалы
+http://cdn.admuspeh.my/8966/index.m3u8?token=iptv50na50
+#EXTINF:-1 tvg-name="MediaService Lorenz TV" tvg-logo="https://i.ibb.co/hMXYjzx/image-17.png" group-title="Кино и сериалы", MediaService Lorenz TV
+#EXTGRP:Кино и сериалы
+http://84.38.180.145:8080/Uhierjfk/index.m3u8
+#EXTINF:-1 tvg-name="MGM" tvg-logo="https://i.ibb.co/0rJKM19/image-91.png" group-title="Кино и сериалы", MGM
+#EXTGRP:Кино и сериалы
+https://v2.catcast.tv/content/44051/index.m3u8
+#EXTINF:-1 tvg-name="Alpha Nature" tvg-logo="https://i.ibb.co/48cGLWB/image-2024-10-16-T190450-795.png" group-title="Кино и сериалы", NReality
+#EXTGRP:Кино и сериалы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://hls.goodgame.ru/hls/196074.m3u8
+#EXTINF:-1 tvg-name="Novella TV" tvg-logo="https://i.ibb.co/HnW93nq/resize-24.png" group-title="Кино и сериалы", Novella TV
+
+
+#EXTINF:-1 tvg-name="NOW Series" tvg-logo="https://i.ibb.co/MZCPdbY/resize-25.png" group-title="Кино и сериалы", NOW Series HD
+#EXTGRP:Кино и сериалы
+http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/15102/index.m3u8
+#EXTINF:-1 tvg-name="OTV" tvg-logo="https://i.ibb.co/RPBTVpp/resize-2024-10-13-T123343-326.png" group-title="Кино и сериалы",OTV
+
+
+#EXTINF:-1 tvg-id="P_Boy_podpischik" tvg-name="P_Boy_podpischik" tvg-logo="https://i.ibb.co/VMtSyx1/image-21.png" group-title="Кино и сериалы", P_Boy_podpischik
+#EXTGRP:Кино и сериалы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://hls.goodgame.ru/hls/40391_prem.m3u8
+#EXTINF:-1 tvg-name="Plan B HD" tvg-logo="https://i.ibb.co/VM222jm/resize-26.png" group-title="Кино и сериалы", Plan B HD
+#EXTGRP:Кино и сериалы
+http://87.99.87.203:2007/channel/n1b7bd116/index.m3u8?q=c3588a53af791e8f506ef6c3dcdc8be0
+#EXTINF:-1 tvg-name="Pro100 TV" tvg-logo="https://i.ibb.co/30n2MFJ/resize-27.png" group-title="Кино и сериалы", Pro100 TV
+#EXTGRP:Кино и сериалы
+https://sirius.greenhosting.ru/Pro100tvRu/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Online TV" tvg-logo="https://i.ibb.co/XCm2PDH/resize-28.png" group-title="Кино и сериалы", Romance HD
+ 
+
+#EXTINF:-1 tvg-name="Russian Extreme UHD" tvg-logo="https://i.ibb.co/C1M1M2r/resize-29.png" group-title="Кино и сериалы", Russian Extreme UHD
+#EXTGRP:Кино и сериалы
+http://4je2oiwp.klaipedalt.org/iptv/U5MT6SA5XYW4GS5FHQCYDAD4/5003/index.m3u8
+#EXTINF:-1 tvg-name="Saga TV" tvg-logo="https://i.ibb.co/wJNVD1P/resize.png" group-title="Кино и сериалы", Saga TV
+
+
+#EXTINF:-1 tvg-id="SCR TV" tvg-name="SCR TV-HD" tvg-logo="https://i.ibb.co/yF2rjqg/resize-30.png" group-title="Кино и сериалы", SCR TV-HD
+#EXTGRP:Кино и сериалы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://hls.goodgame.ru/hls/61358.m3u8
+#EXTINF:-1 tvg-name="Scream" tvg-logo="https://i.ibb.co/V922PVW/resize-31.png" group-title="Кино и сериалы", Scream
+#EXTGRP:Кино и сериалы
+http://cdn.admuspeh.my/8932/index.m3u8?token=iptv50na50
+#EXTINF:-1 tvg-name="SeleCao-TV" tvg-logo="https://i.ibb.co/LzXQsBw/image-18.png" group-title="Кино и сериалы", SeleCao-TV
+#EXTGRP:Кино и сериалы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://hls.goodgame.ru/hls/163253.m3u8
+#EXTINF:-1 tvg-name="SeleCao-TV" tvg-logo="https://i.ibb.co/LzXQsBw/image-18.png" group-title="Кино и сериалы", SeleCao-TV 2
+#EXTGRP:Кино и сериалы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://hls.goodgame.ru/hls/157269.m3u8
+#EXTINF:-1 tvg-name="seriesTV" tvg-logo="https://i.ibb.co/vD2m8Qt/image-24.png" group-title="Кино и сериалы", Series TV
+#EXTGRP:Кино и сериалы
+http://hlss.goodgame.ru/hls/186021.m3u8
+#EXTINF:-1 tvg-name="Shot TV HD" tvg-logo="https://i.ibb.co/8zpZ5CN/resize-34.png" group-title="Кино и сериалы", Shot TV HD
+#EXTGRP:Кино и сериалы
+http://95.142.88.250/SHOT_TV/index.m3u8
+#EXTINF:-1 tvg-id="SCR TV" tvg-name="Sinema_deluxe" tvg-logo="https://i.ibb.co/sJcvMbL/image-22.png" group-title="Кино и сериалы", Sinema_deluxe
+#EXTGRP:Кино и сериалы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://hls.goodgame.ru/manifest/210431_master.m3u8
+#EXTINF:-1 tvg-id="star-cinema" tvg-name="Star Cinema" tvg-logo="https://i.ibb.co/WPqjjv0/resize-2024-10-03-T071800-124.png" group-title="Кино и сериалы", Star Cinema
+#EXTGRP:Кино и сериалы
+http://cdn.admuspeh.my/8935/index.m3u8?token=test
+#EXTINF:-1 tvg-id="star-family" tvg-name="Star Family" tvg-logo="https://i.ibb.co/7WMJ2G9/resize-2024-10-03-T071846-607.png" group-title="Кино и сериалы", Star Family
+#EXTGRP:Кино и сериалы
+http://87.99.87.203:2020/channel/n7f599ce7/index.m3u8?q=c155fd146caa671acca6c6873fe5c176
+#EXTINF:-1 tvg-name="START Air" tvg-logo="https://i.ibb.co/Sm4bCqb/resize-2024-10-03-T072413-671.png" group-title="Кино и сериалы", START Air
+#EXTGRP:Кино и сериалы
+http://cdn.admuspeh.my/8398/index.m3u8?token=iptvshared
+#EXTINF:-1 tvg-name="START World" tvg-logo="https://i.ibb.co/7gz13R1/resize-2024-10-03-T072307-671.pngg" group-title="Кино и сериалы", START World
+#EXTGRP:Кино и сериалы
+http://cdn.admuspeh.my/8402/index.m3u8?token=iptvshared
+#EXTINF:-1 tvg-name="Sumiko" tvg-logo="https://i.ibb.co/dkxDxNH/resize-36.png" group-title="Кино и сериалы", Sumiko
+#EXTGRP:Кино и сериалы
+http://cdn.admuspeh.my/8968/index.m3u8?token=iptv50na50
+#EXTINF:-1 tvg-name="Sumiko" tvg-logo="https://i.ibb.co/2nSDKdj/resize-37.png" group-title="Кино и сериалы", Suspense
+#EXTGRP:Кино и сериалы
+http://cdn.admuspeh.my/8971/index.m3u8?token=test
+#EXTINF:-1 tvg-id="FMC" tvg-name="TDM TV FMC" tvg-logo="https://i.ibb.co/zb9prHc/image-27.png" group-title="Кино и сериалы", TDM TV FMC
+#EXTGRP:Кино и сериалы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://hls.goodgame.ru/hls/187741.m3u8
+#EXTINF:-1 tvg-name="Timeless Dizi Channel" tvg-logo="https://i.ibb.co/TwX9sMR/resize-2024-10-03-T073209-048.png" group-title="Кино и сериалы", Timeless Dizi Channel
+#EXTGRP:Кино и сериалы
+http://95.142.88.250/Timeless_Dizi_Channel/index.m3u8
+#EXTINF:-1 tvg-name="Trash HD" tvg-logo="https://i.ibb.co/hdJhGcm/resize-2024-10-07-T224453-132.png" group-title="Кино и сериалы", Trash HD
+#EXTGRP:Кино и сериалы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://185.23.80.28:8080/TRASH/index.m3u8?token=test
+#EXTINF:-1 tvg-id="tv-extra" tvg-name="TV Extra" tvg-logo="https://i.ibb.co/ZxnGBj6/resize-38.png" group-title="Кино и сериалы", TV Extra
+#EXTGRP:Кино и сериалы
+http://87.99.87.203:2020/channel/5aedb841/index.m3u8?q=c155fd146caa671acca6c6873fe5c176
+#EXTINF:-1 tvg-name="TV1 KG HD" tvg-logo="https://i.ibb.co/C5gwGYT/resize-39.png" group-title="Кино и сериалы", TV1 KG HD (Кыргызстан)
+#EXTGRP:Кино и сериалы
+http://212.2.225.30:1935/live/site.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Tyty35Ru" tvg-logo="https://i.ibb.co/rvPz0Kn/image-28.png" group-title="Кино и сериалы", Tyty35Ru
+#EXTGRP:Кино и сериалы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://hls.goodgame.ru/hls/206510.m3u8
+#EXTINF:-1 tvg-name="Ultra HD Cinema" tvg-logo="https://i.ibb.co/60jpDg1/resize-2024-10-03-T073533-012.png" group-title="Кино и сериалы", Ultra HD Cinema
+#EXTGRP:Кино и сериалы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://cdn.admuspeh.my/8906/video.m3u8?token=iptv50na50
+#EXTINF:-1 tvg-name="Alpha Nature" tvg-logo="https://i.ibb.co/LZgV7C7/image-2024-10-16-T190236-319.png" group-title="Кино и сериалы", VARVARA_
+#EXTGRP:Кино и сериалы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://hls.goodgame.ru/hls/210452.m3u8
+#EXTINF:-1 tvg-name="VHS-ka" tvg-logo="https://i.ibb.co/zHvzPRv/resize-40.png" group-title="Кино и сериалы", VHS-ка
+#EXTGRP:Кино и сериалы
+http://cdn.admuspeh.my/8962/video.m3u8?token=iptv50na50
+#EXTINF:-1 tvg-name="Alpha Nature" tvg-logo="https://i.ibb.co/GTbTppv/image-9.png" group-title="Кино и сериалы", VHSPower
+#EXTGRP:Кино и сериалы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://hls.goodgame.ru/hls/209160.m3u8
+#EXTINF:-1 tvg-name="Viasat Kino" tvg-logo="https://i.ibb.co/MPKsLr6/resize-41.png" group-title="Кино и сериалы", Viasat Kino
+#EXTGRP:Кино и сериалы
+http://ott.server-iptv.live/618/video.m3u8?token=M4f082ab4c
+#EXTINF:-1 tvg-name="Viasat Kino Action HD" tvg-logo="https://i.ibb.co/pK63BwW/resize-42.png" group-title="Кино и сериалы", Viasat Kino Action HD
+#EXTGRP:Кино и сериалы
+http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/31763/index.m3u8
+#EXTINF:-1 tvg-name="Viasat Kino Comedy HD" tvg-logo="https://i.ibb.co/RHr8dNb/resize-43.png" group-title="Кино и сериалы", Viasat Kino Comedy HD
+#EXTGRP:Кино и сериалы
+http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/31764/index.m3u8
+#EXTINF:-1 tvg-name="Viasat Kino Megahit HD" tvg-logo="https://i.ibb.co/hsW5Mzk/resize-44.png" group-title="Кино и сериалы", Viasat Kino Megahit HD
+#EXTGRP:Кино и сериалы
+http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/14141/index.m3u8
+#EXTINF:-1 tvg-name="Viasat Kino World" tvg-logo="https://i.ibb.co/64Y5X1p/resize-45.png" group-title="Кино и сериалы", Viasat Kino World
+#EXTGRP:Кино и сериалы
+https://wowza1.leisertv.com/live/tv1000russiakino.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Viasat Serial" tvg-logo="https://i.ibb.co/PjrgYr7/image-29.png" group-title="Кино и сериалы", Viasat Serial
+#EXTGRP:Кино и сериалы
+http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/17056/index.m3u8
+#EXTINF:-1 tvg-id="SCR TV" tvg-name="Video-prokat" tvg-logo="https://i.ibb.co/7NcVm52/image-19.png" group-title="Кино и сериалы", Video-prokat
+#EXTGRP:Кино и сериалы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://hls.goodgame.ru/hls/210037.m3u8
+#EXTINF:-1 tvg-name="viju TV1000" tvg-logo="https://i.ibb.co/R6g8GLG/resize-46.png" group-title="Кино и сериалы", viju TV1000
+#EXTGRP:Кино и сериалы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://185.50.148.2:7703/TV1000/index.m3u8
+#EXTINF:-1 tvg-name="Viju TV1000 Action" tvg-logo="https://i.ibb.co/YkM3WTL/resize-47.png" group-title="Кино и сериалы", Viju TV1000 Action
+#EXTGRP:Кино и сериалы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://185.50.148.2:7703/TV1000Action/index.m3u8
+#EXTINF:-1 tvg-name="VIJU TV1000 Новелла" tvg-logo="https://i.ibb.co/4TBVZS3/resize-48.png" group-title="Кино и сериалы", VIJU TV1000 Новелла
+#EXTGRP:Кино и сериалы
+http://cdn.admuspeh.my/8973/index.m3u8?token=test
+#EXTINF:-1 tvg-name="viju TV1000 Русское" tvg-logo="https://i.ibb.co/12T5GVD/resize-49.png" group-title="Кино и сериалы", viju TV1000 Русское кино
+#EXTGRP:Кино и сериалы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://213.226.137.140:81/tl/l93/mpegts
+#EXTINF:-1 tvg-name="Viju+ Comedy HD" tvg-logo="https://i.ibb.co/CP9LswS/resize-50.pngg" group-title="Кино и сериалы", Viju+ Comedy HD
+#EXTGRP:Кино и сериалы
+http://194.26.229.213:3080/channel/n6791d387/index.m3u8?q=963f66a62081211920e45aea3294bb9f
+#EXTINF:-1 tvg-name="VIJU+ MEGAHIT HD" tvg-logo="https://i.ibb.co/5kt5WFp/resize-51.png" group-title="Кино и сериалы", VIJU+ MEGAHIT HD
+#EXTGRP:Кино и сериалы
+http://194.26.229.213:3080/channel/74eeec01/index.m3u8?q=963f66a62081211920e45aea3294bb9f
+#EXTINF:-1 tvg-name="Viju+ Premiere HD" tvg-logo="https://i.ibb.co/GQmbCXB/resize-52.png" group-title="Кино и сериалы", Viju+ Premiere HD
+#EXTGRP:Кино и сериалы
+http://213.226.137.140:81/tl/l319/index.m3u8
+#EXTINF:-1 tvg-name="VIJU+ Serial HD" tvg-logo="https://i.ibb.co/9WK7DH6/resize-53.png" group-title="Кино и сериалы", VIJU+ Serial HD
+#EXTGRP:Кино и сериалы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://194.26.229.213:3080/channel/n4ccee02c/index.m3u8?q=963f66a62081211920e45aea3294bb9f
+#EXTINF:-1 tvg-name="Восход ТВ" tvg-logo="https://i.ibb.co/ZT0NLfn/image-2024-10-12-T233531-461.png" group-title="Кино и сериалы", ZubrilomFilm
+#EXTGRP:Кино и сериалы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://hls.goodgame.ru/hls/208133.m3u8
+#EXTINF:-1 tvg-name="Восход ТВ" tvg-logo="https://i.ibb.co/ZT0NLfn/image-2024-10-12-T233531-461.png" group-title="Кино и сериалы", ZubrilomSerials
+#EXTGRP:Кино и сериалы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://hls.goodgame.ru/hls/208478.m3u8
+#EXTINF:-1 tvg-name="Арсенал" tvg-logo="https://i.ibb.co/pZjFg4g/resize-55.png" group-title="Кино и сериалы", Арсенал
+#EXTGRP:Кино и сериалы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://dmi3y-tv.ru/hls/CH_ARSENALHD.m3u8
+#EXTINF:-1 tvg-name="Блокбастер HD" tvg-logo="https://i.ibb.co/NY1MFFL/resize-2024-10-03-T074819-587.png" group-title="Кино и сериалы", Блокбастер HD
+#EXTGRP:Кино и сериалы
+http://185.23.80.28:8080/Blockbaster/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Блокбастер HD" tvg-logo="https://i.ibb.co/cN0x7wv/image-90.png" group-title="Кино и сериалы", Видеокассета VHS
+#EXTGRP:Кино и сериалы
+http://195.9.195.3:8080/hls/176975.m3u8
+#EXTINF:-1 tvg-name="Военное Кино" tvg-logo="https://i.ibb.co/M9c61f7/resize-2024-10-13-T124113-791.png" group-title="Кино и сериалы", Военное Кино
+#EXTGRP:Кино и сериалы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://u2tp5zor.megatv.fun/iptv/B4T6V2NK5QQVXT/18072/index.m3u8
+#EXTINF:-1 tvg-name="Восход ТВ" tvg-logo="https://i.ibb.co/t4fX9Qc/resize-2024-10-03-T074950-733.png" group-title="Кино и сериалы", Восход ТВ
+#EXTGRP:Кино и сериалы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://hlss.goodgame.ru/hls/202997.m3u8
+#EXTINF:-1 tvg-name="Время" tvg-logo="https://i.ibb.co/BGQppZH/resize-20.png" group-title="Кино и сериалы", Время
+#EXTGRP:Кино и сериалы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://31.148.48.15/Vremya/index.m3u8
+#EXTINF:-1 tvg-name="Глухарь" tvg-logo="https://i.ibb.co/JrSmPk4/image-30.png" group-title="Кино и сериалы", Глухарь
+#EXTGRP:Кино и сериалы
+http://ott.server-iptv.live/1672/video.m3u8?token=M4f082ab4c
+#EXTINF:-1 tvg-name="Громовы" tvg-logo="https://i.ibb.co/qdt0YKg/image-31.png" group-title="Кино и сериалы", Громовы
+#EXTGRP:Кино и сериалы
+http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/31712/index.m3u8
+#EXTINF:-1 tvg-name="День победы HD" tvg-logo="https://i.ibb.co/1XMvVbK/resize-2024-10-03-T075404-762.png" group-title="Кино и сериалы", День победы HD
+#EXTGRP:Кино и сериалы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://92.53.64.197:5050/mediaservicelorenzTV/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 tvg-name="Дом кино" tvg-logo="https://i.ibb.co/T10rpts/resize-56.png" group-title="Кино и сериалы", Дом кино
+#EXTGRP:Кино и сериалы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://dmi3y-tv.ru/hls/CH_DOMKINO.m3u8
+#EXTINF:-1 tvg-name="Дом Кино Премиум HD" tvg-logo="https://i.ibb.co/ySkZWzK/resize-57.png" group-title="Кино и сериалы", Дом Кино Премиум HD
+#EXTGRP:Кино и сериалы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://213.226.137.140:81/tl/l75/mpegts
+#EXTINF:-1 tvg-name="Дорама" tvg-logo="https://i.ibb.co/C7KbFbG/resize-2024-10-03-T075652-141.png" group-title="Кино и сериалы", Дорама
+#EXTGRP:Кино и сериалы
+http://109.200.130.123:7537/play/a02n
+#EXTINF:-1 tvg-name="Душевное кино HD" tvg-logo="https://i.ibb.co/PFh3TCj/resize-58.png" group-title="Кино и сериалы", Душевное HD
+#EXTGRP:Кино и сериалы
+http://193.242.190.6:8099/37/index.m3u8
+#EXTINF:-1 tvg-name="Еврокино" tvg-logo="https://i.ibb.co/ThQvb5p/resize-59.png" group-title="Кино и сериалы", Еврокино
+#EXTGRP:Кино и сериалы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://185.23.80.28:8080/EuroKino/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Иллюзион+ HD" tvg-logo="https://i.ibb.co/RbnXgMh/resize-2024-10-03-T080002-764.png" group-title="Кино и сериалы", Иллюзион+ HD
+#EXTGRP:Кино и сериалы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://185.23.80.28:8080/Illyuzion+/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Индийское кино" tvg-logo="https://i.ibb.co/M5zbcYb/resize-60.png" group-title="Кино и сериалы", Индийское кино
+#EXTGRP:Кино и сериалы
+http://65.21.85.175:8000/play/a00o/index.m3u8?token=livetv
+#EXTINF:-1 tvg-name="Индия" tvg-logo="https://i.ibb.co/BBWx2FQ/resize-61.png" group-title="Кино и сериалы", Индия
+#EXTGRP:Кино и сериалы
+https://stream01.vnet.am/ZeeTV/mono.m3u8
+#EXTINF:-1 tvg-name="Камеди" tvg-logo="https://i.ibb.co/s6LQ92t/resize-62.png" group-title="Кино и сериалы", Камеди
+#EXTGRP:Кино и сериалы
+http://ott.server-iptv.live/676/video.m3u8?token=M4f082ab4c
+#EXTINF:-1 tvg-name="Кинеко" tvg-logo="https://i.ibb.co/qkt1hyy/resize-63.png" group-title="Кино и сериалы", Кинеко
+#EXTGRP:Кино и сериалы
+http://109.200.130.123:7537/play/a027
+#EXTINF:-1 tvg-name="Кино 1" tvg-logo="https://i.ibb.co/qjtL0TC/resize-64.png" group-title="Кино и сериалы", Кино 1
+#EXTGRP:Кино и сериалы
+http://2f7b11c9.edemist.com/iptv/N8HKZ3DNUQKK2D/18069/index.m3u8
+#EXTINF:-1 tvg-name="Кино 1 International" tvg-logo="https://i.ibb.co/qjtL0TC/resize-64.png" group-title="Кино и сериалы", Кино 1 International
+#EXTGRP:Кино и сериалы
+http://kino-1.catcast.tv/content/38617/index.m3u8
+#EXTINF:-1 tvg-name="Кино 1" tvg-logo="https://i.ibb.co/9wNXbM9/resize-8.png" group-title="Кино и сериалы", Кино 2
+#EXTGRP:Кино и сериалы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://4je2oiwp.klaipedalt.org/iptv/U5MT6SA5XYW4GS5FHQCYDAD4/18070/index.m3u8
+#EXTINF:-1 tvg-name="Кино 7" tvg-logo="https://i.ibb.co/tqmFsQy/resize-66.png" group-title="Кино и сериалы", Кино 7
+#EXTGRP:Кино и сериалы
+http://87.99.87.203:2020/channel/n4adcc4fb/index.m3u8?q=c155fd146caa671acca6c6873fe5c176
+#EXTINF:-1 tvg-name="Восход ТВ" tvg-logo="https://i.ibb.co/bFRSSNF/image-32.png" group-title="Кино и сериалы", Кино Jam
+#EXTGRP:Кино и сериалы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://hls.goodgame.ru/hls/210182.m3u8
+#EXTINF:-1 tvg-name="Кино UHD" tvg-logo="https://i.ibb.co/s2sZfNL/resize-2024-10-03-T080240-520.png" group-title="Кино и сериалы", Кино UHD
+#EXTGRP:Кино и сериалы
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/44332/hls/pl.m3u8
+#EXTINF:-1 tvg-name="AMC UA" tvg-logo="https://i.ibb.co/5Yg2Jh6/resize-28.png" group-title="Кино и сериалы", Кино Без Границ
+#EXTGRP:Кино и сериалы
+http://185.50.148.2:7703/Detskiy/index.m3u8
+#EXTINF:-1 tvg-name="Кино Боевик HD" tvg-logo="https://i.ibb.co/Ms0bHpH/resize-67.png" group-title="Кино и сериалы", Кино Боевик HD
+
+
+#EXTINF:-1 tvg-id="kino-tv" tvg-name="Кино ТВ" tvg-logo="https://i.ibb.co/ypGB1L3/resize-68.png" group-title="Кино и сериалы", Кино ТВ
+#EXTGRP:Кино и сериалы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://dmi3y-tv.ru/hls/CH_KINOTV.m3u8
+#EXTINF:-1 tvg-id="kino-tv" tvg-name="Кино ТВ" tvg-logo="https://i.ibb.co/ypGB1L3/resize-68.png" group-title="Кино и сериалы", Кино ТВ HD
+#EXTGRP:Кино и сериалы
+http://31.210.208.171:8080/kinotv/index.m3u8?token=+W2MSER
+#EXTINF:-1 tvg-name="Кино ТВ (+4)" tvg-logo="https://i.ibb.co/ypGB1L3/resize-68.png" group-title="Кино и сериалы", Кино ТВ (+4)
+
+
+#EXTINF:-1 tvg-name="Кино ТВ (+7)" tvg-logo="https://i.ibb.co/ypGB1L3/resize-68.png" group-title="Кино и сериалы", Кино ТВ (+7)
+
+
+#EXTINF:-1 tvg-name="Кинодром" tvg-logo="https://i.ibb.co/gSpMpRS/resize-69.png" group-title="Кино и сериалы", Кинодром
+#EXTGRP:Кино и сериалы
+http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/31714/index.m3u8
+#EXTINF:-1 tvg-name="Кинозал! Интерны ТВ" tvg-logo="https://i.ibb.co/q0MkMN8/resize-70.png" group-title="Кино и сериалы", Кинозал! Интерны ТВ
+#EXTGRP:Кино и сериалы
+http://2f7b11c9.edemist.com/iptv/N8HKZ3DNUQKK2D/11060/index.m3u8
+#EXTINF:-1 tvg-name="Кинозал! Сваты" tvg-logo="https://i.ibb.co/37ZyD1v/resize-71.png" group-title="Кино и сериалы", Кинозал! Сваты
+#EXTGRP:Кино и сериалы
+http://de.iptv.monster/play/6036/F1B8D744B3A2467/video.m3u8
+#EXTINF:-1 tvg-name="Кинозал! СССР" tvg-logo="https://i.ibb.co/rb8qQyb/resize-72.png" group-title="Кино и сериалы", Кинозал! СССР
+#EXTGRP:Кино и сериалы
+http://cdn.admuspeh.my/8875/index.m3u8?token=iptv50na50
+#EXTINF:-1 tvg-name="Кинозал! Универ ТВ" tvg-logo="https://i.ibb.co/ynjZRfZ/resize-73.png" group-title="Кино и сериалы", Кинозал! Универ ТВ
+#EXTGRP:Кино и сериалы
+http://2f7b11c9.edemist.com/iptv/N8HKZ3DNUQKK2D/17013/index.m3u8
+#EXTINF:-1 tvg-name="Кинокульт" tvg-logo="https://i.ibb.co/1JWfNqz/resize-2024-10-11-T225413-265.png" group-title="Кино и сериалы", Кинокульт
+
+
+#EXTINF:-1 tvg-name="Киноман" tvg-logo="https://i.ibb.co/ncwMzjL/resize-2024-10-07-T230436-129.png" group-title="Кино и сериалы", Киноман
+#EXTGRP:Кино и сериалы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://87.99.87.203:2007/channel/n30cd0675/index.m3u8?q=c3588a53af791e8f506ef6c3dcdc8be0
+#EXTINF:-1 tvg-name="Киномикс HD" tvg-logo="https://i.ibb.co/XshpHDG/resize-75.png" group-title="Кино и сериалы", Киномикс HD
+#EXTGRP:Кино и сериалы
+http://65.21.85.175:8000/play/a01c/index.m3u8?token=livetv
+#EXTINF:-1 tvg-name="Кинопоказ HD" tvg-logo="https://i.ibb.co/XZPwd0z/resize-21.png" group-title="Кино и сериалы", Кинопоказ HD
+#EXTGRP:Кино и сериалы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://185.23.80.28:8080/Kinopokaz/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Кинопремьера HD" tvg-logo="https://i.ibb.co/hmMjsW2/resize-22.png" group-title="Кино и сериалы", Кинопремьера HD
+#EXTGRP:Кино и сериалы
+http://213.226.137.140:81/tl/l303/mpegts
+#EXTINF:-1 tvg-name="Киносвидание HD" tvg-logo="https://i.ibb.co/Zz7kTF3/resize-3.png" group-title="Кино и сериалы", Киносвидание HD
+#EXTGRP:Кино и сериалы
+http://65.21.85.175:8000/play/a01a/index.m3u8?token=livetv
+#EXTINF:-1 tvg-name="КиноСезон" tvg-logo="https://i.ibb.co/9nDbdSH/resize-76.png" group-title="Кино и сериалы", КиноСезон
+
+
+#EXTINF:-1 tvg-name="Киносемья" tvg-logo="https://i.ibb.co/NNnsTkM/resize-2024-10-03-T080903-568.png" group-title="Кино и сериалы", Киносемья
+#EXTGRP:Кино и сериалы
+http://65.21.85.175:8000/play/a01b/index.m3u8?token=livetv
+#EXTINF:-1 tvg-name="КИНОСЕРИЯ HD" tvg-logo="https://i.ibb.co/h80mmMx/resize-4.png" group-title="Кино и сериалы", КИНОСЕРИЯ HD
+#EXTGRP:Кино и сериалы
+http://mfe01.cliptv.az/dash/Kinoseriya_SDkukuku6.ism/playlist.mpd
+#EXTINF:-1 tvg-name="КИНОУЖАС HD" tvg-logo="https://i.ibb.co/BqQvKZG/resize-2024-10-10-T131422-257.png" group-title="Кино и сериалы", КИНОУЖАС HD
+#EXTGRP:Кино и сериалы
+http://31.210.208.171:8080/kinouzhas/index.m3u8?token=+W2MSER
+#EXTINF:-1 tvg-name="Классика Кино" tvg-logo="https://i.ibb.co/Tkx4xnW/image-33.png" group-title="Кино и сериалы", Классика Кино
+#EXTGRP:Кино и сериалы
+http://u.vipl.one/high/mi6zbpyhnj/124.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-name="Комедийное HD" tvg-logo="https://i.ibb.co/sjmvxzG/resize-2024-10-03-T081355-067.png" group-title="Кино и сериалы", Комедийное HD
+#EXTGRP:Кино и сериалы
+http://46.17.41.254:2020/channel/229b4a3f/index.m3u8?q=c9a4efc12540f7d0eb46417ddc618c8b
+#EXTINF:-1 tvg-name="Комедия" tvg-logo="https://i.ibb.co/dBhhRvJ/resize-77.png" group-title="Кино и сериалы", Комедия
+#EXTGRP:Кино и сериалы
+http://130.193.73.10:8937/play/a03k
+#EXTINF:-1 tvg-name="Космос ТВ" tvg-logo="https://i.ibb.co/2yWgFvd/image-2024-10-16-T003212-220.png" group-title="Кино и сериалы", Космос ТВ
+#EXTGRP:Кино и сериалы
+http://178.124.152.238:8088/cinema
+#EXTINF:-1 tvg-name="Кошмар НD" tvg-logo="https://i.ibb.co/8DSfNQf/resize-78.png" group-title="Кино и сериалы", Кошмар НD
+#EXTGRP:Кино и сериалы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://hls.goodgame.ru/hls/204709.m3u8
+#EXTINF:-1 tvg-name="Красная линия" tvg-logo="https://i.ibb.co/mtC23Ss/resize-24.png" group-title="Кино и сериалы", Красная линия
+#EXTGRP:Кино и сериалы
+http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Крепкое кино" tvg-logo="https://i.ibb.co/DGmnjmj/resize-79.png" group-title="Кино и сериалы", Крепкое кино
+
+
+#EXTINF:-1 tvg-name="Криминальное HD" tvg-logo="https://i.ibb.co/W3fVmDR/resize-2024-10-03-T081604-741.png" group-title="Кино и сериалы", Криминальное HD
+#EXTGRP:Кино и сериалы
+http://46.17.41.254:2020/channel/695f9799/index.m3u8?q=c9a4efc12540f7d0eb46417ddc618c8b
+#EXTINF:-1 tvg-name="Лавстори HD" tvg-logo="https://i.ibb.co/9ZyhZJz/resize-80.png" group-title="Кино и сериалы", Лавстори HD
+#EXTGRP:Кино и сериалы
+http://cdn.admuspeh.my/8970/index.m3u8?token=iptv50na50
+#EXTINF:-1 tvg-name="Любимое HD" tvg-logo="https://i.ibb.co/D162tP9/resize-2024-10-03-T081934-243.png" group-title="Кино и сериалы", Любимое HD
+#EXTGRP:Кино и сериалы
+http://de.iptv.monster/play/499/F1B8D744B3A2467/video.m3u8
+#EXTINF:-1 tvg-name="Любимый [KG]" tvg-logo="https://i.ibb.co/6tsprLP/resize-2024-10-13-T113510-316.png" group-title="Кино и сериалы", Любимый [KG]
+
+
+#EXTINF:-1 tvg-name="Малдер Мегахит" tvg-logo="https://i.ibb.co/ZXGWtxb/image-72.png" group-title="Кино и сериалы", Малдер ТВ Мегахит
+#EXTGRP:Кино и сериалы
+https://autopilot.catcast.tv/content/47689/index.m3u8
+#EXTINF:-1 tvg-name="Малтер ТВ-Всё ТВ" tvg-logo="https://i.ibb.co/QrL2pQ8/resize-81.png" group-title="Кино и сериалы", Малдер ТВ Всё ТВ
+#EXTGRP:Кино и сериалы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://hls.goodgame.ru/hls/153640.m3u8
+#EXTINF:-1 tvg-name="Малдер Ужас" tvg-logo="https://i.ibb.co/ZXGWtxb/image-72.png" group-title="Кино и сериалы", Малдер ТВ Ужас
+
+
+#EXTINF:-1 tvg-name="Мир Сериала" tvg-logo="https://i.ibb.co/5LqPDRk/resize-82.png" group-title="Кино и сериалы", Мир Сериала
+#EXTGRP:Кино и сериалы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://cdn.admuspeh.my/8662/index.m3u8?token=iptv50na50
+#EXTINF:-1 tvg-name="Мировое Кино HD" tvg-logo="https://i.ibb.co/4VVDhjn/resize-83.png" group-title="Кино и сериалы", Мировое Кино HD
+#EXTGRP:Кино и сериалы
+http://87.99.87.203:2007/channel/5b922fcd/index.m3u8?q=c3588a53af791e8f506ef6c3dcdc8be0
+#EXTINF:-1 tvg-name="Мосфильм. Золотая коллекция HD" tvg-logo="https://i.ibb.co/BnBvXkY/resize-84.png" group-title="Кино и сериалы", Мосфильм. Золотая коллекция HD
+#EXTGRP:Кино и сериалы
+http://95.156.76.230:33001/udp/230.4.34.124:1234
+#EXTINF:-1 tvg-name="Мосфильм. Золотая коллекция HD" tvg-logo="https://i.ibb.co/BnBvXkY/resize-84.png" group-title="Кино и сериалы", Мосфильм. Золотая коллекция HD +4
+#EXTGRP:Кино и сериалы
+http://4b74cc2e.megogo.xyz/iptv/MHM96LNEYVSB28/17022/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-name="Мужское кино HD" tvg-logo="https://i.ibb.co/tHmjF3W/resize-85.png" group-title="Кино и сериалы", Мужское кино HD
+#EXTGRP:Кино и сериалы
+http://95.142.88.250/muzhskoe_kino_hd/index.m3u8
+#EXTINF:-1 tvg-name="Наш Кинопоказ" tvg-logo="https://i.ibb.co/KqyYdHG/resize-2024-10-03-T082713-366.png" group-title="Кино и сериалы", Наш Кинопоказ
+#EXTGRP:Кино и сериалы
+http://185.23.80.28:8080/NashKinopokaz/index.m3u8?token=iptv50na50
+#EXTINF:-1 tvg-name="Наше Детство" tvg-logo="https://i.ibb.co/jMCDqjG/resize-87.png" group-title="Кино и сериалы", Наше Детство
+
+
+#EXTINF:-1 tvg-name="Наше Крутое HD" tvg-logo="https://i.ibb.co/F52Xv6X/resize-88.png" group-title="Кино и сериалы", Наше Крутое HD
+#EXTGRP:Кино и сериалы
+http://s1.odinson.me/Tx1YUmxj2d/index.m3u8?token=ctusL4YsjAzDXaEX
+#EXTINF:-1 tvg-name="Наше любимое кино" tvg-logo="https://i.ibb.co/zGQ9qBL/resize-5.png" group-title="Кино и сериалы", Наше любимое кино
+
+
+#EXTINF:-1 tvg-name="Наше Мужское HD" tvg-logo="https://i.ibb.co/z8mBbjY/resize-89.png" group-title="Кино и сериалы", Наше Мужское HD
+#EXTGRP:Кино и сериалы
+http://65.21.85.175:8000/play/a00r/index.m3u8?token=livetv
+#EXTINF:-1 tvg-name="Наше новое кино" tvg-logo="https://i.ibb.co/8syTMr4/resize-90.png" group-title="Кино и сериалы", Наше новое кино
+#EXTGRP:Кино и сериалы
+http://178.57.121.38:8080/kinohit/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Наш Кинопоказ" tvg-logo="https://i.ibb.co/HF6nQ5s/resize-91.png" group-title="Кино и сериалы", Новый Век Тамбов
+#EXTGRP:Кино и сериалы
+http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Tambov/hls/1280x720@2500/playlist.m3u8
+#EXTINF:-1 tvg-name="Ностальгия" tvg-logo="https://i.ibb.co/K7kKpTx/resize-25.png" group-title="Кино и сериалы", Ностальгия
+#EXTGRP:Кино и сериалы
+http://31.148.48.15/Nostalgiya/index.m3u8
+#EXTINF:-1 tvg-name="НСТ orig" tvg-logo="https://i.ibb.co/CPNXG7f/resize-2024-10-03-T083411-476.png" group-title="Кино и сериалы", НСТ orig
+#EXTGRP:Кино и сериалы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://178.57.121.38:8080/nst/index.m3u8?token=test
+#EXTINF:-1 tvg-name="НТВ ПРАВО" tvg-logo="https://i.ibb.co/C6vnvry/resize-92.png" group-title="Кино и сериалы", НТВ ПРАВО
+#EXTGRP:Кино и сериалы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://dmi3y-tv.ru/hls/CH_NTVPRAVO.m3u8
+#EXTINF:-1 tvg-name="НТВ СЕРИАЛ" tvg-logo="https://i.ibb.co/KXjHx4V/resize-93.png" group-title="Кино и сериалы", НТВ СЕРИАЛ
+#EXTGRP:Кино и сериалы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://dmi3y-tv.ru/hls/CH_NTVSERIAL.m3u8
+#EXTINF:-1 tvg-name="НТВ СТИЛЬ" tvg-logo="https://i.ibb.co/TtKhnFw/resize-94.png" group-title="Кино и сериалы", НТВ СТИЛЬ
+#EXTGRP:Кино и сериалы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://dmi3y-tv.ru/hls/CH_NTVSTIL.m3u8
+#EXTINF:-1 tvg-name="НТВ ХИТ" tvg-logo="https://i.ibb.co/gS0DjZX/resize-95.png" group-title="Кино и сериалы", НТВ ХИТ
+#EXTGRP:Кино и сериалы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://dmi3y-tv.ru/hls/CH_NTVHIT.m3u8
+#EXTINF:-1 tvg-name="Остросюжетное HD" tvg-logo="https://i.ibb.co/BgH8M8g/resize-2024-10-03-T083719-513.png" group-title="Кино и сериалы", Остросюжетное HD
+#EXTGRP:Кино и сериалы
+http://cdn.admuspeh.my/8184/index.m3u8?token=NWG6Wj6WEdNrhWCT
+#EXTINF:-1 tvg-name="Планета " tvg-logo="https://i.ibb.co/CH5rtrJ/resize-96.png" group-title="Кино и сериалы", Планета "Дети"
+
+
+#EXTINF:-1 tvg-name="Победа" tvg-logo="https://i.ibb.co/km25Qh9/resize-97.png" group-title="Кино и сериалы", Победа
+#EXTGRP:Кино и сериалы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://109.200.130.123:7537/play/a02u
+#EXTINF:-1 tvg-name="Премиальное HD" tvg-logo="https://i.ibb.co/qkQXWVf/resize-2024-10-03-T083912-234.png" group-title="Кино и сериалы", Премиальное HD
+#EXTGRP:Кино и сериалы
+http://116bc677.amazzin.pw/iptv/DDUW3MS3CHQ98L2M74NWZZRR/7222/index.m3u8
+#EXTINF:-1 tvg-name="Премиальное HD" tvg-logo="https://i.ibb.co/qkQXWVf/resize-2024-10-03-T083912-234.png" group-title="Кино и сериалы", Премиальное HD (+4)
+
+
+#EXTINF:-1 tvg-name="Премиум Кино HD" tvg-logo="https://i.ibb.co/hVkCZPD/resize-98.png" group-title="Кино и сериалы", Премиум Кино HD
+#EXTGRP:Кино и сериалы
+http://87.99.87.203:2007/channel/79b89867/index.m3u8?q=c3588a53af791e8f506ef6c3dcdc8be0
+#EXTINF:-1 tvg-name="Про любовь HD" tvg-logo="https://i.ibb.co/YpdfB1Q/resize-2024-10-03-T084018-986.png" group-title="Кино и сериалы", Про любовь HD
+#EXTGRP:Кино и сериалы
+http://185.23.80.28:8080/ProLyubov/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Репка" tvg-logo="https://i.ibb.co/Cwb4SJv/resize-99.png" group-title="Кино и сериалы", Репка
+#EXTGRP:Кино и сериалы
+http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/31719/index.m3u8
+#EXTINF:-1 tvg-name="РЕТРО" tvg-logo="https://i.ibb.co/TvqPdJk/resize-100.png" group-title="Кино и сериалы", РЕТРО
+#EXTGRP:Кино и сериалы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://194.158.218.123:8880/Retrotv/index.m3u8
+#EXTINF:-1 tvg-name="Родное кино" tvg-logo="https://i.ibb.co/6th8Zsc/resize-2024-10-10-T123859-121.png" group-title="Кино и сериалы", Родное кино
+#EXTGRP:Кино и сериалы
+http://185.50.148.2:7711/RodnoeKino/index.m3u8
+#EXTINF:-1 tvg-name="Романтичное HD" tvg-logo="https://i.ibb.co/jzDLdbL/resize-2024-10-10-T123928-253.png" group-title="Кино и сериалы", Романтичное HD
+#EXTGRP:Кино и сериалы
+http://cdn.admuspeh.my/8948/index.m3u8?token=iptv50na50
+#EXTINF:-1 tvg-name="Русский бестселлер" tvg-logo="https://i.ibb.co/mG2Jh5q/resize-2024-10-10-T124001-085.png" group-title="Кино и сериалы", Русский бестселлер
+#EXTGRP:Кино и сериалы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://31.148.48.15/Russkiy_Bestseller/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Русский детектив" tvg-logo="https://i.ibb.co/j4Y5qQv/resize-2024-10-10-T124029-300.png" group-title="Кино и сериалы", Русский детектив
+#EXTGRP:Кино и сериалы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://178.57.121.38:8080/rusdet/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Русский Иллюзион" tvg-logo="https://i.ibb.co/h1Zztn6/resize-2024-10-03-T084155-867.png" group-title="Кино и сериалы", Русский Иллюзион
+#EXTGRP:Кино и сериалы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://185.23.80.28:8080/RusIlluzion/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Русский Роман" tvg-logo="https://i.ibb.co/g4RCT97/resize-2024-10-10-T124108-536.png" group-title="Кино и сериалы", Русский Роман
+#EXTGRP:Кино и сериалы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://cdn.admuspeh.my/8010/index.m3u8?token=iptv50na50
+#EXTINF:-1 tvg-name="Сапфир" tvg-logo="https://i.ibb.co/wyT6r4G/resize-2024-10-10-T124140-301.png" group-title="Кино и сериалы", Сапфир
+#EXTGRP:Кино и сериалы
+http://109.200.130.123:7537/play/a028
+#EXTINF:-1 tvg-name="Семейное кино" tvg-logo="https://i.ibb.co/m63g8y0/resize-2024-10-10-T124320-433.png" group-title="Кино и сериалы", Семейное кино
+
+
+#EXTINF:-1 tvg-name="Семейное кино HD" tvg-logo="https://i.ibb.co/8XqgP1m/resize-2024-10-03-T084328-959.png" group-title="Кино и сериалы", Семейное кино HD
+#EXTGRP:Кино и сериалы
+http://87.99.87.203:2007/channel/4775aa44/index.m3u8?q=c3588a53af791e8f506ef6c3dcdc8be0
+#EXTINF:-1 tvg-name="Сериал UHD" tvg-logo="https://i.ibb.co/Gxx8xsG/resize-26.png" group-title="Кино и сериалы", Сериал UHD
+
+
+#EXTINF:0  tvg-logo="https://i.ibb.co/Sck2NCp/image-19.png" group-title="Кино и сериалы" , Сити Эдем - КиноСемья
+#EXTGRP:Кино и сериалы
+https://v2.catcast.tv/content/38128/index.m3u8
+#EXTINF:-1 tvg-name="Сити Эдем - Рождественский!" tvg-logo="https://i.ibb.co/Nxw697z/image-15.png" group-title="Кино и сериалы", Сити Эдем - Рождественский!
+#EXTGRP:Кино и сериалы
+https://v2.catcast.tv/content/34246/index.m3u8
+#EXTINF:-1 tvg-name="Сити Эдем - Кино Детектив" tvg-logo="https://i.ibb.co/sQtySSn/resize-2024-10-10-T124539-206.png" group-title="Кино и сериалы", Сити Эдем - Кино Детектив
+#EXTGRP:Кино и сериалы
+https://v2.catcast.tv/content/41327/index.m3u8
+#EXTINF:-1 tvg-name="Сити Эдем - КиноКомедия" tvg-logo="https://i.ibb.co/cKBJ783/resize-2024-10-10-T124610-372.png" group-title="Кино и сериалы", Сити Эдем - КиноКомедия
+#EXTGRP:Кино и сериалы
+https://v2.catcast.tv/content/41331/index.m3u8
+#EXTINF:-1 tvg-name="Сити Эдем - КиноМистика" tvg-logo="https://i.ibb.co/4YNzsgD/resize-2024-10-10-T124643-534.png" group-title="Кино и сериалы", Сити Эдем - КиноМистика
+#EXTGRP:Кино и сериалы
+https://v2.catcast.tv/content/40783/index.m3u8
+#EXTINF:-1 tvg-name="Сити Эдем - КиноЭкшен" tvg-logo="https://i.ibb.co/cDwC7R2/resize-2024-10-10-T124710-212.png" group-title="Кино и сериалы", Сити Эдем - КиноЭкшен
+#EXTGRP:Кино и сериалы
+https://v2.catcast.tv/content/41333/index.m3u8
+#EXTINF:-1 tvg-name="Сити Эдем - КиноЭкшен" tvg-logo="https://i.ibb.co/Rp7wHTR/image-2024-09-28-T183825-449.png" group-title="Кино и сериалы", Сити Эдем - ТелеНовелла
+#EXTGRP:Кино и сериалы
+https://autopilot.catcast.tv/content/46209/index.m3u8
+#EXTINF:-1 tvg-name="Советская Киноклассика" tvg-logo="https://i.ibb.co/475P1yP/resize-2024-10-03-T084712-681.png" group-title="Кино и сериалы", Советская Киноклассика
+#EXTGRP:Кино и сериалы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://46.17.41.254:2020/channel/n5c552729/index.m3u8?q=c9a4efc12540f7d0eb46417ddc618c8b
+#EXTINF:-1 tvg-name="Советское Кино" tvg-logo="https://i.ibb.co/pdWF8Mb/resize-2024-10-10-T125320-048.png" group-title="Кино и сериалы", Советское Кино
+#EXTGRP:Кино и сериалы
+http://u.vipl.one/high/mi6zbpyhnj/139.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-name="Советское родное" tvg-logo="https://i.ibb.co/f8Ds5z2/resize-2024-10-10-T125245-444.png" group-title="Кино и сериалы", Советское родное
+
+
+#EXTINF:-1 tvg-name="Солдаты" tvg-logo="https://i.ibb.co/SnHb2dG/resize-2024-10-10-T125349-671.png" group-title="Кино и сериалы", Солдаты
+#EXTGRP:Кино и сериалы
+http://2f7b11c9.edemist.com/iptv/N8HKZ3DNUQKK2D/13081/index.m3u8
+#EXTINF:-1 tvg-name="СТРАХ FHD (2.0)" tvg-logo="https://i.ibb.co/qFpv5tx/resize-2024-10-10-T125531-948.png" group-title="Кино и сериалы", СТРАХ FHD (2.0)
+#EXTGRP:Кино и сериалы
+http://2f7b11c9.edemist.com/iptv/N8HKZ3DNUQKK2D/31720/index.m3u8
+#EXTINF:-1 tvg-name="СТРАХ HD" tvg-logo="https://i.ibb.co/0M4QXHV/resize-2024-10-10-T125419-553.png" group-title="Кино и сериалы", СТРАХ HD
+#EXTGRP:Кино и сериалы
+http://2f7b11c9.edemist.com/iptv/N8HKZ3DNUQKK2D/11069/index.m3u8
+#EXTINF:-1 tvg-id="strashnoe-hd" tvg-name="Страшное HD" tvg-logo="https://i.ibb.co/jGn75ws/resize-2024-10-10-T125623-098.png" group-title="Кино и сериалы", Страшное HD
+#EXTGRP:Кино и сериалы
+http://cdn.admuspeh.my/8198/index.m3u8?token=iptv50na50
+#EXTINF:-1 tvg-name="СТРК HD" tvg-logo="https://i.ibb.co/zZjT1k3/resize-27.png" group-title="Кино и сериалы", СТРК HD
+
+
+#EXTINF:-1 tvg-name="ТВ Рус" tvg-logo="https://i.ibb.co/Z2cDnqw/resize-2024-10-13-T124455-022.png" group-title="Кино и сериалы", Супер Балтик
+#EXTGRP:Кино и сериалы
+http://87.99.87.203:2020/channel/627232cf/index.m3u8?q=c155fd146caa671acca6c6873fe5c176
+#EXTINF:-1 tvg-name="ТВ Рус" tvg-logo="https://i.ibb.co/mS3cqNW/image-2024-10-13-T125002-973.png" group-title="Кино и сериалы", Супер+
+#EXTGRP:Кино и сериалы
+http://87.99.87.203:2020/channel/n3e4e8f4e/index.m3u8?q=c155fd146caa671acca6c6873fe5c176
+#EXTINF:-1 tvg-name="ТВ 21" tvg-logo="https://i.ibb.co/4mB73Mh/resize-2024-10-10-T125654-779.png" group-title="Кино и сериалы", ТВ 21
+#EXTGRP:Кино и сериалы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://31.148.48.15/TV_XXI/index.m3u8
+#EXTINF:-1 tvg-name="ТВ Рус" tvg-logo="https://i.ibb.co/LtNKKdF/image-73.png" group-title="Кино и сериалы", ТВ Рус
+
+
+#EXTINF:-1 tvg-name="ТВ Рус" tvg-logo="https://i.ibb.co/LtNKKdF/image-73.png" group-title="Кино и сериалы", ТВ Рус+
+#EXTGRP:Кино и сериалы
+http://85.187.13.40:18000/rtr
+#EXTINF:-1 tvg-name="ТСВ" tvg-logo="https://i.ibb.co/D5PS3tp/image-35.png" group-title="Кино и сериалы", ТСВ
+#EXTGRP:Кино и сериалы
+http://iptv-hls.idc.md:8200/hls/2/live1.m3u8
+#EXTINF:-1 tvg-name="Фантастика FHD (2.0)" tvg-logo="https://i.ibb.co/kcg0dWn/resize-2024-10-10-T130058-245.png" group-title="Кино и сериалы", Фантастика FHD (2.0)
+#EXTGRP:Кино и сериалы
+http://2f7b11c9.edemist.com/iptv/N8HKZ3DNUQKK2D/31722/index.m3u8
+#EXTINF:-1 tvg-name="ФАНТАСТИКА HD" tvg-logo="https://i.ibb.co/8dSHh7R/resize-2024-10-10-T130137-936.png" group-title="Кино и сериалы", ФАНТАСТИКА HD
+#EXTGRP:Кино и сериалы
+http://4je2oiwp.klaipedalt.org/iptv/U5MT6SA5XYW4GS5FHQCYDAD4/11070/index.m3u8
+#EXTINF:-1 tvg-name="Фантом" tvg-logo="https://i.ibb.co/M6dM9xF/image-37.png" group-title="Кино и сериалы", Фантом
+#EXTGRP:Кино и сериалы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://hls.goodgame.ru/hls/204722.m3u8
+#EXTINF:-1 tvg-name="Феникс+кино" tvg-logo="https://i.ibb.co/2tg10Zw/resize-2024-10-10-T130344-301.png" group-title="Кино и сериалы", Феникс+кино
+#EXTGRP:Кино и сериалы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://31.210.208.171:8080/fenixkino/index.m3u8?token=+W2MSER
+#EXTINF:-1 tvg-name="Футурама" tvg-logo="https://i.ibb.co/hH3knHB/image-38.png" group-title="Кино и сериалы", Футурама
+#EXTGRP:Кино и сериалы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://hls.goodgame.ru/hls/199417.m3u8
+#EXTINF:-1 tvg-name="Хит HD" tvg-logo="https://i.ibb.co/pXfYZ47/resize-2024-10-03-T084938-707.png" group-title="Кино и сериалы", Хит HD
+#EXTGRP:Кино и сериалы
+http://185.23.80.28:8080/Xit/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Шокирующее HD" tvg-logo="https://i.ibb.co/tZzjLQ0/resize-2024-10-03-T085123-454.png" group-title="Кино и сериалы", Шокирующее HD
+#EXTGRP:Кино и сериалы
+http://cdn.admuspeh.my/8322/index.m3u8?token=iptv50na50
+#EXTINF:-1 tvg-name="Шокирующее HD" tvg-logo="https://i.ibb.co/tZzjLQ0/resize-2024-10-03-T085123-454.png" group-title="Кино и сериалы", Шокирующее +3
+
+
+#EXTINF:-1 tvg-name="ЭфирА NET HD" tvg-logo="https://i.ibb.co/M8VNWqv/image-39.png" group-title="Кино и сериалы", ЭфирА NET HD
+#EXTGRP:Кино и сериалы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://hls.goodgame.ru/hls/181039.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://tv2free.ru/sites/default/files/styles/large/public/tv-logo/tv-1filmax.jpg?itok=cAN6QlYt" tvg-id="no_epg_cinema" group-title="Кинозалы", 1FILMAX
 #EXTVLCOPT:http-user-agent=SmartTV
 http://195.9.195.3:8080/hls/204708.m3u8
