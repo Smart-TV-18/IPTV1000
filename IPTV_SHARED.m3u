@@ -2827,9 +2827,6 @@ http://live-saha.cdnvideo.ru/saha/tooky/playlist.m3u8
 #EXTINF:-1 tvg-name="Уникум" tvg-logo="https://i.ibb.co/vdZptds/resize-2024-10-11-T060541-444.png" group-title="Детские", Уникум
 #EXTGRP:Детские
 http://31.148.48.15:80/Detskiy/index.m3u8
-#EXTINF:-1 tvg-name="Чижик" tvg-logo="https://i.ibb.co/Zx3Q8s1/resize-2024-10-11-T060626-556.png" group-title="Детские", Чижик
-#EXTGRP:Детские
-http://rr3.vipshara-iptv.com/~109e1a3c05fcad5b22d13b9453dc0db5122/52884/hls/pl.m3u8
 #EXTINF:-1 tvg-name="Чип и Дейл HD" tvg-logo="https://i.ibb.co/c1LBf55/resize-2024-10-11-T060755-377.png" group-title="Детские", Чип и Дейл HD
 #EXTGRP:Детские
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
