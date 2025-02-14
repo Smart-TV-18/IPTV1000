@@ -881,6 +881,321 @@ https://fl1001.bozztv.com/ushba3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="moskovsky-obrazovatelny" group-title="Познавательные", Мособр TV HD
 https://retrtb.educom.ru/mosobrtv/tv2/index.m3u8
 
+#EXTINF:-1 tvg-name="365 Дней ТВ" tvg-logo="https://i.ibb.co/sCQ7KW1/image.png" group-title="Познавательные", 365 Дней ТВ
+#EXTGRP:Познавательные
+http://31.210.208.171:8080/365day/index.m3u8?token=+W2MSER
+#EXTINF:-1 tvg-name="555 Hunt Fishing TV" tvg-logo="https://i.ibb.co/JyrY5T0/resize-2024-10-10-T234628-116.png" group-title="Познавательные", 555 Hunt Fishing TV
+#EXTGRP:Познавательные
+http://193.169.178.29:8081/podsekaiTV/chanelHD/playlist.m3u8
+#EXTINF:-1 tvg-name="6 Соток" tvg-logo="https://i.ibb.co/Xz6nKZd/resize-2024-10-13-T115506-448.png" group-title="Познавательные", 6 Соток
+
+
+#EXTINF:-1 tvg-name="Animal Planet HD" tvg-logo="https://i.ibb.co/4Pj9kDz/resize-2024-10-10-T234656-286.png" group-title="Познавательные", Animal Planet HD
+#EXTGRP:Познавательные
+https://stream01.vnet.am/AnimalPlanet/tracks-v1a2/mono.m3u8
+#EXTINF:-1 tvg-name="Big Planet HD" tvg-logo="https://i.ibb.co/q7X1KGn/resize-2024-10-10-T234727-204.png" group-title="Познавательные", Big Planet HD
+#EXTGRP:Познавательные
+http://109.200.130.123:7537/play/a02j
+#EXTINF:-1 tvg-name="Brodilo TV HD" tvg-logo="https://i.ibb.co/7k4drpt/resize-2024-10-10-T234757-684.png" group-title="Познавательные", Brodilo TV HD
+#EXTGRP:Познавательные
+http://brodilo.tv/channel.php
+#EXTINF:-1 tvg-name="Curiosity Stream HD" tvg-logo="https://i.ibb.co/TYBqhcP/resize-2024-10-10-T234822-269.png" group-title="Познавательные", Curiosity Stream HD
+#EXTGRP:Познавательные
+http://u2tp5zor.megatv.fun/iptv/B4T6V2NK5QQVXT/9072/index.m3u8
+#EXTINF:-1 tvg-name="Discovery" tvg-logo="https://i.ibb.co/c3YdgB9/resize-2024-10-10-T234853-568.png" group-title="Познавательные", Discovery Channel
+#EXTGRP:Познавательные
+http://stream01.vnet.am/DiscoveryChannel/tracks-v1a2/mono.m3u8
+#EXTINF:-1 tvg-name="DocuBox" tvg-logo="https://i.ibb.co/71VQnt2/resize-2024-10-10-T235421-339.png" group-title="Познавательные", DocuBox
+#EXTGRP:Познавательные
+http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/968/index.m3u8
+#EXTINF:-1 tvg-name="DocuBox" tvg-logo="https://i.ibb.co/ynQdxmS/resize-4.png" group-title="Познавательные", Duo6
+
+
+#EXTINF:-1 tvg-name="Galaxy" tvg-logo="https://i.ibb.co/KLnnwDX/resize-2024-10-10-T235455-675.png" group-title="Познавательные", Galaxy
+#EXTGRP:Познавательные
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://195.26.83.96:7007/play/a00j/index.m3u8
+#EXTINF:-1 tvg-name="H2 HD" tvg-logo="https://i.ibb.co/SXx5F2s/resize-2024-10-10-T235535-453.png" group-title="Познавательные", H2 HD
+#EXTGRP:Познавательные
+http://rr2.73mtv.org/~109e1a3c05fcad5b22d13b9453dc0db5122/47392/hls/pl.m3u8
+#EXTINF:-1 tvg-name="HDL" tvg-logo="https://i.ibb.co/47TyGmM/resize-2024-10-10-T235910-960.png" group-title="Познавательные", HDL HD
+#EXTGRP:Познавательные
+http://31.148.48.15/HD_Life/index.m3u8?token=test
+#EXTINF:-1 tvg-name="History HD" tvg-logo="https://i.ibb.co/TgVggff/resize-2024-10-11-T000246-909.png" group-title="Познавательные", History HD
+#EXTGRP:Познавательные
+http://65.21.85.175:8000/play/a01s/index.m3u8?token=livetv
+#EXTINF:-1 tvg-name="Инсайт ТВ" tvg-logo="https://i.ibb.co/Z8mNwbM/resize-2024-10-10-T235103-508.png" group-title="Познавательные", Insight TV HD
+#EXTGRP:Познавательные
+http://u2tp5zor.megatv.fun/iptv/B4T6V2NK5QQVXT/5000/index.m3u8
+#EXTINF:-1 tvg-name="Discovery ID" tvg-logo="https://i.ibb.co/Yj2bdzY/resize-2024-10-10-T235006-511.png" group-title="Познавательные", Investigation Discovery
+#EXTGRP:Познавательные
+http://45.159.74.14/InvestigationDiscovery/tracks-v1a2/mono.m3u8
+#EXTINF:-1 tvg-name="Joy cook" tvg-logo="https://i.ibb.co/R3tTyh8/resize-2024-10-11-T000333-064.png" group-title="Познавательные", Joy cook
+
+
+#EXTINF:-1 tvg-name="Museum TV 4К" tvg-logo="https://i.ibb.co/SdsJLjM/resize-2024-10-11-T000412-329.png" group-title="Познавательные", Museum TV 4К
+#EXTGRP:Познавательные
+http://31.184.197.124/museum_hd/mono.m3u8
+#EXTINF:-1 tvg-name="Nano" tvg-logo="https://i.ibb.co/Dp5vK1L/resize-2024-10-11-T000706-065.png" group-title="Познавательные", Nano HD
+#EXTGRP:Познавательные
+http://dmi3y-tv.ru/hls/CH_NANOTVHD.m3u8
+#EXTINF:-1 tvg-name="Nat Geo Wild" tvg-logo="https://i.ibb.co/Sr3ZmSF/resize-2024-10-11-T000833-799.png" group-title="Познавательные", Nat Geo Wild
+#EXTGRP:Познавательные
+http://95.142.88.250/National_Geographic_Channel_HD/index.m3u8
+#EXTINF:-1 tvg-name="Nat Geo" tvg-logo="https://i.ibb.co/V31xnN2/resize-2024-10-11-T000740-577.png" group-title="Познавательные", National Geographic
+#EXTGRP:Познавательные
+https://flussonic.salomtv.uz/NationalGeographic/video.m3u8
+#EXTINF:-1 tvg-name="One Planet" tvg-logo="https://i.ibb.co/qN2Stcy/resize-2024-10-13-T125456-769.png" group-title="Познавательные",One Planet
+#EXTGRP:Познавательные
+http://ca.seetv.cc/play/310/909EB3897864A05/video.m3u8
+#EXTINF:-1 tvg-name="RTG HD" tvg-logo="https://i.ibb.co/c826XTH/resize-2024-10-11-T001348-931.png" group-title="Познавательные", RTG HD
+#EXTGRP:Познавательные
+http://194.143.148.28:8080/RTG_HD/mpegts
+#EXTINF:-1 tvg-name="RTG TV" tvg-logo="https://i.ibb.co/c826XTH/resize-2024-10-11-T001348-931.png" group-title="Познавательные", RTG TV
+#EXTGRP:Познавательные
+http://31.148.48.15/RTG/index.m3u8
+#EXTINF:-1 tvg-name="Sea TV" tvg-logo="https://i.ibb.co/HVY9GqC/resize-2024-10-13-T113924-186.png" group-title="Познавательные", Sea TV HD
+#EXTGRP:Познавательные
+http://s1.odinson.me/Dj5GhS1MK7/index.m3u8?token=ctusL4YsjAzDXaEX
+#EXTINF:-1 tvg-name="Silk Way HD" tvg-logo="https://i.ibb.co/bFkf19Y/resize-2024-10-11-T001545-767.png" group-title="Познавательные", Silk Way HD
+#EXTGRP:Познавательные
+https://ikomg-kazakh.akamaized.net/kazakh/kazakh.m3u8
+#EXTINF:-1 tvg-name="Sunst Space" tvg-logo="https://i.ibb.co/tmn4GNW/resize.png" group-title="Познавательные", Sunst Space
+#EXTGRP:Познавательные
+https://stream.sunset-media.ru/AfBrazXsUK/J9hGT3vYuv/3.m3u8
+#EXTINF:-1 tvg-name="Terra" tvg-logo="https://i.ibb.co/17LDPLK/resize-2024-10-11-T001626-192.png" group-title="Познавательные", Terra
+#EXTGRP:Познавательные
+https://livetv.mylifeisgood.net.ru/channels/terra.m3u8
+#EXTINF:-1 tvg-name="The Explorers" tvg-logo="https://i.ibb.co/1rBwWBL/resize-2024-10-11-T001815-632.png" group-title="Познавательные", The Explorers
+#EXTGRP:Познавательные
+http://de.seetv.cc/play/362/85F4AC9EDDEBA1C/video.m3u8
+#EXTINF:-1 tvg-name="Travel Channel" tvg-logo="https://i.ibb.co/xhrdShS/resize-2024-10-11-T001848-796.png" group-title="Познавательные", Travel Channel
+
+
+#EXTINF:-1 tvg-name="Travel XP HD" tvg-logo="https://i.ibb.co/85VWJNR/resize-2024-10-11-T002233-613.png" group-title="Познавательные", Travel XP HD
+#EXTGRP:Познавательные
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Travel+Adventure" tvg-logo="https://i.ibb.co/4RrPkzx/resize-2024-10-11-T002338-559.png" group-title="Познавательные", Travel+Adventure
+#EXTGRP:Познавательные
+http://130.193.73.10:8937/play/a026
+#EXTINF:-1 tvg-name="Viju Explore" tvg-logo="https://i.ibb.co/pbBwHnk/resize-2024-10-11-T002502-988.png" group-title="Познавательные", Viju Explore
+#EXTGRP:Познавательные
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://cdn.admuspeh.my/8085/video.m3u8?token=iptv50na50
+#EXTINF:-1 tvg-name="Viju+ History" tvg-logo="https://i.ibb.co/V3N7q10/resize-2024-10-11-T002611-099.png" group-title="Познавательные", Viju History
+#EXTGRP:Познавательные
+http://213.226.137.140:81/tl/l95/index.m3u8
+#EXTINF:-1 tvg-name="Viju Nature" tvg-logo="https://i.ibb.co/S3GCSy5/resize-2024-10-11-T002535-219.png" group-title="Познавательные", Viju Nature
+#EXTGRP:Познавательные
+https://flussonic.salomtv.uz/Viasat_Nature/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Viju+ Planet HD" tvg-logo="https://i.ibb.co/9vQ57Yn/resize-2024-10-11-T002640-481.png" group-title="Познавательные", Viju+ Planet HD
+#EXTGRP:Познавательные
+http://130.193.73.10:8937/play/a01l
+#EXTINF:-1 tvg-name="Авто Плюс" tvg-logo="https://i.ibb.co/Tmq6qpz/resize-2024-10-11-T002932-036.png" group-title="Познавательные", Авто Плюс
+#EXTGRP:Познавательные
+http://213.226.137.140:81/tl/l105/index.m3u8
+#EXTINF:-1 tvg-name="Бобер" tvg-id="bober" tvg-logo="https://i.ibb.co/XZ3xRXK/resize-2024-10-11-T003054-020.png" group-title="Познавательные", Бобер
+#EXTGRP:Познавательные
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://130.193.73.10:8937/play/a02a
+#EXTINF:-1 tvg-id="bolshaya-azia" tvg-name="Большая азия" tvg-logo="https://i.ibb.co/qB7tkQs/resize-2024-10-11-T003128-139.png" group-title="Познавательные", Большая азия
+#EXTGRP:Познавательные
+http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="В мире животных" tvg-logo="https://i.ibb.co/xXMXcNJ/resize-2024-10-11-T003332-539.png" group-title="Познавательные", В мире животных
+#EXTGRP:Познавательные
+http://178.163.16.7:4022/udp/234.0.0.97:2000
+#EXTINF:-1 tvg-name="Глазами Туриста" tvg-logo="https://i.ibb.co/7vqrzvB/resize-2024-10-11-T003500-859.png" group-title="Познавательные", Глазами Туриста
+#EXTGRP:Познавательные
+http://newsr1.roshen.live:8080/elkEfWUIPR/video.m3u8?token=4h6yHuDsZmJ5HDSD
+#EXTINF:-1 tvg-name="Глазами туриста 4K" tvg-logo="https://i.ibb.co/9hSgwSq/resize-2024-10-11-T003526-723.png" group-title="Познавательные", Глазами туриста 4K
+#EXTGRP:Познавательные
+http://u2tp5zor.megatv.fun/iptv/B4T6V2NK5QQVXT/15191/index.m3u8
+#EXTINF:-1 tvg-name="Дача" tvg-logo="https://i.ibb.co/x8W5xX2/resize-2024-10-13-T113724-490.png" group-title="Познавательные", Дача HD
+#EXTGRP:Познавательные
+http://newsr1.roshen.live:8080/36dwPrZvoZ/video.m3u8?token=4h6yHuDsZmJ5HDSD
+#EXTINF:-1 tvg-name="Диалоги о Рыбалке" tvg-logo="https://i.ibb.co/09NkSv5/resize-2024-10-11-T003805-811.png" group-title="Познавательные", Диалоги о Рыбалке
+#EXTGRP:Познавательные
+http://213.226.137.140:81/tl/l55/index.m3u8
+#EXTINF:-1 tvg-name="Дикая охота HD" tvg-logo="https://i.ibb.co/HGRjYmh/resize-2024-10-11-T003837-930.png" group-title="Познавательные", Дикая охота HD
+#EXTGRP:Познавательные
+http://stream01.vnet.am/Channel_127/mono.m3u8
+#EXTINF:-1 tvg-name="Дикая Рыбалка HD" tvg-logo="https://i.ibb.co/zxKkT3R/resize-2024-10-11-T003912-328.png" group-title="Познавательные", Дикая Рыбалка HD
+#EXTGRP:Познавательные
+https://flussonic.salomtv.uz/DikayaRibalkaHD/video.m3u8
+#EXTINF:-1 tvg-name="Дикий" tvg-logo="https://i.ibb.co/s3mtM5L/resize-2024-10-11-T003938-017.png" group-title="Познавательные", Дикий
+#EXTGRP:Познавательные
+http://65.21.85.175:8000/play/a00k/index.m3u8?token=livetv
+#EXTINF:-1 tvg-id="zdorovoe-tv" tvg-name="Доктор" tvg-logo="https://i.ibb.co/Ntfr6sM/resize-2024-10-11-T004104-345.png" group-title="Познавательные", Доктор
+#EXTGRP:Познавательные
+http://31.148.48.15/Doktor/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Домашние Животные" tvg-logo="https://i.ibb.co/6ZDMvw0/resize-2024-10-11-T004135-236.png" group-title="Познавательные", Домашние Животные
+#EXTGRP:Познавательные
+http://cdn.admuspeh.my/8081/index.m3u8?token=iptv50na50
+#EXTINF:-1 tvg-name="Драйв" tvg-logo="https://i.ibb.co/hDDMMMC/resize-2024-10-11-T004204-812.png" group-title="Познавательные", Драйв
+#EXTGRP:Познавательные
+http://flu.ttk.mx:90/Drive/mono.m3u8?token=hs06e
+#EXTINF:-1 tvg-name="Живая Планета" tvg-logo="https://i.ibb.co/C8XdCdk/resize-2024-10-11-T004232-028.png" group-title="Познавательные", Живая Планета
+#EXTGRP:Познавательные
+http://31.148.48.15/Zhivaya_Planeta/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Живая природа" tvg-logo="https://i.ibb.co/5nWsm1f/resize-2024-10-11-T004314-523.png" group-title="Познавательные", Живая природа
+#EXTGRP:Познавательные
+http://185.23.80.28:8080/ZhivayaPriroda_HD/index.m3u8?token=test
+#EXTINF:-1 tvg-id="zhivi-aktivno" tvg-name="Живи Активно HD" tvg-logo="https://i.ibb.co/xfMRW6K/resize-2024-10-11-T004435-656.png" group-title="Познавательные", Живи Активно HD
+#EXTGRP:Познавательные
+https://flussonic.salomtv.uz/JiviaktivnoHD/video.m3u8
+#EXTINF:-1 tvg-name="Живи!" tvg-logo="https://i.ibb.co/z22Ddby/resize-2024-10-11-T004501-660.png" group-title="Познавательные", Живи!
+#EXTGRP:Познавательные
+http://195.18.23.20:8000/play/10/index.m3u8
+#EXTINF:-1 tvg-name="Загородная жизнь" tvg-logo="https://i.ibb.co/JySx6Jf/resize-2024-10-11-T004641-949.png" group-title="Познавательные", Загородная жизнь
+#EXTGRP:Познавательные
+http://195.26.83.96:7007/play/10/index.m3u8
+#EXTINF:-1 tvg-name="Загородный" tvg-logo="https://i.ibb.co/tXd2kNn/resize-2024-10-11-T004839-887.png" group-title="Познавательные", Загородный
+#EXTGRP:Познавательные
+http://stream01.vnet.am/DTX/mono.m3u8
+#EXTINF:-1 tvg-name="Загородный Int" tvg-logo="https://i.ibb.co/tXd2kNn/resize-2024-10-11-T004839-887.png" group-title="Познавательные", Загородный Int
+#EXTGRP:Познавательные
+https://livetv.mylifeisgood.net.ru/channels/zagorodint.m3u8
+#EXTINF:-1 tvg-name="Здоровое ТВ" tvg-logo="https://i.ibb.co/5GBp9p9/resize-2024-10-11-T004913-283.png" group-title="Познавательные", Здоровое ТВ
+#EXTGRP:Познавательные
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://cdn.admuspeh.my/8127/index.m3u8?token=iptv50na50
+#EXTINF:-1 tvg-name="Зоо ТВ" tvg-logo="https://i.ibb.co/RyNmQZL/resize-2024-10-11-T004944-527.png" group-title="Познавательные", Зоо ТВ
+#EXTGRP:Познавательные
+http://31.148.48.15/Zoo_TV/index.m3u8
+#EXTINF:-1 tvg-name="ZOO ПАРК" tvg-logo="https://i.ibb.co/z4gNd5k/resize-2024-10-11-T002858-931.png" group-title="Познавательные", ЗООПАРК
+#EXTGRP:Познавательные
+https://flussonic.salomtv.uz/ZooPark/video.m3u8
+#EXTINF:-1 tvg-id="istorija" tvg-name="История" tvg-logo="https://i.ibb.co/87FZyhq/resize-2024-10-11-T005020-124.png" group-title="Познавательные", История
+#EXTGRP:Познавательные
+http://dmi3y-tv.ru/hls/CH_ISTORIYA.m3u8
+#EXTINF:-1 tvg-name="Китай ТВ" tvg-logo="https://i.ibb.co/Wvsd5jd/resize-2024-10-11-T005048-016.png" group-title="Познавательные", Китай ТВ
+#EXTGRP:Познавательные
+https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3u8
+#EXTINF:-1 tvg-name="Космо" tvg-logo="https://i.ibb.co/Y2Wy0zm/resize-2024-10-11-T005139-478.png" group-title="Познавательные", Космо HD
+#EXTGRP:Познавательные
+http://4b74cc2e.megogo.xyz/iptv/MHM96LNEYVSB28/11065/index.m3u8
+#EXTINF:-1 tvg-name="Кто есть кто" tvg-logo="https://i.ibb.co/BGjKd6Y/resize-2024-10-11-T005253-595.png" group-title="Познавательные", Кто есть кто
+#EXTGRP:Познавательные
+http://cdn.admuspeh.my/8105/index.m3u8?token=iptv50na50
+#EXTINF:-1 tvg-name="Кто Куда" tvg-logo="https://i.ibb.co/84B2CwG/resize-2024-10-11-T005334-626.png" group-title="Познавательные", Кто Куда
+#EXTGRP:Познавательные
+http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/2112/index.m3u8
+#EXTINF:-1 tvg-name="МИР ВОКРУГ HD" tvg-logo="https://i.ibb.co/stSNVJN/resize-2024-10-11-T005404-929.png" group-title="Познавательные", МИР ВОКРУГ HD
+#EXTGRP:Познавательные
+http://46.17.41.254:2020/channel/n766a7863/index.m3u8?q=c9a4efc12540f7d0eb46417ddc618c8b
+#EXTINF:-1 tvg-name="Моя Планета" tvg-logo="https://i.ibb.co/9Vpv2DP/resize-2024-10-11-T005724-270.png" group-title="Познавательные", Моя Планета HD
+#EXTGRP:Познавательные
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://dmi3y-tv.ru/hls/CH_MOYAPLANETAHD.m3u8
+#EXTINF:-1 tvg-name="Моя Стихия HD" tvg-logo="https://i.ibb.co/n1LCZFY/resize-2024-10-11-T005751-991.png" group-title="Познавательные", Моя Стихия HD
+#EXTGRP:Познавательные
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://109.200.130.123:7537/play/a02f
+#EXTINF:-1 tvg-name="Мужской" tvg-logo="https://i.ibb.co/BnC7bJ9/resize-2024-10-11-T005817-881.png" group-title="Познавательные", Мужской
+#EXTGRP:Познавательные
+http://195.26.83.96:7007/play/11/index.m3u8
+#EXTINF:-1 tvg-name="МЫ" tvg-logo="https://i.ibb.co/MsGgqwm/image-63.png" group-title="Познавательные", МЫ
+#EXTGRP:Познавательные
+http://4je2oiwp.klaipedalt.org/iptv/U5MT6SA5XYW4GS5FHQCYDAD4/6001/index.m3u8
+#EXTINF:-1 tvg-name="Наука 2.0" tvg-logo="https://i.ibb.co/DtZXVRh/resize-2024-10-11-T010342-897.png" group-title="Познавательные", Наука 2.0
+#EXTGRP:Познавательные
+http://178.124.152.238:8088/nauka
+#EXTINF:-1 tvg-name="Наша Тема" tvg-logo="https://i.ibb.co/N2fwkpX/resize-2024-10-11-T010447-918.png" group-title="Познавательные", Наша Тема
+#EXTGRP:Познавательные
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://u2tp5zor.megatv.fun/iptv/B4T6V2NK5QQVXT/2118/index.m3u8
+#EXTINF:-1 tvg-name="Неизвестная Россия" tvg-logo="https://i.ibb.co/Lkt1ZdN/resize-2024-10-11-T010530-051.png" group-title="Познавательные", Неизвестная Россия
+#EXTGRP:Познавательные
+http://cdn2.ntv.ru/unknown_russia/tracks-v3a1/mono.m3u8
+#EXTINF:-1 tvg-name="Ocean TV" tvg-logo="https://i.ibb.co/09h0V1r/resize-2024-10-11-T001114-055.png" group-title="Познавательные", Океан
+#EXTGRP:Познавательные
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://95.142.88.250/ocean_tv/index.m3u8
+#EXTINF:-1 tvg-name="Оружие" tvg-logo="https://i.ibb.co/vZTyMYg/resize-2024-10-11-T010556-551.png" group-title="Познавательные", Оружие
+#EXTGRP:Познавательные
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://cdn.admuspeh.my/8206/index.m3u8?token=iptv50na50
+#EXTINF:-1 tvg-name="Открытый мир" tvg-logo="https://i.ibb.co/GPGrP3Q/resize-2024-10-11-T010623-239.png" group-title="Познавательные", Открытый мир
+#EXTGRP:Познавательные
+http://v4.proofix.ru/0mir/index.m3u8
+#EXTINF:-1 tvg-name="Охотник и рыболов HD" tvg-logo="https://i.ibb.co/g61QRb7/resize-2024-10-11-T010712-987.png" group-title="Познавательные", Охотник и рыболов HD
+#EXTGRP:Познавательные
+http://stream01.vnet.am/Channel_124/mono.m3u8
+#EXTINF:-1 tvg-name="Охотник и рыболов Int HD" tvg-logo="https://i.ibb.co/g61QRb7/resize-2024-10-11-T010712-987.png" group-title="Познавательные", Охотник и рыболов Int HD
+#EXTGRP:Познавательные
+http://46.17.41.254:2020/channel/6a16574b/index.m3u8?q=c9a4efc12540f7d0eb46417ddc618c8b
+#EXTINF:-1 tvg-name="Первый Вегетарианский" tvg-logo="https://i.ibb.co/X4QwB4Z/resize-2024-10-11-T010900-169.png" group-title="Познавательные", Первый Вегетарианский
+#EXTGRP:Познавательные
+http://de.seetv.cc/play/335/85F4AC9EDDEBA1C/video.m3u8
+#EXTINF:-1 tvg-name="Первый космический" tvg-logo="https://i.ibb.co/vDWS6wY/resize-24.png" group-title="Познавательные", Первый космический
+#EXTGRP:Познавательные
+http://stream01.vnet.am/Evrika/mono.m3u8
+#EXTINF:-1 tvg-name="Первый Медицинский канал" tvg-logo="https://i.ibb.co/ZG6QnXp/image-64.png" group-title="Познавательные", Первый Медицинский канал
+#EXTGRP:Познавательные
+https://rq3qltxnbx1.a.trbcdn.net/livemaster/8hwxnq4s0v_efir0_tcode1080p/playlist.m3u8
+#EXTINF:-1 tvg-name="Перпетуум Мобиле" tvg-logo="https://i.ibb.co/FzhFy51/resize-2024-10-11-T011222-593.png" group-title="Познавательные", Перпетуум Мобиле
+
+
+#EXTINF:-1 tvg-name="ПОЕХАЛИ!" tvg-logo="https://i.ibb.co/Fg3BcpF/resize-2024-10-11-T011256-664.png" group-title="Познавательные", ПОЕХАЛИ!
+#EXTGRP:Познавательные
+http://31.148.48.15/Poehali/index.m3u8
+#EXTINF:-1 tvg-name="Полёт ТВ" tvg-logo="https://i.ibb.co/BNSZ6k9/resize-2024-10-11-T011345-945.png" group-title="Познавательные", Полёт ТВ
+
+
+#EXTINF:-1 tvg-name="Приключения HD" tvg-logo="https://i.ibb.co/Yc8Qtn2/resize-2024-10-11-T011419-725.png" group-title="Познавательные", Приключения HD
+#EXTGRP:Познавательные
+http://178.163.88.106:4022/udp/234.0.0.193:2000
+#EXTINF:-1 tvg-name="Просвещение" tvg-logo="https://i.ibb.co/1fFx6Bk/resize-2024-10-11-T011549-904.png" group-title="Познавательные", Просвещение
+#EXTGRP:Познавательные
+https://cdn-01.bonus-tv.ru/prosveschenie_edge/index.m3u8
+#EXTINF:-1 tvg-name="Психология 21" tvg-logo="https://i.ibb.co/zHpchTC/resize-2024-10-11-T011625-378.png" group-title="Познавательные", Психология
+#EXTGRP:Познавательные
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://cdn.admuspeh.my/8192/index.m3u8?token=iptv50na50
+#EXTINF:-1 tvg-name="Рибалка HD" tvg-logo="https://i.ibb.co/1GLp2sh/resize-2024-10-11-T011857-987.png" group-title="Познавательные", Рыбалка HD
+
+
+#EXTINF:-1 tvg-name="Рыбалка и охота" tvg-logo="https://i.ibb.co/kMG0Q0Y/resize-2024-10-11-T011953-951.png" group-title="Познавательные", Рыбалка и охота
+#EXTGRP:Познавательные
+http://87.99.87.203:2007/channel/n229ae33b/index.m3u8?q=c3588a53af791e8f506ef6c3dcdc8be0
+#EXTINF:-1 tvg-name="Рыболов" tvg-logo="https://i.ibb.co/0VfHSSF/resize-2024-10-11-T012026-735.png" group-title="Познавательные", Рыболов
+#EXTGRP:Познавательные
+http://cdn.admuspeh.my/8183/index.m3u8?token=iptv50na50
+#EXTINF:-1 tvg-name="Среда ТВ" tvg-logo="https://i.ibb.co/y4FD48L/resize-2024-10-11-T012250-843.png" group-title="Познавательные", Среда HD
+#EXTGRP:Познавательные
+http://iptv46.mcx-ix.ru:8077/sreda/index.m3u8
+#EXTINF:-1 tvg-name="Соль ТВ" tvg-logo="https://i.ibb.co/qmpnCrc/resize-6.png" group-title="Познавательные", Соль ТВ
+
+
+#EXTINF:-1 tvg-name="Т24" tvg-logo="https://i.ibb.co/bPcwnhx/resize-2024-10-11-T012326-065.png" group-title="Познавательные", Т24
+#EXTGRP:Познавательные
+https://flussonic.salomtv.uz/Tehno24/video.m3u8
+#EXTINF:-1 tvg-name="Телепутешествия" tvg-logo="https://i.ibb.co/9Hc8Mdg/resize-2024-10-11-T012433-319.png" group-title="Познавательные", Телепутешествия
+#EXTGRP:Познавательные
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://31.148.48.15/Teleputeshestviya/index.m3u8
+#EXTINF:-1 tvg-name="Тонус" tvg-logo="https://i.ibb.co/wsPdgLk/image-65.png" group-title="Познавательные", Тонус
+#EXTGRP:Познавательные
+http://stream01.vnet.am/ZooTv/mono.m3u8
+#EXTINF:-1 tvg-name="Точка отрыва" tvg-logo="https://i.ibb.co/QbpvfWQ/resize-2024-10-11-T012715-528.png" group-title="Познавательные", Точка отрыва
+#EXTGRP:Познавательные
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://185.23.80.28:8080/TochkoOtryva/index.m3u8?token=iptv50na50
+#EXTINF:-1 tvg-name="Трофей" tvg-logo="https://i.ibb.co/s9q8mrV/resize-2024-10-11-T012834-612.png" group-title="Познавательные", Трофей
+#EXTGRP:Познавательные
+http://cdn.admuspeh.my/8317/index.m3u8?token=iptv50na50
+#EXTINF:-1 tvg-name="Усадьба" tvg-logo="https://i.ibb.co/99N9Q4j/resize-2024-10-11-T012938-275.png" group-title="Познавательные", Усадьба
+#EXTGRP:Познавательные
+http://cdn.admuspeh.my/8017/index.m3u8?token=iptv50na50
+#EXTINF:-1 tvg-name="Фауна" tvg-logo="https://i.ibb.co/qj5s81H/resize-2024-10-13-T113256-313.png" group-title="Познавательные", Фауна
+#EXTGRP:Познавательные
+http://cb163385.amazzin.pw/iptv/MLLNWFWVC3H9YNUQTDBDHZGK/31727/index.m3u8
+#EXTINF:-1 tvg-name="Хочу все знать" tvg-logo="https://i.ibb.co/vQzf2LK/resize-2024-10-11-T013149-899.png" group-title="Познавательные", Хочу все знать
+
+
+
+
+
 #EXTINF:-1 tvg-name="FlixSnip" tvg-logo="https://i.ibb.co/HFxrW5s/resize-2.png" group-title="Кино и сериалы", FlixSnip
 #EXTGRP:Кино и сериалы
 http://185.50.148.2:7703/FlixSnip/index.m3u8
