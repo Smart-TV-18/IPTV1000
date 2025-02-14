@@ -793,9 +793,6 @@ https://30a-tv.com/feeds/720p/63.m3u8
 #EXTINF:-1 tvg-name="Точка ТВ" tvg-logo="https://i.ibb.co/N6xbS5Q/resize-2024-10-10-T232337-925.png" group-title="Развлекательные", Точка ТВ
 #EXTGRP:Развлекательные
 http://31.148.48.15/Tochka_TV/index.m3u8
-#EXTINF:-1 tvg-name="Чемодан ТВ" tvg-logo="https://i.ibb.co/T1MYfT9/resize-7.png" group-title="Развлекательные", Чемодан ТВ
-#EXTGRP:Развлекательные
-http://ott.watch/stream/A2Q8BAKW82/399.m3u8
 #EXTINF:-1 tvg-name="Ярмарка TV" tvg-logo="https://i.ibb.co/tCDbmL9/image-62.png" group-title="Развлекательные", Ярмарка TV
 #EXTGRP:Развлекательные
 https://api.alpaca.t62a.com/hls/9104/stream0.m3u8
