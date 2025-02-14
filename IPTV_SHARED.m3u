@@ -795,64 +795,17 @@ http://92.53.64.197:5050/IPTVPLAYPROMO.tv/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="http://bezbe.my1.ru/poster/tvplay.png" group-title="Кинозалы", МультСказки HD
 http://92.53.64.197:5050/IPTVPLAYMultSkazki.tv/video.m3u8?token=m3VIth-Rou_bM1
 
-#EXTINF:-1 tvg-id="cineman" group-title="Кинозалы", CineMan
-http://77.235.1.17/tv100_action/index.m3u8
-
-#EXTINF:-1 tvg-id="cineman-rukino" group-title="Кинозалы", CineMan РуКино
-http://77.235.1.17/tv100_ruskino/index.m3u8
-
-#EXTINF:-1 tvg-id="cineman-top" group-title="Кинозалы", CineMan Top
-http://77.235.1.17/tv100_top/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="Кинозалы", Alpha Cinema
-#EXTVLCOPT:http-user-agent=SmartTV
-http://hls.goodgame.ru/hls/205072.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="Кинозалы", Alpha Funny
 #EXTVLCOPT:http-user-agent=SmartTV
 http://hls.goodgame.ru/hls/206963.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="Кинозалы", Крепкое кино
-http://91.207.115.228:9001/play/a0d6/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="Кинозалы", Наше детство
-http://91.207.115.228:9001/play/a0aj/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="Кинозалы", Русское кино
-http://91.207.114.220:9001/play/a0af/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="Кинозалы", Семейное кино
-http://91.207.114.220:9001/play/a07w/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="Кинозалы", Советское кино
-http://91.207.114.220:9001/play/a0aq/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="Кинозалы", Film TV 1
-#EXTVLCOPT:http-user-agent=SmartTV
-http://hls.goodgame.ru/hls/208133.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="Кинозалы", Film TV 3
 #EXTVLCOPT:http-user-agent=SmartTV
 http://hls.goodgame.ru/hls/208358.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="Кинозалы", Film TV 4
-#EXTVLCOPT:http-user-agent=SmartTV
-https://autopilot.catcast.tv/content/47180/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="Кинозалы", Film TV 5
-#EXTVLCOPT:http-user-agent=SmartTV
-https://autopilot.catcast.tv/content/47689/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="Кинозалы", Film TV 6
-#EXTVLCOPT:http-user-agent=SmartTV
-https://autopilot.catcast.tv/content/47764/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="Кинозалы", ВосходТВ
 #EXTVLCOPT:http-user-agent=SmartTV
 https://hls.goodgame.ru/manifest/202997_master.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="vhs-ka" group-title="Кинозалы", VHS-ка HD
-http://88.218.242.237:8000/play/a00x
 
 #EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="Кинозалы", Series TV
 #EXTVLCOPT:http-user-agent=SmartTV
@@ -874,8 +827,6 @@ https://hls.goodgame.ru/hls/5346.m3u8
 #EXTVLCOPT:http-user-agent=SmartTV
 http://hlss.goodgame.ru/hls/204722.m3u8
 
-#EXTINF:-1 tvg-id="strk" group-title="Кинозалы", СТРК HD
-http://sochinskayatrk.ru/hdtv/hls/strc_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="Кинозалы", SCR TV HD
 #EXTVLCOPT:http-user-agent=SmartTV
@@ -985,113 +936,28 @@ https://fl1001.bozztv.com/ushba31/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="no_epg" group-title="Кинозалы" tvg-logo="https://cdn.vox-cdn.com/thumbor/cKmWp_uKpELnAmMk4BEIdJShlrk=/0x0:960x540/1600x900/cdn.vox-cdn.com/uploads/chorus_image/image/34106623/gametrailers-logo_960.0.jpg", Gameplay трейлеры
 https://fl1001.bozztv.com/ushba44/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Ksk46hS/image-19.png" tvg-id="no_epg_cinema" group-title="Кинозалы", Сити Эдем - КиноНовелла
-#EXTVLCOPT:http-user-agent=SmartTV
-https://autopilot.catcast.tv/content/46209/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/J7qtbpG/image-34.png" tvg-id="no_epg_cinema" group-title="Кинозалы", Сити Эдем - КиноСемья
-#EXTVLCOPT:http-user-agent=SmartTV
-https://autopilot.catcast.tv/content/38128/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jVvpKsf/image-35.png" tvg-id="no_epg_cinema" group-title="Кинозалы", Сити Эдем - Христианский
-#EXTVLCOPT:http-user-agent=SmartTV
-https://autopilot.catcast.tv/content/34246/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vVBbN9b/image-37.png" tvg-id="no_epg_cinema" group-title="Кинозалы", Сити Эдем - КиноЭкшен
-#EXTVLCOPT:http-user-agent=SmartTV
-https://v2.catcast.tv/content/41333/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/m0rrTgk/image-38.png" tvg-id="no_epg_cinema" group-title="Кинозалы", Сити Эдем - КиноДетектив
-#EXTVLCOPT:http-user-agent=SmartTV
-https://v2.catcast.tv/content/41327/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZmnJpqn/image-51.png" tvg-id="no_epg_cinema" group-title="Кинозалы", Сити Эдем - КиноМистика
 #EXTVLCOPT:http-user-agent=SmartTV
 https://v2.catcast.tv/content/40783/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Vt8pGtN/image-53.png" tvg-id="no_epg_cinema" group-title="Кинозалы", Сити Эдем - КиноКомедия
-#EXTVLCOPT:http-user-agent=SmartTV
-https://v2.catcast.tv/content/41331/index.m3u8
 
-https://fs2.persik.by/Vdohnovenie_12/index.m3u8
-#EXTINF:-1 tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" tvg-id="no_epg_cinema" tvg-name="фестивальное кино" group-title="Кинозалы PersikTV",Фестивальное кино
-https://fs2.persik.by/FestivalnoeKino8/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" tvg-id="no_epg_cinema" group-title="Кинозалы PersikTV",Рекомендуем
 https://fs2.persik.by/Rekomenduem7/index.m3u8
-#EXTINF:-1 tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" tvg-id="no_epg_cinema" tvg-name="про родителей" group-title="Кинозалы PersikTV",Про родителей HD
-http://fs2.persik.by/Pro_roditeley8/index.m3u8
-#EXTINF:-1 tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" tvg-id="no_epg_cinema" tvg-name="в кругу семьи" group-title="Кинозалы PersikTV",В кругу семьи HD
-http://fs2.persik.by/V_krugu_semii2/index.m3u8
-#EXTINF:-1 tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" tvg-id="no_epg_cinema" tvg-name="семейное" group-title="Кинозалы PersikTV",Семейное HD
-http://fs2.persik.by/Semejnoe9/index.m3u8
 #EXTINF:-1 tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" tvg-id="no_epg_cinema" group-title="Кинозалы PersikTV",Семейные фильмы
 http://fs2.persik.by/Semejnie_Filmy6/index.m3u8
-#EXTINF:-1 tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" tvg-id="no_epg_cinema" group-title="Кинозалы PersikTV",Популярное кино
-https://fs2.persik.by/Populyarnoe_Kino_10/index.m3u8
-#EXTINF:-1 tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" tvg-id="no_epg_cinema" group-title="Кинозалы PersikTV",Европейское кино
-https://fs2.persik.by/EvropejskoeKino14/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" tvg-id="no_epg_cinema" group-title="Кинозалы PersikTV",Триллеры-Драма
-http://fs2.persik.by/Trillery_Drama4/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" tvg-id="no_epg_cinema" group-title="Кинозалы PersikTV",Американские комедии
-https://fs2.persik.by/Amerikanskie_Komedii_12/index.m3u8
 #EXTINF:-1 tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" tvg-id="no_epg_cinema" group-title="Кинозалы PersikTV",Маньяки
 http://fs2.persik.by/Manjaki6/index.m3u8
-#EXTINF:-1 tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" tvg-id="no_epg_cinema" group-title="Кинозалы PersikTV",Relax HD
-https://fs2.persik.by/Relax3/index.m3u8
-#EXTINF:-1 tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" tvg-id="no_epg_cinema" group-title="Кинозалы PersikTV",Вторая мировая
-http://fs2.persik.by/Vtoraja_Mirovaja_7/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" tvg-id="no_epg_cinema" group-title="Кинозалы PersikTV",Новогодние фильмы
-http://fs2.persik.by/Novogodnie_Filmy_7/index.m3u8
 #EXTINF:-1 tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" tvg-id="no_epg_cinema" group-title="Кинозалы PersikTV",Рождественские фильмы
 http://fs2.persik.by/Rozhdestvenskie_filmy5/index.m3u8
-#EXTINF:-1 tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" tvg-id="no_epg_cinema" group-title="Кинозалы PersikTV",ДРУЖБА
-http://fs2.persik.by/Druzhba7/index.m3u8
 #EXTINF:-1 tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" tvg-id="no_epg_cinema" group-title="Кинозалы PersikTV",Кино про дружбу
 http://fs2.persik.by/Pro_druzhbu7/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" tvg-id="no_epg_cinema" group-title="Кинозалы PersikTV",Английские субтитры
-http://fs2.persik.by/Angliyskie_subtitry5/index.m3u8
-#EXTINF:-1 tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" tvg-id="no_epg_cinema" group-title="Кинозалы PersikTV",ФЕСТИВАЛЬНОЕ КИНО
-http://fs2.persik.by/FestivalnoeKino8/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" tvg-id="no_epg_cinema" group-title="Кинозалы PersikTV",АНТИСТРЕСС
-http://fs2.persik.by/Kino_Antistress8/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" tvg-id="no_epg_cinema" group-title="Кинозалы PersikTV",ДАВАЙ ПОЖЕНИМСЯ
-http://fs2.persik.by/Davaj_Pozhenimsya6/index.m3u8
-#EXTINF:-1 tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" tvg-id="no_epg_cinema" group-title="Кинозалы PersikTV",РОМАНТИЧЕСКИЕ
-https://fs2.persik.by/Romanticheskie8/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" tvg-id="no_epg_cinema" group-title="Кинозалы PersikTV",Кино по книгам
-https://fs2.persik.by/Kino_po_knigam9/index.m3u8
-#EXTINF:-1 tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" tvg-id="no_epg_cinema" group-title="Кинозалы PersikTV",Зомби-апокалипсис
-http://fs2.persik.by/Zombi_apokalipsis7/index.m3u8
-#EXTINF:-1 tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" tvg-id="no_epg_cinema" group-title="Кинозалы PersikTV",Экранизации HD
-https://fs2.persik.by/Ekranizacii12/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" tvg-id="no_epg_cinema" group-title="Кинозалы PersikTV",МИРОНОВ
-https://fs2.persik.by/Mironov7/index.m3u8
-#EXTINF:-1 tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" tvg-id="no_epg_cinema" group-title="Кинозалы PersikTV",Аниме HD
-http://fs2.persik.by/Anime5/index.m3u8
-#EXTINF:-1 tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" tvg-id="no_epg_cinema" group-title="Кинозалы PersikTV",Сказки HD
-http://fs2.persik.by/Skazki6/index.m3u8
-#EXTINF:-1 tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" tvg-id="no_epg_cinema" group-title="Кинозалы PersikTV",Детские фильмы
-https://fs2.persik.by/DetskieFilmy4/index.m3u8
-#EXTINF:-1 tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" tvg-id="no_epg_cinema" group-title="Кинозалы PersikTV",Детские песни
-https://fs2.persik.by/DetskiePesni4/index.m3u8
-#EXTINF:-1 tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" tvg-id="no_epg_cinema" tvg-name="dj" group-title="Кинозалы PersikTV",DJ HD
-https://fs2.persik.by/DJ4/index.m3u8
-#EXTINF:-1 tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" tvg-id="no_epg_cinema" tvg-name="hits" group-title="Кинозалы PersikTV",Hits HD
-http://fs2.persik.by/Hits4/index.m3u8
-#EXTINF:-1 tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" tvg-id="no_epg_cinema" tvg-name="pop-rock" group-title="Кинозалы PersikTV",POP-ROCK HD
-https://fs2.persik.by/Pop_Rock2/index.m3u8
 #EXTINF:-1 tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" tvg-id="no_epg_cinema" tvg-name="рэп" group-title="Кинозалы PersikTV",Рэп HD
 http://fs2.persik.by/Rap2/index.m3u8
-#EXTINF:-1 tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" tvg-id="no_epg_cinema" group-title="Кинозалы PersikTV",Best clips HD
-https://fs2.persik.by/Best_clips/index.m3u8
 #EXTINF:-1 tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" tvg-id="no_epg_cinema" group-title="Кинозалы PersikTV",Concerts HD
 https://fs2.persik.by/Concerts4/index.m3u8
 #EXTINF:-1 tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" tvg-id="no_epg_cinema" group-title="Кинозалы PersikTV",Sluhay.by COVER HD
@@ -1112,34 +978,18 @@ https://fs2.persik.by/Sluhay_Rock/tracks-v1a1/mono.m3u8
 https://fs2.persik.by/Techno3/index.m3u8
 #EXTINF:-1 tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" tvg-id="no_epg_cinema" tvg-name="synthwave" group-title="Кинозалы PersikTV",Synthwave HD
 http://fs2.persik.by/Synthwave/index.m3u8
-#EXTINF:-1 tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" tvg-id="no_epg_cinema" group-title="Кинозалы PersikTV",КОСМОС
-http://fs2.persik.by/Kosmo5/index.m3u8
-#EXTINF:-1 tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" tvg-id="no_epg_cinema" group-title="Кинозалы PersikTV",ДОКУМЕНТАЛЬНОЕ КИНО
-http://fs2.persik.by/DokumentalnoeKino3/index.m3u8
 #EXTINF:-1 tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" tvg-id="no_epg_cinema" group-title="Кинозалы PersikTV",ДОКУМЕНТАЛЬНОЕ
 http://fs2.persik.by/Dokumentalnoe4/index.m3u8
 #EXTINF:-1 tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" tvg-id="no_epg_cinema" tvg-name="movie" group-title="Кинозалы PersikTV",MOVIE HD
 http://fs2.persik.by/Movie2/index.m3u8
 #EXTINF:-1 tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" tvg-id="no_epg_cinema" tvg-name="persiktv семейные фильмы" group-title="Кинозалы PersikTV",PersikTV Семейные фильмы HD
 http://fs2.persik.by/Semejnie_Filmy6/index.m3u8
-#EXTINF:-1 tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" tvg-id="no_epg_cinema" tvg-name="persiktv романтические фильмы" group-title="Кинозалы PersikTV",PersikTV Романтические фильмы
-http://fs2.persik.by/Romanticheskie8/index.m3u8
-#EXTINF:-1 tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" tvg-id="no_epg_cinema" tvg-name="persiktv фестивальное кино" group-title="Кинозалы PersikTV",PersikTV Фестивальное кино
-http://fs2.persik.by/FestivalnoeKino8/index.m3u8
-#EXTINF:-1 tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" tvg-id="no_epg_cinema" tvg-name="persiktv экранизации" group-title="Кинозалы PersikTV",PersikTV Экранизации HD
-http://fs2.persik.by/Ekranizacii12/index.m3u8
 #EXTINF:-1 tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" tvg-id="no_epg_cinema" tvg-name="persiktv concerts" group-title="Кинозалы PersikTV",PersikTV Concerts HD
 http://fs2.persik.by/Concerts4/index.m3u8
-#EXTINF:-1 tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" tvg-id="no_epg_cinema" tvg-name="persiktv dj" group-title="Кинозалы PersikTV",PersikTV DJ HD
-http://fs2.persik.by/DJ4/index.m3u8
-#EXTINF:-1 tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" tvg-id="no_epg_cinema" tvg-name="persiktv hits" group-title="Кинозалы PersikTV",PersikTV Hits HD
-http://fs2.persik.by/Hits4/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" tvg-id="no_epg_cinema" tvg-name="persiktv movie" group-title="Кинозалы PersikTV",PersikTV MOVIE HD
 http://fs2.persik.by/Movie2/index.m3u8
-#EXTINF:-1 tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" tvg-id="no_epg_cinema" tvg-name="persiktv pop-rock" group-title="Кинозалы PersikTV",PersikTV POP-ROCK HD
-http://fs2.persik.by/Pop_Rock2/index.m3u8
-#EXTINF:-1 tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" tvg-id="no_epg_cinema" tvg-name="persiktv relax" group-title="Кинозалы PersikTV",PersikTV Relax HD
-http://fs2.persik.by/Relax3/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" tvg-id="no_epg_cinema" tvg-name="persiktv документальное кино" group-title="Кинозалы PersikTV",PersikTV ДОКУМЕНТАЛЬНОЕ КИНО HD
 http://fs2.persik.by/DokumentalnoeKino3/index.m3u8
 #EXTINF:-1 tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" tvg-id="no_epg_cinema" tvg-name="persiktv рэп" group-title="Кинозалы PersikTV",PersikTV Рэп HD
@@ -1160,12 +1010,6 @@ http://fs2.persik.by/Sluhay_RADIO2/index.m3u8
 http://fs2.persik.by/Sluhay_RAP/index.m3u8
 #EXTINF:-1 tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" tvg-id="no_epg_cinema" tvg-name="synthwave" group-title="Кинозалы PersikTV",Synthwave HD
 http://fs2.persik.by/Synthwave/index.m3u8
-#EXTINF:-1 tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" tvg-id="no_epg_cinema" tvg-name="persiktv аниме" group-title="Кинозалы PersikTV",PersikTV Аниме HD
-http://fs2.persik.by/Anime5/index.m3u8
-#EXTINF:-1 tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" tvg-id="no_epg_cinema" tvg-name="persiktv детские песни" group-title="Кинозалы PersikTV",PersikTV Детские Песни HD
-http://fs2.persik.by/DetskiePesni4/index.m3u8
-#EXTINF:-1 tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" tvg-id="no_epg_cinema" tvg-name="persiktv детские фильмы" group-title="Кинозалы PersikTV",PersikTV Детские фильмы HD
-http://fs2.persik.by/DetskieFilmy4/index.m3u8
 
 #EXTINF:-1 group-title="Кинозалы A-Media" tvg-logo="https://files.taurer.org/iptv_content/assets/ru/TKACHEVY_TEMP.png",ONAIR FREE [Ткачевы на связи]
 http://jordan.a-media.one:80/99qn6WbBPj/QHvjRgtxjN/11.m3u8
