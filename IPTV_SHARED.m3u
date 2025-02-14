@@ -563,6 +563,242 @@ http://stream01.vnet.am/KukhnyaTv/mono.m3u8
 http://ott-cdn.ucom.am/s18/04.m3u8
 
 
+#EXTINF:-1 tvg-name="7 TV" tvg-logo="https://i.ibb.co/q587WLm/image-94.png" group-title="Развлекательные", 7 TV
+#EXTGRP:Развлекательные
+http://v4.proofix.ru:80/7tv-live/index.m3u8
+#EXTINF:-1 tvg-name="AFV " tvg-logo="https://i.ibb.co/xXTvtq2/image-43.png" group-title="Развлекательные", AFV
+#EXTGRP:Развлекательные
+https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="AFV " tvg-logo="https://i.ibb.co/xXTvtq2/image-43.png" group-title="Развлекательные", AFV en Español
+#EXTGRP:Развлекательные
+https://linear-46.frequency.stream/dist/plex/46/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="AFV " tvg-logo="https://i.ibb.co/xXTvtq2/image-43.png" group-title="Развлекательные", AFV Family
+#EXTGRP:Развлекательные
+https://futuretoday-afv-family-2-be.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Camera Smile " tvg-logo="https://i.ibb.co/TmPYKgK/image-44.png" group-title="Развлекательные", Camera Smile
+#EXTGRP:Развлекательные
+https://bozztv.com/gusa/gusa-camerasmile/index.m3u8
+#EXTINF:-1 tvg-name="CGTN Русский(тест)" tvg-logo="https://i.ibb.co/27GXQYG/resize-2024-10-10-T212758-935.png" group-title="Развлекательные", CGTN Русский
+#EXTGRP:Развлекательные
+http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
+#EXTINF:-1 tvg-name="DasturxonTV" tvg-logo="https://i.ibb.co/ZM0qvYX/resize-2024-10-10-T232547-281.png" group-title="Развлекательные", Dasturxon TV
+#EXTGRP:Развлекательные
+https://flussonic.salomtv.uz/DasturxonTV/video.m3u8
+#EXTINF:-1 tvg-name="Epic HD" tvg-logo="https://i.ibb.co/VVNrtc4/image-47.png" group-title="Развлекательные", Epic HD
+#EXTGRP:Развлекательные
+http://cb163385.amazzin.pw/iptv/MLLNWFWVC3H9YNUQTDBDHZGK/2054/index.m3u8
+#EXTINF:-1 tvg-name="Failarmy IT" tvg-logo="https://i.ibb.co/rkqXDdf/image-45.png" group-title="Развлекательные", Failarmy IT
+#EXTGRP:Развлекательные
+https://failarmy-international-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Еда Премиум" tvg-logo="https://i.ibb.co/ncsSxJV/resize-2024-10-10-T223920-952.png" group-title="Развлекательные", Food Network
+#EXTGRP:Развлекательные
+http://cdn.admuspeh.my/8385/index.m3u8?token=iptv50na50
+#EXTINF:-1 tvg-name="Food time" tvg-logo="https://i.ibb.co/0Z6bghD/resize-2024-10-10-T232854-688.png" group-title="Развлекательные", Food time
+#EXTGRP:Развлекательные
+http://46.17.41.254:2020/channel/n477f0f72/index.m3u8?q=c9a4efc12540f7d0eb46417ddc618c8b
+#EXTINF:-1 tvg-name="Gagsnetwork" tvg-logo="https://i.ibb.co/SJxkQ0B/resize-2024-10-10-T213059-973.png" group-title="Развлекательные", Gagsnetwork
+#EXTGRP:Развлекательные
+http://87.99.87.203:2007/channel/n7d80fe57/index.m3u8?q=c3588a53af791e8f506ef6c3dcdc8be0
+#EXTINF:-1 tvg-name="Just for Laughs Gags" tvg-logo="https://i.ibb.co/s3kx7GD/image-68.png" group-title="Развлекательные", Just for Laughs Gags
+
+
+#EXTINF:-1 tvg-name="Кулинар HD" tvg-logo="https://i.ibb.co/YWCzHjp/resize-2024-10-10-T225303-168.png" group-title="Развлекательные", Kulinar TV
+#EXTGRP:Развлекательные
+http://api.alpaca.t62a.com/hls/9110/stream0.m3u8
+#EXTINF:-1 tvg-name="Mar TV" tvg-logo="https://i.ibb.co/VSSFQdh/image-48.png" group-title="Развлекательные", Mar TV
+#EXTGRP:Развлекательные
+http://iptv.services.everywan.net:8080/martv-web/video.m3u8
+#EXTINF:-1 tvg-name="O кино" tvg-logo="https://i.ibb.co/3F8gqhc/image-54.png" group-title="Развлекательные", O!Кино
+#EXTGRP:Развлекательные
+http://8c902592.rossteleccom.net/iptv/DSY4CY6M8DWFS6/20023/index.m3u8
+#EXTINF:-1 tvg-name="OVAA" tvg-logo="https://i.ibb.co/4mfMGq3/resize-2024-10-10-T232436-901.png" group-title="Развлекательные", OVAA
+#EXTGRP:Развлекательные
+http://tv.tuva.ru/ovaa/index.m3u8
+#EXTINF:-1 tvg-name="Failarmy IT" tvg-logo="https://i.ibb.co/3NNQ7H3/resize-2024-10-10-T212143-348.png" group-title="Развлекательные", Pink LOL
+#EXTGRP:Развлекательные
+http://vip.bmbtv.me:15000/z1TzcgG68T/G10wfFmf6R/84542
+#EXTINF:-1 tvg-name="Quiz TV HD" tvg-logo="https://i.ibb.co/5v13n6y/resize-2024-10-10-T215927-577.png" group-title="Развлекательные", Quiz TV HD
+#EXTGRP:Развлекательные
+http://de.iptv.monster/play/2636/F1B8D744B3A2467/video.m3u8
+#EXTINF:-1 tvg-name="Raz 1" tvg-logo="https://i.ibb.co/TBxkdqg/resize-2024-10-10-T213336-369.png" group-title="Развлекательные", Raz 1
+#EXTGRP:Развлекательные
+http://ott.watch/stream/A2Q8BAKW82/463.m3u8
+#EXTINF:-1 tvg-name="Raz 2" tvg-logo="https://i.ibb.co/q04pN7S/resize-2024-10-10-T213400-242.png" group-title="Развлекательные", Raz 2
+#EXTGRP:Развлекательные
+http://ott.watch/stream/A2Q8BAKW82/464.m3u8
+#EXTINF:-1 tvg-name="San Porto" tvg-logo="https://i.ibb.co/1KXrthC/image-2024-10-14-T202803-807.png" group-title="Развлекательные", San Porto
+
+
+#EXTINF:-1 tvg-name="TOO MUCH BUSINESS" tvg-logo="https://i.ibb.co/JHKpLV0/image-97.png" group-title="Развлекательные", TOO MUCH BUSINESS
+
+
+#EXTINF:-1 tvg-name="The Pet Collective" tvg-logo="https://i.ibb.co/kDpS6VZ/image-49.png" group-title="Развлекательные", The Pet Collective ES
+#EXTGRP:Развлекательные
+https://the-pet-collective-international-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="The Pet Collective" tvg-logo="https://i.ibb.co/kDpS6VZ/image-49.png" group-title="Развлекательные", The Pet Collective IN
+#EXTGRP:Развлекательные
+https://the-pet-collective-international-in.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="The Pet Collective" tvg-logo="https://i.ibb.co/kDpS6VZ/image-49.png" group-title="Развлекательные", The Pet Collective IT
+#EXTGRP:Развлекательные
+https://the-pet-collective-international-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="The Pet Collective" tvg-logo="https://i.ibb.co/kDpS6VZ/image-49.png" group-title="Развлекательные", The Pet Collective SE
+#EXTGRP:Развлекательные
+https://the-pet-collective-international-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="TLC" tvg-logo="https://i.ibb.co/Fn2wvxb/resize-2024-10-10-T214049-057.png" group-title="Развлекательные", TLC
+#EXTGRP:Развлекательные
+http://cdn.admuspeh.my/8060/index.m3u8?token=iptv50na50
+#EXTINF:-1 tvg-name="1+2" tvg-logo="https://i.ibb.co/xs5ySR1/resize-2024-10-10-T211033-192.png" group-title="Развлекательные", TV 1+2 EE
+#EXTGRP:Развлекательные
+http://cb163385.amazzin.pw/iptv/MLLNWFWVC3H9YNUQTDBDHZGK/20082/index.m3u8
+#EXTINF:-1 tvg-name="TVM Channel" tvg-logo="https://i.ibb.co/0fcgMk4/resize-2024-10-10-T232628-603.png" group-title="Развлекательные", TVM Channel
+#EXTGRP:Развлекательные
+http://cdn-01.bonus-tv.ru/tvm_edge/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-name="WWW" tvg-logo="https://i.ibb.co/NCkg9WD/resize-2024-10-10-T232407-563.png" group-title="Развлекательные", WWW
+#EXTGRP:Развлекательные
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://hlss.goodgame.ru:8080/hls/192005.m3u8
+#EXTINF:-1 tvg-name="Анекдот ТВ" tvg-logo="https://i.ibb.co/yn9ZmHgG/image-6.png" group-title="Развлекательные", Анекдоты
+#EXTGRP:Развлекательные
+https://fl1001.bozztv.com/ushba81/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Анекдот ТВ" tvg-logo="https://i.ibb.co/1QkpL6y/resize-2024-10-10-T220044-353.png" group-title="Развлекательные", Анекдот ТВ
+#EXTGRP:Развлекательные
+http://46.17.41.254:2020/channel/367cc5ab/index.m3u8?q=c9a4efc12540f7d0eb46417ddc618c8b
+#EXTINF:-1 tvg-name="Арт" tvg-logo="https://i.ibb.co/M23vMkQ/resize-1.png" group-title="Развлекательные", Арт
+#EXTGRP:Развлекательные
+http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/16141/index.m3u8
+#EXTINF:-1 tvg-name="Аппетитный" tvg-logo="https://i.ibb.co/6YvvVQ4/image-26.png" group-title="Развлекательные", Аппетитный
+#EXTGRP:Развлекательные
+http://185.50.148.2:7703/Motorsport/index.m3u8
+#EXTINF:-1 tvg-name="Большой эфир" tvg-logo="https://i.ibb.co/s5MpnCh/resize-2024-10-10-T220309-537.png" group-title="Развлекательные", Большой эфир
+#EXTGRP:Развлекательные
+http://rr2.73mtv.org/~109e1a3c05fcad5b22d13b9453dc0db5122/47720/hls/pl.m3u8
+#EXTINF:-1 tvg-name="Бьюти TV" tvg-logo="https://i.ibb.co/KLHm7G5/image-50.png" group-title="Развлекательные", Бьюти TV
+#EXTGRP:Развлекательные
+http://4je2oiwp.klaipedalt.org/iptv/U5MT6SA5XYW4GS5FHQCYDAD4/16010/index.m3u8
+#EXTINF:-1 tvg-name="Вкусное ТВ HD" tvg-logo="https://i.ibb.co/G9x5zWY/image-51.png" group-title="Развлекательные", Вкусное TV HD
+
+
+#EXTINF:-1 tvg-name="Вопросы и ответы" tvg-logo="https://i.ibb.co/6ybsm3M/resize-2024-10-10-T222708-715.png" group-title="Развлекательные", Вопросы и ответы
+#EXTGRP:Развлекательные
+http://flu.ttk.mx:90/Voprosy_i_otvety/mono.m3u8?token=hs06e
+#EXTINF:-1 tvg-name="Еда" tvg-logo="https://i.ibb.co/7pKFpf9/resize-2024-10-10-T222756-366.png" group-title="Развлекательные", Еда
+#EXTGRP:Развлекательные
+http://newsr1.roshen.live:8080/Wcjhlh6EYd/video.m3u8?token=4h6yHuDsZmJ5HDSD
+#EXTINF:-1 tvg-name="Зал суда HD" tvg-logo="https://i.ibb.co/HrScKYP/resize-2024-10-10-T224019-766.png" group-title="Развлекательные", Зал суда HD
+#EXTGRP:Развлекательные
+http://95.156.76.230:33001/udp/230.4.34.6:1234
+#EXTINF:-1 tvg-name="Здоровое Отечество" tvg-logo="https://i.ibb.co/6H6HBck/image-92.png" group-title="Развлекательные", Здоровое Отечество
+#EXTGRP:Развлекательные
+http://serv25.vintera.tv:8081/temp/zotechestvo/playlist.m3u8
+#EXTINF:-1 tvg-name="Калейдоскоп ТВ" tvg-logo="https://i.ibb.co/3BNmsJH/resize-2024-10-10-T224049-861.png" group-title="Развлекательные", Калейдоскоп ТВ
+#EXTGRP:Развлекательные
+http://serv25.vintera.tv:8081/kaleidoscop/kaleidoscop_sd/playlist.m3u8
+#EXTINF:-1 tvg-id="kvartal-tv" tvg-name="Kvartal TV" tvg-logo="https://i.ibb.co/Lp18Jmz/resize-2024-10-10-T224124-474.png" group-title="Развлекательные", Квартал ТВ
+#EXTGRP:Развлекательные
+http://ott.server-iptv.live/313/video.m3u8?token=M4f082ab4c
+#EXTINF:-1 tvg-name="КВН ТВ" tvg-logo="https://i.ibb.co/crrhs01/image-52.png" group-title="Развлекательные", КВН ТВ
+#EXTGRP:Развлекательные
+http://31.148.48.15/KVN_TV/index.m3u8
+#EXTINF:-1 tvg-name="КВН ТВ" tvg-logo="https://i.ibb.co/crrhs01/image-52.png" group-title="Развлекательные", КВН ТВ 2
+#EXTGRP:Развлекательные
+http://q1k7iyhq.megogo.xyz/iptv/2DRFP4PXP5RHZT/14170/index.m3u8
+#EXTINF:-1 tvg-name="Ключ HD" tvg-logo="https://i.ibb.co/1v2Cvqz/resize-2024-10-10-T225054-961.png" group-title="Развлекательные", Ключ HD
+#EXTGRP:Развлекательные
+http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/20041/index.m3u8
+#EXTINF:-1 tvg-name="Конгресс ТВ HD" tvg-logo="https://i.ibb.co/N2hL3b2/resize-2024-10-10-T225125-994.png" group-title="Развлекательные", Конгресс ТВ HD
+#EXTGRP:Развлекательные
+http://live-3.otcnet.ru/congresstv/index.m3u8
+#EXTINF:-1 tvg-name="Кухня ТВ" tvg-logo="https://i.ibb.co/HgP8Bwj/resize-2024-10-10-T225158-443.png" group-title="Развлекательные", Кухня ТВ
+#EXTGRP:Развлекательные
+http://213.226.137.140:81/tl/l65/index.m3u8
+#EXTINF:-1 tvg-name="Лапки Live" tvg-logo="https://i.ibb.co/g6G99Bf/resize-2024-10-10-T225520-146.png" group-title="Развлекательные", Лапки Live
+#EXTGRP:Развлекательные
+http://91.247.68.229:8000/play/Lapki/index.m3u8
+#EXTINF:-1 tvg-name="Мегаполис HD" tvg-logo="https://i.ibb.co/5RBTXcn/resize-2024-10-10-T225550-521.png" group-title="Развлекательные", Мегаполис HD
+#EXTGRP:Развлекательные
+http://megapolis.iptv2022.com/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Мистер Бин" tvg-logo="https://i.ibb.co/gtbhMP4/resize.png" group-title="Развлекательные", Мистер Бин
+
+
+#EXTINF:-1 tvg-name="Музыка Мода ТВ" tvg-logo="https://i.ibb.co/brYVNvY/image-53.png" group-title="Развлекательные", Музыка Мода ТВ
+
+
+#EXTINF:-1 tvg-name="НАЗАД В 90-е" tvg-logo="https://i.ibb.co/XZxJt7t/resize-2024-10-10-T230112-427.png" group-title="Развлекательные", НАЗАД В 90-е
+#EXTGRP:Развлекательные
+http://q1k7iyhq.megogo.xyz/iptv/2DRFP4PXP5RHZT/11067/index.m3u8
+#EXTINF:-1 tvg-name="Народ видит все" tvg-logo="https://i.ibb.co/H2K7DYX/resize-2024-10-10-T230154-645.png" group-title="Развлекательные", Народ всё видит
+#EXTGRP:Развлекательные
+http://87.99.87.203:2007/channel/n699812e2/index.m3u8?q=c3588a53af791e8f506ef6c3dcdc8be0
+#EXTINF:-1 tvg-name="НИК" tvg-logo="https://i.ibb.co/s6v9DFf/resize-2024-10-02-T093452-875.png" group-title="Развлекательные", Новый игровой канал
+#EXTGRP:Развлекательные
+http://87.99.87.203:2007/channel/30332566/index.m3u8?q=c3588a53af791e8f506ef6c3dcdc8be0
+#EXTINF:-1 tvg-name="Осторожно модерн" tvg-logo="https://i.ibb.co/0tJg3Ry/image-42.png" group-title="Развлекательные", Осторожно модерн
+#EXTGRP:Развлекательные
+https://132544.edgevideo.ru/streams/132544_715410/132544720/index.m3u8
+#EXTINF:-1 tvg-name="Осторожно модерн 2" tvg-logo="https://i.ibb.co/0tJg3Ry/image-42.png" group-title="Развлекательные", Осторожно модерн 2
+#EXTGRP:Развлекательные
+https://132544.edgevideo.ru/streams/132544_702992/132544720/index.m3u8
+#EXTINF:-1 tvg-name="Продвижение" tvg-logo="https://i.ibb.co/s23xWfx/resize-2024-10-10-T230623-621.png" group-title="Развлекательные", Продвижение
+#EXTGRP:Развлекательные
+http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
+#EXTINF:-1 tvg-name="Резонанс" tvg-logo="https://i.ibb.co/gDfsjVG/image-2024-10-15-T085208-806.png" group-title="Развлекательные",Резонанс
+#EXTGRP:Развлекательные
+http://158.101.211.157:2020/channel/389f7e95/index.m3u8?q=fbd037f5f317272809a6470ae115f9fe
+#EXTINF:-1 tvg-name="Родной Канал HD" tvg-logo="https://i.ibb.co/zhyphD7/image-55.png" group-title="Развлекательные", Родной Канал HD
+#EXTGRP:Развлекательные
+http://185.23.80.28:8080/RodnoyKanal/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Русский Корабль" tvg-logo="https://i.ibb.co/CM9BvBY/image-56.png" group-title="Развлекательные", Русский Корабль
+#EXTGRP:Развлекательные
+http://46.17.41.254:2020/channel/n7e9947db/index.m3u8?q=c9a4efc12540f7d0eb46417ddc618c8b
+#EXTINF:-1 tvg-name="Сарафан" tvg-logo="https://i.ibb.co/BqtC1h0/resize-2024-10-02-T093726-017.png" group-title="Развлекательные", Сарафан
+#EXTGRP:Развлекательные
+http://31.210.208.171:8080/sarafan/index.m3u8?token=+W2MSER
+#EXTINF:-1 tvg-name="Тайна" tvg-logo="https://i.ibb.co/yhyyKnL/resize-2024-10-10-T231407-899.png" group-title="Развлекательные", Тайна
+#EXTGRP:Развлекательные
+http://185.23.80.28:8080/Tayna/index.m3u8?token=iptv50na50
+#EXTINF:-1 tvg-name="Танец ТВ" tvg-logo="https://i.ibb.co/ZHdXRdk/image-57.png" group-title="Развлекательные", Танец ТВ
+#EXTGRP:Развлекательные
+https://efirtanectv-hls.cdnvideo.ru/hls/61c641b176face0001223636/1080p.m3u8
+#EXTINF:-1 tvg-name="Танцуй" tvg-logo="https://i.ibb.co/1fzyPNy/image-58.png" group-title="Развлекательные", Танцуй
+#EXTGRP:Развлекательные
+http://109.200.130.123:7537/play/a02l
+#EXTINF:-1 tvg-name="Твое ТВ HD" tvg-logo="https://i.ibb.co/Xt0tfLG/resize-2024-10-10-T231901-677.png" group-title="Развлекательные", Твое ТВ HD
+#EXTGRP:Развлекательные
+http://dmi3y-tv.ru/hls/CH_TVOETVHD.m3u8
+#EXTINF:-1 tvg-name="Твое ТВ Юмор" tvg-logo="https://i.ibb.co/Ny59Wd4/resize-2024-10-10-T231932-770.png" group-title="Развлекательные", Твое ТВ Юмор
+#EXTGRP:Развлекательные
+http://tvoetv.space:8080/tvoetv_humor/index.m3u8
+#EXTINF:-1 tvg-name="Твтур TV" tvg-logo="https://i.ibb.co/mGF8LXB/image-59.png" group-title="Развлекательные", Твтур TV
+
+
+#EXTINF:-1 tvg-name="Театр HD" tvg-logo="https://i.ibb.co/72d9MrR/resize-2024-10-10-T231958-402.png" group-title="Развлекательные", Театр HD
+#EXTGRP:Развлекательные
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://195.26.83.96:7005/play/16/index.m3u8
+#EXTINF:-1 tvg-name="Телеканал Е HD" tvg-logo="https://i.ibb.co/SdfP096/image-60.png" group-title="Развлекательные", Телеканал Е HD
+#EXTGRP:Развлекательные
+http://dmi3y-tv.ru/hls/CH_ETVHD.m3u8
+#EXTINF:-1 tvg-name="Телеканал Народной Музыки" tvg-logo="https://i.ibb.co/TrzQ5HT/resize-2024-10-10-T232243-099.png" group-title="Развлекательные", Телеканал Народной Музыки
+
+
+#EXTINF:-1 tvg-name="Телекафе" tvg-logo="https://i.ibb.co/thvbJqL/resize-2024-10-10-T232309-236.png" group-title="Развлекательные", Телекафе
+#EXTGRP:Развлекательные
+http://dmi3y-tv.ru/hls/CH_TELEKAFE.m3u8
+#EXTINF:-1 tvg-name="Тик Ток" tvg-logo="https://i.ibb.co/17CXMRY/resize-62.png" group-title="Развлекательные", Тик Ток
+#EXTGRP:Развлекательные
+https://rpn3.bozztv.com/dvrfl07/ushba61/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Тик Ток 2" tvg-logo="https://i.ibb.co/17CXMRY/resize-62.png" group-title="Развлекательные", Тик Ток 2
+#EXTGRP:Развлекательные
+https://30a-tv.com/feeds/720p/63.m3u8
+#EXTINF:-1 tvg-name="Точка ТВ" tvg-logo="https://i.ibb.co/N6xbS5Q/resize-2024-10-10-T232337-925.png" group-title="Развлекательные", Точка ТВ
+#EXTGRP:Развлекательные
+http://31.148.48.15/Tochka_TV/index.m3u8
+#EXTINF:-1 tvg-name="Чемодан ТВ" tvg-logo="https://i.ibb.co/T1MYfT9/resize-7.png" group-title="Развлекательные", Чемодан ТВ
+#EXTGRP:Развлекательные
+http://ott.watch/stream/A2Q8BAKW82/399.m3u8
+#EXTINF:-1 tvg-name="Ярмарка TV" tvg-logo="https://i.ibb.co/tCDbmL9/image-62.png" group-title="Развлекательные", Ярмарка TV
+#EXTGRP:Развлекательные
+https://api.alpaca.t62a.com/hls/9104/stream0.m3u8
 
 
 
